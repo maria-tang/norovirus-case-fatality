@@ -1,0 +1,1900 @@
+uid,specimen_date,age,sgss_lab_broad_region,requesting_organisation,genotype,death_date
+1,2023-09-06,49,South,Secondary care,Other,NA
+2,2023-09-07,49,North,Other,GII.4,NA
+3,2022-12-23,59,South,Secondary care,GII.4,2022-12-31
+4,2024-06-28,70,South,Other,GII.17,NA
+5,2024-08-03,87,North,Other,GII.17,NA
+6,2024-06-28,27,South,Unknown,GII.17,NA
+7,2025-03-05,4,South,Secondary care,Unknown,NA
+8,2024-01-05,67,North,Secondary care,GII.4,NA
+9,2023-09-27,0,South,Primary care,GII.4,NA
+10,2022-12-23,59,North,Secondary care,GII.4,2023-01-20
+11,2023-12-20,2,North,Other,Other,NA
+12,2024-12-31,81,Midlands,Secondary care,GII.17,2025-02-02
+13,2022-09-17,66,South,Secondary care,GII.4,NA
+14,2025-03-13,66,South,Secondary care,GII.17,NA
+15,2023-12-29,70,North,Secondary care,GII.4,2024-07-26
+16,2024-04-24,57,South,Secondary care,GII.4,2025-04-17
+17,2024-10-05,33,South,Secondary care,GII.17,NA
+18,2024-05-28,81,North,Other,GII.17,2025-03-22
+19,2022-07-02,0,South,Primary care,Other,NA
+20,2024-02-09,91,North,Other,GII.17,NA
+21,2024-06-26,9,South,Primary care,Unknown,NA
+22,2024-10-03,33,South,Secondary care,GII.4,NA
+23,2024-12-10,25,North,Secondary care,GII.17,NA
+24,2023-12-29,67,South,Secondary care,GII.4,NA
+25,2024-06-15,87,South,Other,Other,NA
+26,2024-06-28,60,South,Primary care,GII.17,NA
+27,2024-04-13,49,South,Primary care,GII.17,NA
+28,2024-01-05,0,South,Unknown,GII.4,NA
+29,2022-11-22,78,North,Other,GII.4,NA
+30,2024-12-19,36,North,Secondary care,GII.17,NA
+31,2022-11-25,89,North,Other,Other,NA
+32,2024-04-30,98,North,Other,GII.17,NA
+33,2023-09-20,6,North,Unknown,Other,NA
+34,2025-02-28,34,Midlands,Secondary care,Other,NA
+35,2024-06-15,3,South,Other,Other,NA
+36,2024-03-01,32,North,Secondary care,GII.17,2024-04-28
+37,2025-01-27,65,North,Secondary care,GII.17,NA
+38,2024-11-06,0,South,Primary care,GII.4,NA
+39,2024-07-18,0,North,Other,GII.17,NA
+40,2024-09-21,6,South,Other,Other,NA
+41,2023-12-28,99,South,Secondary care,GII.4,2024-04-01
+42,2025-01-23,93,North,Secondary care,Other,NA
+43,2022-12-05,4,North,Unknown,Other,NA
+44,2024-12-03,89,North,Secondary care,GII.17,NA
+45,2025-02-05,90,South,Secondary care,GII.4,NA
+46,2022-09-25,2,South,Primary care,Other,NA
+47,2023-10-27,40,South,Secondary care,Other,NA
+48,2024-11-30,66,South,Secondary care,Unknown,NA
+49,2025-02-03,87,North,Other,GII.4,NA
+50,2023-12-08,85,Midlands,Secondary care,GII.4,NA
+51,2024-12-30,88,South,Unknown,GII.4,NA
+52,2025-03-04,60,North,Other,GII.17,NA
+53,2023-01-10,4,South,Secondary care,Other,NA
+54,2023-03-20,63,North,Secondary care,Other,NA
+55,2024-07-04,2,North,Other,GII.17,NA
+56,2022-07-14,87,South,Other,Other,2023-06-03
+57,2025-03-14,84,South,Secondary care,GII.4,2025-08-27
+58,2024-04-05,82,North,Secondary care,GII.17,2025-05-22
+59,2024-10-04,4,South,Primary care,Other,NA
+60,2023-03-20,73,North,Secondary care,GII.4,NA
+61,2023-02-14,80,North,Secondary care,GII.4,2023-03-14
+62,2025-02-03,58,South,Secondary care,Other,NA
+63,2025-02-28,76,North,Other,GII.17,NA
+64,2023-03-10,92,North,Primary care,GII.4,NA
+65,2024-04-17,19,South,Other,Other,NA
+66,2023-11-14,1,North,Other,Unknown,NA
+67,2023-12-15,78,North,Secondary care,GII.4,NA
+68,2023-01-18,98,South,Secondary care,GII.4,2023-06-22
+69,2022-11-10,88,North,Other,GII.4,2023-01-05
+70,2023-03-30,33,South,Secondary care,GII.4,NA
+71,2023-05-30,57,North,Primary care,GII.4,NA
+72,2023-09-28,0,South,Other,Other,NA
+73,2023-10-27,0,North,Other,Other,NA
+74,2024-06-28,70,South,Other,GII.17,NA
+75,2023-02-20,50,South,Secondary care,Unknown,2023-04-16
+76,2022-11-22,94,South,Primary care,Other,NA
+77,2025-02-17,92,North,Secondary care,GII.4,NA
+78,2025-02-15,74,Midlands,Secondary care,GII.4,NA
+79,2022-11-24,85,South,Secondary care,Unknown,2022-12-27
+80,2024-10-11,91,North,Secondary care,Unknown,NA
+81,2023-02-01,52,North,Unknown,Unknown,NA
+82,2022-11-24,92,South,Secondary care,GII.4,2023-02-02
+83,2023-12-30,69,South,Secondary care,GII.4,NA
+84,2025-03-14,66,South,Secondary care,GII.4,NA
+85,2025-02-18,94,North,Secondary care,GII.4,2025-06-23
+86,2024-04-25,93,North,Secondary care,GII.4,NA
+87,2024-02-10,5,North,Other,Other,2024-02-21
+88,2023-02-24,35,North,Other,Other,NA
+89,2022-11-24,61,South,Secondary care,Unknown,NA
+90,2025-01-25,75,South,Secondary care,GII.4,2025-04-01
+91,2025-02-11,78,North,Secondary care,GII.4,NA
+92,2024-05-20,76,South,Secondary care,GII.17,NA
+93,2024-03-26,76,North,Secondary care,GII.17,NA
+94,2025-02-08,82,Midlands,Secondary care,GII.4,NA
+95,2023-03-06,61,North,Other,Other,NA
+96,2023-05-04,96,South,Other,GII.4,NA
+97,2022-07-29,18,South,Secondary care,Other,NA
+98,2024-03-12,87,North,Secondary care,GII.17,2024-06-02
+99,2023-07-10,94,North,Other,Other,2023-07-18
+100,2023-07-14,38,South,Secondary care,Other,NA
+101,2024-10-16,84,Midlands,Secondary care,GII.17,2024-11-15
+102,2024-11-01,1,North,Primary care,Other,NA
+103,2024-12-11,76,North,Secondary care,GII.4,2025-03-25
+104,2024-09-06,81,North,Unknown,Unknown,NA
+105,2024-10-07,61,South,Secondary care,Other,NA
+106,2024-10-23,0,North,Primary care,GII.4,NA
+107,2023-03-14,63,South,Secondary care,GII.17,2023-05-09
+108,2023-06-06,1,North,Primary care,Other,NA
+109,2024-12-23,91,Midlands,Secondary care,GII.17,2025-03-27
+110,2024-04-06,78,North,Secondary care,GII.17,2025-03-28
+111,2024-06-10,83,South,Other,GII.17,NA
+112,2025-01-14,58,Midlands,Secondary care,Unknown,NA
+113,2022-09-19,96,North,Other,GII.4,NA
+114,2024-12-10,53,Midlands,Secondary care,GII.4,NA
+115,2024-04-24,95,South,Secondary care,GII.17,2024-06-06
+116,2025-02-20,94,South,Primary care,GII.4,NA
+117,2022-11-14,76,South,Secondary care,GII.4,2024-05-12
+118,2022-10-21,42,North,Primary care,Other,NA
+119,2024-11-01,86,South,Secondary care,GII.4,NA
+120,2024-12-23,91,South,Secondary care,GII.17,NA
+121,2025-02-19,75,North,Secondary care,GII.4,NA
+122,2023-08-20,1,North,Primary care,Other,NA
+123,2022-08-17,0,North,Primary care,Other,NA
+124,2023-12-30,51,North,Other,GII.4,2024-09-08
+125,2023-06-16,76,South,Secondary care,GII.4,NA
+126,2025-03-04,90,North,Secondary care,GII.17,NA
+127,2024-01-01,82,North,Other,GII.4,2024-03-13
+128,2023-02-05,75,South,Secondary care,GII.4,2024-12-25
+129,2024-05-10,38,North,Other,Other,NA
+130,2024-04-29,97,North,Unknown,Other,2024-06-14
+131,2024-11-06,0,South,Primary care,GII.4,NA
+132,2024-10-03,74,North,Secondary care,GII.17,NA
+133,2025-02-09,94,Midlands,Secondary care,GII.4,2025-03-15
+134,2024-05-10,60,North,Other,GII.17,2024-05-12
+135,2024-07-10,33,South,Secondary care,GII.17,NA
+136,2023-04-07,96,North,Other,Other,NA
+137,2024-10-09,1,North,Unknown,Other,NA
+138,2024-07-29,81,North,Other,GII.17,NA
+139,2024-12-12,63,South,Secondary care,Unknown,NA
+140,2023-09-07,8,North,Primary care,Unknown,NA
+141,2025-01-14,69,North,Other,GII.17,NA
+142,2024-08-17,59,North,Secondary care,GII.17,NA
+143,2022-07-15,64,South,Primary care,Other,NA
+144,2023-09-12,85,North,Other,Other,NA
+145,2023-08-07,44,North,Other,GII.4,NA
+146,2024-07-24,94,North,Other,Other,2024-07-26
+147,2025-02-03,88,North,Secondary care,GII.17,2025-08-16
+148,2024-07-16,1,South,Other,GII.17,NA
+149,2024-12-25,84,Midlands,Secondary care,GII.17,NA
+150,2025-02-14,91,South,Secondary care,GII.4,NA
+151,2023-12-08,90,South,Primary care,GII.4,NA
+152,2023-06-22,68,South,Other,Other,NA
+153,2023-02-13,83,North,Secondary care,GII.4,NA
+154,2024-10-20,75,North,Secondary care,GII.17,2024-10-22
+155,2023-03-21,76,North,Other,GII.4,2023-04-04
+156,2023-02-24,2,North,Primary care,Other,NA
+157,2023-06-22,18,South,Other,Other,NA
+158,2024-12-10,53,Midlands,Secondary care,GII.4,NA
+159,2024-03-30,5,South,Unknown,GII.17,NA
+160,2025-03-09,81,North,Secondary care,GII.17,2025-04-17
+161,2023-01-01,90,North,Secondary care,GII.4,2023-03-16
+162,2023-11-11,5,North,Unknown,GII.17,NA
+163,2023-03-14,63,South,Secondary care,GII.4,NA
+164,2023-11-08,4,North,Primary care,Unknown,NA
+165,2025-02-20,94,South,Other,GII.17,NA
+166,2024-01-28,74,South,Secondary care,GII.4,2024-09-30
+167,2023-02-03,49,North,Unknown,Other,NA
+168,2024-11-11,12,South,Secondary care,Unknown,NA
+169,2024-09-20,80,North,Other,GII.17,NA
+170,2024-05-18,89,Midlands,Secondary care,GII.4,2025-01-07
+171,2023-01-04,85,North,Secondary care,GII.4,2023-08-24
+172,2024-01-12,93,South,Secondary care,GII.4,NA
+173,2024-11-25,82,South,Secondary care,GII.17,NA
+174,2024-12-03,1,South,Primary care,GII.4,NA
+175,2024-03-01,32,North,Secondary care,GII.17,NA
+176,2024-10-14,55,South,Primary care,GII.17,NA
+177,2024-12-17,81,South,Secondary care,GII.17,2025-01-20
+178,2024-06-28,1,South,Primary care,GII.4,NA
+179,2024-09-04,51,South,Secondary care,GII.17,NA
+180,2022-12-19,98,South,Secondary care,GII.4,2024-06-16
+181,2023-07-25,63,South,Secondary care,Other,NA
+182,2023-01-16,75,North,Unknown,Other,NA
+183,2022-11-01,3,South,Secondary care,Other,NA
+184,2024-05-05,93,South,Secondary care,GII.17,NA
+185,2022-08-22,53,South,Secondary care,Other,NA
+186,2025-01-17,86,Midlands,Secondary care,GII.4,2025-03-01
+187,2023-06-16,55,South,Secondary care,Other,NA
+188,2024-03-20,5,South,Other,GII.17,NA
+189,2024-07-12,56,South,Other,GII.17,NA
+190,2024-12-07,77,North,Secondary care,GII.17,NA
+191,2025-01-08,68,North,Secondary care,GII.17,NA
+192,2022-08-30,0,South,Secondary care,Other,NA
+193,2024-02-14,91,Midlands,Secondary care,GII.17,2024-07-21
+194,2024-12-03,31,South,Secondary care,GII.17,NA
+195,2023-12-28,79,North,Secondary care,GII.4,2024-02-12
+196,2024-12-15,1,South,Secondary care,GII.4,NA
+197,2023-01-13,84,South,Secondary care,GII.4,2023-12-14
+198,2023-11-13,5,North,Other,Other,NA
+199,2025-03-28,25,South,Unknown,Other,NA
+200,2024-01-31,77,North,Other,Other,2024-06-28
+201,2024-01-02,57,South,Secondary care,GII.4,NA
+202,2024-07-10,17,South,Other,GII.17,NA
+203,2025-03-05,79,North,Other,GII.17,NA
+204,2024-04-23,95,North,Secondary care,GII.4,NA
+205,2025-02-16,71,Midlands,Secondary care,GII.17,NA
+206,2024-12-03,86,South,Unknown,GII.17,NA
+207,2024-11-15,88,North,Secondary care,GII.17,NA
+208,2024-12-06,69,Midlands,Secondary care,GII.4,NA
+209,2023-02-14,83,North,Secondary care,GII.4,2025-03-05
+210,2025-02-21,19,North,Unknown,Unknown,NA
+211,2024-10-02,44,South,Secondary care,Other,NA
+212,2024-09-06,0,North,Other,GII.4,NA
+213,2023-05-12,2,South,Secondary care,Other,NA
+214,2025-02-09,94,Midlands,Secondary care,GII.4,NA
+215,2024-04-29,98,Midlands,Secondary care,GII.17,NA
+216,2024-03-22,48,North,Unknown,Other,NA
+217,2023-11-11,5,North,Other,GII.4,2024-04-16
+218,2025-02-28,94,North,Other,GII.17,NA
+219,2025-01-15,75,North,Secondary care,GII.17,NA
+220,2023-06-22,26,North,Other,Other,NA
+221,2024-10-03,74,North,Secondary care,GII.17,2024-11-15
+222,2024-06-15,76,South,Secondary care,GII.17,2025-06-14
+223,2025-03-05,4,North,Unknown,Other,NA
+224,2025-02-03,80,North,Unknown,GII.4,NA
+225,2024-12-09,87,Midlands,Secondary care,GII.4,NA
+226,2024-12-13,0,South,Primary care,GII.4,NA
+227,2024-05-06,61,South,Secondary care,GII.17,NA
+228,2022-11-18,0,South,Primary care,GII.4,NA
+229,2024-04-18,87,North,Other,GII.4,2025-03-05
+230,2023-11-20,86,South,Secondary care,GII.4,NA
+231,2022-08-08,38,South,Secondary care,Other,NA
+232,2022-12-01,76,North,Other,GII.4,NA
+233,2023-07-03,2,North,Primary care,Other,NA
+234,2024-12-02,76,South,Unknown,GII.17,NA
+235,2025-03-21,1,South,Secondary care,GII.4,NA
+236,2023-02-08,88,North,Other,GII.4,NA
+237,2024-04-17,80,Midlands,Secondary care,GII.17,2024-11-03
+238,2023-04-05,90,North,Secondary care,GII.4,NA
+239,2023-01-10,87,South,Secondary care,GII.4,2024-06-14
+240,2025-03-14,66,South,Secondary care,GII.4,2025-06-19
+241,2023-11-20,76,South,Primary care,GII.4,2024-05-04
+242,2022-11-24,93,North,Other,GII.4,2024-10-23
+243,2023-02-03,89,North,Other,Other,2023-03-30
+244,2023-08-12,97,South,Secondary care,GII.4,2024-03-20
+245,2022-11-12,91,North,Other,GII.4,2024-06-15
+246,2025-03-13,62,South,Secondary care,Other,NA
+247,2025-01-12,74,Midlands,Secondary care,GII.4,NA
+248,2024-03-22,75,South,Secondary care,GII.17,2024-12-19
+249,2024-12-23,2,South,Secondary care,GII.4,NA
+250,2022-11-14,0,South,Primary care,GII.4,NA
+251,2024-07-18,0,North,Other,GII.17,NA
+252,2022-12-22,4,North,Primary care,Other,NA
+253,2025-02-27,90,South,Secondary care,GII.17,NA
+254,2023-05-30,93,South,Other,Other,NA
+255,2024-09-09,0,North,Other,GII.4,NA
+256,2022-11-25,98,North,Other,Other,2025-07-24
+257,2024-12-04,1,South,Primary care,GII.4,NA
+258,2024-12-05,91,South,Secondary care,GII.17,NA
+259,2022-10-19,64,North,Other,GII.4,NA
+260,2024-05-14,1,North,Primary care,GII.4,NA
+261,2025-02-28,90,South,Secondary care,GII.4,NA
+262,2023-01-26,93,North,Other,GII.4,2023-04-16
+263,2023-11-02,84,North,Other,Other,NA
+264,2024-04-24,22,North,Other,GII.17,NA
+265,2024-01-06,42,North,Secondary care,GII.4,NA
+266,2025-02-17,63,North,Secondary care,Other,NA
+267,2024-12-05,78,South,Secondary care,GII.4,NA
+268,2024-12-26,40,North,Secondary care,GII.17,NA
+269,2025-01-27,79,South,Secondary care,GII.4,NA
+270,2024-03-01,93,North,Secondary care,GII.17,2024-05-18
+271,2023-08-09,61,North,Other,GII.4,NA
+272,2022-09-14,1,South,Secondary care,Other,NA
+273,2023-01-29,85,North,Primary care,Other,NA
+274,2025-02-23,19,South,Unknown,GII.17,NA
+275,2025-03-19,81,North,Secondary care,GII.17,2025-04-03
+276,2024-03-23,79,North,Other,GII.17,NA
+277,2022-09-17,91,North,Other,Other,2023-08-18
+278,2023-12-29,67,North,Secondary care,GII.4,NA
+279,2022-09-14,8,North,Primary care,Other,NA
+280,2024-07-03,72,North,Other,GII.17,NA
+281,2024-12-31,77,Midlands,Secondary care,GII.17,2025-04-04
+282,2023-06-20,4,North,Primary care,GII.4,NA
+283,2023-03-08,61,South,Secondary care,GII.4,NA
+284,2023-03-17,60,South,Secondary care,GII.4,NA
+285,2022-08-22,0,South,Other,Other,NA
+286,2024-10-18,2,North,Primary care,Other,NA
+287,2024-03-26,81,North,Secondary care,GII.17,NA
+288,2025-01-10,77,North,Other,GII.17,NA
+289,2024-04-07,88,North,Secondary care,GII.17,NA
+290,2023-06-16,38,North,Secondary care,Other,2024-07-20
+291,2023-10-26,1,South,Other,Unknown,NA
+292,2024-04-23,65,North,Secondary care,GII.4,NA
+293,2023-01-01,74,North,Unknown,Other,NA
+294,2024-09-27,44,South,Secondary care,GII.17,NA
+295,2023-11-12,1,South,Secondary care,Unknown,NA
+296,2025-01-14,69,South,Other,GII.4,NA
+297,2024-05-16,86,South,Primary care,GII.4,2024-09-10
+298,2024-10-08,85,South,Primary care,GII.4,NA
+299,2024-09-20,94,North,Other,GII.17,NA
+300,2023-06-01,84,South,Secondary care,Unknown,2024-07-17
+301,2023-12-28,78,North,Secondary care,GII.4,NA
+302,2023-06-06,1,South,Other,GII.4,NA
+303,2025-01-07,80,South,Other,GII.4,NA
+304,2025-02-15,81,South,Secondary care,GII.4,NA
+305,2025-02-07,82,North,Secondary care,GII.17,NA
+306,2024-03-04,87,North,Secondary care,GII.17,NA
+307,2024-04-17,79,North,Secondary care,GII.4,NA
+308,2022-11-22,94,North,Other,GII.4,2022-12-17
+309,2023-04-07,96,North,Other,GII.4,2024-02-23
+310,2024-09-17,2,South,Primary care,GII.17,NA
+311,2023-04-04,90,North,Unknown,GII.4,2023-11-03
+312,2025-02-11,18,North,Unknown,GII.4,NA
+313,2025-01-14,79,North,Other,GII.17,NA
+314,2024-06-22,85,Midlands,Secondary care,GII.4,NA
+315,2024-12-11,74,North,Secondary care,GII.4,NA
+316,2024-12-19,82,North,Other,GII.17,NA
+317,2024-11-27,84,South,Secondary care,GII.17,NA
+318,2023-03-05,76,South,Primary care,GII.4,NA
+319,2022-09-16,81,North,Other,Other,NA
+320,2022-12-25,94,North,Other,GII.4,2023-01-22
+321,2024-11-02,3,South,Secondary care,Unknown,NA
+322,2024-09-06,84,North,Other,Other,NA
+323,2023-02-14,87,North,Other,GII.4,NA
+324,2025-03-23,70,South,Secondary care,GII.17,NA
+325,2024-12-09,88,Midlands,Secondary care,GII.4,NA
+326,2024-04-04,82,North,Secondary care,Other,NA
+327,2022-11-15,76,North,Other,GII.4,NA
+328,2024-04-07,77,North,Secondary care,GII.17,NA
+329,2025-01-15,90,Midlands,Secondary care,GII.4,NA
+330,2025-03-12,86,North,Other,GII.17,NA
+331,2022-10-08,15,South,Other,Other,NA
+332,2023-02-02,52,North,Unknown,GII.4,NA
+333,2023-12-12,85,North,Other,Unknown,2024-02-23
+334,2024-07-18,1,South,Other,Other,NA
+335,2023-10-23,73,South,Secondary care,GII.4,2024-05-24
+336,2025-02-01,75,North,Secondary care,GII.4,2025-05-09
+337,2023-06-08,2,North,Unknown,Other,NA
+338,2025-02-05,75,North,Secondary care,GII.17,2025-03-12
+339,2023-11-12,0,North,Other,Other,NA
+340,2025-02-20,92,South,Secondary care,GII.4,2025-05-21
+341,2023-11-07,1,South,Secondary care,Other,NA
+342,2024-05-18,89,South,Primary care,GII.4,2024-12-30
+343,2025-02-01,72,North,Other,GII.17,NA
+344,2024-11-26,9,South,Secondary care,Other,NA
+345,2022-10-22,0,South,Secondary care,Other,NA
+346,2025-01-23,81,Midlands,Secondary care,GII.17,NA
+347,2024-11-12,94,North,Secondary care,GII.17,NA
+348,2023-11-01,1,North,Primary care,Other,NA
+349,2024-08-20,97,North,Other,GII.17,NA
+350,2023-11-02,40,North,Other,Unknown,NA
+351,2023-08-21,9,North,Primary care,Unknown,NA
+352,2024-10-24,0,South,Primary care,GII.4,NA
+353,2023-12-04,91,Midlands,Secondary care,GII.4,NA
+354,2023-06-04,66,South,Secondary care,Other,NA
+355,2023-11-14,86,North,Other,Other,NA
+356,2024-11-12,1,South,Primary care,GII.4,NA
+357,2024-12-17,53,South,Secondary care,GII.17,NA
+358,2022-09-17,93,North,Other,GII.17,2024-04-20
+359,2024-10-18,1,South,Primary care,GII.4,NA
+360,2023-04-18,8,South,Other,GII.4,NA
+361,2024-12-02,47,South,Secondary care,GII.17,NA
+362,2023-10-14,93,North,Other,Other,NA
+363,2024-12-06,69,North,Secondary care,GII.17,NA
+364,2024-05-03,31,South,Other,GII.17,NA
+365,2025-02-01,2,North,Secondary care,GII.4,NA
+366,2024-12-14,100,South,Secondary care,GII.17,2024-12-26
+367,2023-10-31,0,North,Other,Other,NA
+368,2024-09-04,25,South,Secondary care,Other,NA
+369,2022-12-06,72,North,Other,GII.4,NA
+370,2024-07-15,1,South,Other,GII.17,NA
+371,2022-12-08,35,North,Other,Other,NA
+372,2022-09-11,1,South,Primary care,GII.4,NA
+373,2024-03-26,80,North,Other,GII.17,NA
+374,2023-02-10,1,South,Secondary care,GII.4,NA
+375,2022-11-30,35,South,Secondary care,GII.4,NA
+376,2024-10-23,0,North,Primary care,GII.4,NA
+377,2023-03-18,2,South,Primary care,Other,NA
+378,2025-01-21,85,South,Secondary care,GII.4,2025-02-12
+379,2023-03-10,66,North,Other,GII.4,NA
+380,2023-03-25,79,North,Other,GII.4,NA
+381,2023-12-04,15,North,Unknown,Other,NA
+382,2023-10-18,3,North,Other,Other,NA
+383,2025-02-13,72,North,Secondary care,GII.17,NA
+384,2024-06-28,0,North,Primary care,Other,NA
+385,2024-09-23,56,South,Secondary care,GII.17,NA
+386,2024-07-24,94,Midlands,Secondary care,GII.4,2024-08-24
+387,2023-05-22,4,North,Primary care,Other,NA
+388,2022-08-01,3,South,Secondary care,Other,NA
+389,2024-03-14,90,North,Other,GII.17,NA
+390,2023-02-13,2,South,Secondary care,GII.4,NA
+391,2023-11-17,88,North,Other,Other,NA
+392,2024-09-23,80,North,Other,Other,NA
+393,2024-03-23,81,North,Secondary care,GII.4,NA
+394,2024-03-15,2,South,Unknown,Other,NA
+395,2024-07-06,1,South,Other,GII.17,NA
+396,2025-01-05,88,South,Secondary care,GII.17,2025-06-12
+397,2024-04-30,48,North,Secondary care,GII.17,NA
+398,2024-12-20,90,South,Secondary care,GII.17,2025-01-23
+399,2022-12-16,84,North,Other,Other,NA
+400,2024-11-19,86,North,Secondary care,GII.17,2024-11-21
+401,2025-01-19,5,North,Unknown,Other,NA
+402,2023-06-16,83,North,Other,Other,2023-08-07
+403,2024-05-28,90,North,Other,GII.17,2024-12-24
+404,2023-08-18,61,South,Other,Other,NA
+405,2024-07-10,1,South,Other,GII.17,NA
+406,2024-01-31,87,South,Secondary care,GII.4,NA
+407,2024-12-29,78,Midlands,Secondary care,GII.17,NA
+408,2024-12-04,92,North,Secondary care,GII.4,NA
+409,2024-06-17,3,South,Unknown,Unknown,NA
+410,2022-12-07,89,North,Other,Other,2024-06-04
+411,2025-01-02,81,North,Other,GII.17,NA
+412,2023-02-14,71,North,Secondary care,GII.4,NA
+413,2025-03-09,92,North,Other,GII.4,NA
+414,2024-12-29,79,South,Unknown,GII.4,NA
+415,2024-06-28,87,North,Secondary care,GII.4,NA
+416,2023-09-22,39,South,Primary care,Other,NA
+417,2023-03-03,71,South,Secondary care,GII.4,NA
+418,2023-01-24,95,South,Primary care,GII.4,NA
+419,2025-01-17,88,Midlands,Secondary care,GII.4,NA
+420,2022-11-28,56,South,Secondary care,Other,NA
+421,2023-01-04,73,North,Unknown,GII.4,NA
+422,2022-08-01,37,North,Other,Other,NA
+423,2024-11-02,2,South,Secondary care,GII.4,NA
+424,2023-03-14,4,South,Secondary care,GII.4,NA
+425,2025-03-23,97,South,Secondary care,GII.4,NA
+426,2024-03-28,83,North,Other,Other,NA
+427,2025-02-28,88,North,Other,GII.17,NA
+428,2024-09-04,49,South,Primary care,GII.17,2025-01-25
+429,2024-07-04,72,North,Other,GII.17,NA
+430,2023-01-06,87,South,Secondary care,GII.4,2023-01-14
+431,2023-12-20,64,South,Primary care,GII.4,NA
+432,2024-04-22,86,North,Secondary care,GII.4,NA
+433,2024-01-21,85,South,Secondary care,GII.4,NA
+434,2023-03-20,85,North,Primary care,GII.4,NA
+435,2023-03-28,87,North,Other,Other,2023-03-29
+436,2024-05-17,66,North,Secondary care,GII.17,NA
+437,2024-04-03,78,North,Primary care,Other,NA
+438,2025-02-11,62,South,Unknown,Other,NA
+439,2022-08-05,10,South,Other,Other,NA
+440,2024-11-19,84,North,Secondary care,GII.17,NA
+441,2024-02-08,0,North,Primary care,GII.4,NA
+442,2024-02-10,81,North,Other,GII.17,NA
+443,2025-01-19,5,North,Unknown,GII.17,NA
+444,2024-04-04,23,South,Primary care,Other,NA
+445,2022-12-16,84,North,Other,GII.4,NA
+446,2023-12-04,78,South,Secondary care,GII.4,NA
+447,2024-09-21,6,North,Other,Other,NA
+448,2022-10-21,58,South,Secondary care,Other,NA
+449,2023-11-06,35,South,Secondary care,Other,NA
+450,2024-04-22,85,North,Secondary care,GII.4,NA
+451,2025-01-08,61,Midlands,Secondary care,GII.4,NA
+452,2024-06-12,83,South,Other,GII.17,NA
+453,2023-12-20,64,South,Secondary care,Other,NA
+454,2024-12-02,72,South,Secondary care,GII.4,NA
+455,2024-01-05,91,North,Primary care,GII.4,2024-02-20
+456,2024-04-12,84,North,Secondary care,GII.17,NA
+457,2024-08-08,2,South,Primary care,Other,NA
+458,2025-03-25,97,South,Secondary care,GII.4,NA
+459,2025-03-15,72,South,Secondary care,GII.4,NA
+460,2023-10-14,93,North,Other,Other,2024-12-14
+461,2024-10-02,65,South,Primary care,Other,NA
+462,2024-12-31,72,North,Secondary care,GII.17,NA
+463,2024-12-20,38,North,Other,Unknown,NA
+464,2025-01-31,62,Midlands,Unknown,GII.17,NA
+465,2023-12-13,0,North,Other,Other,NA
+466,2025-01-15,57,Midlands,Secondary care,Other,NA
+467,2023-02-20,1,North,Primary care,Other,NA
+468,2023-08-07,33,North,Other,Other,NA
+469,2024-12-17,45,South,Secondary care,GII.17,NA
+470,2024-12-04,73,North,Secondary care,GII.17,NA
+471,2022-08-31,28,South,Primary care,Other,NA
+472,2022-08-17,81,North,Other,Other,2023-11-03
+473,2024-01-05,72,South,Secondary care,GII.4,NA
+474,2024-05-17,54,North,Other,GII.17,NA
+475,2024-05-25,78,North,Other,GII.17,NA
+476,2023-12-04,60,South,Secondary care,GII.4,NA
+477,2024-04-30,0,North,Unknown,Other,NA
+478,2023-03-20,63,South,Secondary care,GII.4,2023-03-22
+479,2024-10-08,92,South,Primary care,GII.17,NA
+480,2023-06-05,0,South,Other,GII.4,NA
+481,2023-01-28,93,North,Other,GII.4,NA
+482,2025-01-20,5,North,Unknown,Other,NA
+483,2023-05-01,80,North,Secondary care,GII.4,NA
+484,2024-10-18,0,North,Primary care,GII.4,NA
+485,2023-11-15,37,South,Secondary care,GII.4,NA
+486,2023-11-19,62,South,Other,GII.4,NA
+487,2023-09-22,90,North,Other,Other,2024-03-17
+488,2025-03-17,63,South,Secondary care,Other,NA
+489,2024-11-26,9,South,Secondary care,GII.4,NA
+490,2023-03-29,33,South,Secondary care,GII.4,2024-03-27
+491,2024-03-17,85,North,Secondary care,GII.17,2025-07-29
+492,2024-10-04,96,South,Primary care,GII.17,NA
+493,2025-02-15,77,North,Secondary care,GII.4,NA
+494,2023-12-14,87,North,Other,Other,NA
+495,2024-10-29,2,South,Primary care,Other,NA
+496,2023-11-28,43,South,Primary care,GII.17,NA
+497,2025-02-13,85,North,Other,GII.17,2025-02-19
+498,2024-10-10,1,South,Primary care,GII.4,NA
+499,2023-02-14,85,North,Secondary care,GII.4,2023-03-17
+500,2023-08-15,3,North,Unknown,Other,NA
+501,2023-11-06,1,North,Other,GII.4,NA
+502,2024-05-17,64,South,Secondary care,GII.4,NA
+503,2025-01-04,5,North,Unknown,Other,NA
+504,2023-06-12,61,South,Secondary care,Unknown,2023-11-02
+505,2025-01-31,79,North,Secondary care,GII.17,2025-07-16
+506,2024-04-16,87,North,Other,GII.17,NA
+507,2024-09-09,1,South,Primary care,GII.4,NA
+508,2023-06-22,61,South,Other,Other,NA
+509,2023-02-05,75,South,Secondary care,GII.4,NA
+510,2025-02-26,90,North,Secondary care,GII.4,2025-03-23
+511,2025-03-19,89,North,Secondary care,GII.17,2025-04-05
+512,2024-08-08,74,North,Other,GII.17,NA
+513,2024-12-27,85,South,Secondary care,GII.17,NA
+514,2024-04-06,49,South,Unknown,GII.17,NA
+515,2023-01-31,85,South,Secondary care,GII.4,NA
+516,2024-03-19,87,North,Secondary care,GII.17,2024-04-14
+517,2024-09-24,1,South,Primary care,GII.4,NA
+518,2024-10-04,96,North,Secondary care,Other,2025-07-07
+519,2025-02-09,18,South,Unknown,Unknown,NA
+520,2023-06-06,2,North,Primary care,Other,NA
+521,2023-07-03,8,North,Primary care,Unknown,NA
+522,2023-02-05,81,South,Other,GII.4,NA
+523,2024-11-19,13,South,Secondary care,Other,NA
+524,2024-09-12,75,North,Secondary care,GII.17,NA
+525,2023-11-10,3,North,Other,Unknown,NA
+526,2024-09-27,29,South,Secondary care,GII.17,NA
+527,2023-12-28,79,North,Secondary care,GII.4,2024-06-11
+528,2024-01-11,49,North,Secondary care,GII.4,2024-01-19
+529,2024-01-28,87,South,Secondary care,GII.4,2024-01-30
+530,2023-07-06,94,North,Secondary care,GII.17,2023-08-06
+531,2023-01-01,93,North,Unknown,GII.4,2023-06-05
+532,2023-12-28,79,North,Secondary care,GII.4,2024-09-24
+533,2024-09-04,14,South,Other,Other,NA
+534,2024-04-10,6,South,Other,Other,NA
+535,2023-02-20,0,North,Primary care,Other,NA
+536,2022-10-21,42,South,Primary care,Other,NA
+537,2024-09-09,0,North,Other,GII.4,NA
+538,2025-01-16,64,South,Secondary care,Other,NA
+539,2025-02-27,5,South,Unknown,Other,NA
+540,2023-08-07,56,South,Other,Other,NA
+541,2024-10-20,1,South,Secondary care,GII.17,NA
+542,2023-11-13,1,North,Other,Unknown,NA
+543,2024-10-07,70,South,Primary care,Other,NA
+544,2025-01-14,49,South,Secondary care,GII.17,NA
+545,2024-11-05,41,South,Secondary care,GII.17,NA
+546,2023-03-05,78,North,Other,GII.4,2024-03-03
+547,2023-12-24,36,North,Other,Other,NA
+548,2023-09-29,0,North,Other,Other,NA
+549,2024-10-02,46,South,Primary care,GII.17,NA
+550,2024-10-02,46,South,Secondary care,Other,NA
+551,2023-01-06,87,North,Secondary care,GII.4,2023-03-27
+552,2025-01-16,93,South,Secondary care,GII.17,NA
+553,2024-07-11,4,South,Other,GII.17,NA
+554,2023-11-20,88,Midlands,Secondary care,Unknown,2023-12-31
+555,2024-01-02,79,North,Other,GII.4,NA
+556,2024-11-26,68,South,Secondary care,GII.17,NA
+557,2024-10-20,75,South,Other,Other,NA
+558,2023-10-27,95,North,Other,Other,NA
+559,2022-11-21,70,South,Primary care,GII.4,NA
+560,2024-12-28,75,South,Unknown,GII.4,NA
+561,2024-12-12,63,South,Secondary care,GII.17,NA
+562,2024-06-06,57,South,Secondary care,GII.17,NA
+563,2023-03-18,71,North,Secondary care,GII.4,2023-04-20
+564,2024-04-06,76,North,Secondary care,GII.17,2024-11-02
+565,2024-11-15,90,North,Secondary care,GII.17,2025-03-20
+566,2024-12-13,100,North,Secondary care,GII.17,2024-12-20
+567,2022-11-10,94,North,Other,Other,2023-03-04
+568,2024-12-02,60,South,Secondary care,GII.17,NA
+569,2024-12-14,100,Midlands,Secondary care,GII.4,NA
+570,2024-02-10,2,North,Other,Other,NA
+571,2024-11-19,13,South,Secondary care,Other,NA
+572,2025-01-04,81,North,Other,GII.4,NA
+573,2023-06-03,99,South,Other,GII.4,NA
+574,2024-01-17,83,South,Secondary care,GII.4,2025-01-23
+575,2024-07-11,0,South,Other,GII.17,NA
+576,2024-04-10,59,South,Secondary care,GII.4,NA
+577,2024-07-12,21,South,Secondary care,GII.17,NA
+578,2023-12-29,91,North,Secondary care,GII.4,2024-04-19
+579,2024-09-25,30,South,Primary care,Other,NA
+580,2024-04-12,51,South,Other,GII.17,NA
+581,2024-12-30,60,South,Unknown,GII.4,NA
+582,2022-11-25,85,South,Secondary care,Unknown,NA
+583,2023-07-25,1,North,Primary care,Unknown,NA
+584,2024-12-29,79,Midlands,Secondary care,GII.17,NA
+585,2024-03-29,87,North,Secondary care,GII.17,NA
+586,2024-12-05,96,Midlands,Primary care,GII.17,NA
+587,2024-10-16,89,Midlands,Secondary care,Other,NA
+588,2025-02-21,90,South,Secondary care,GII.4,2025-05-18
+589,2024-02-08,91,North,Other,Other,NA
+590,2022-11-11,91,North,Other,GII.4,2023-01-06
+591,2024-12-10,25,North,Secondary care,Other,NA
+592,2023-06-04,56,South,Secondary care,Other,NA
+593,2023-07-07,91,South,Secondary care,GII.17,2024-01-18
+594,2023-08-05,39,North,Other,Other,NA
+595,2025-01-04,91,South,Secondary care,GII.17,NA
+596,2025-03-16,72,North,Secondary care,GII.17,NA
+597,2025-01-25,2,North,Unknown,Other,NA
+598,2023-08-03,29,South,Secondary care,Other,NA
+599,2024-12-10,76,North,Secondary care,GII.4,NA
+600,2023-12-29,67,North,Secondary care,GII.4,NA
+601,2024-07-17,0,North,Other,GII.17,NA
+602,2023-06-29,2,North,Primary care,Other,NA
+603,2023-02-09,26,South,Secondary care,GII.4,NA
+604,2024-10-18,3,South,Secondary care,GII.4,NA
+605,2024-03-20,87,North,Secondary care,GII.4,2024-10-16
+606,2022-10-21,42,South,Primary care,GII.4,NA
+607,2024-04-17,84,North,Other,GII.4,NA
+608,2023-12-31,51,North,Other,Other,NA
+609,2022-07-08,0,South,Secondary care,GII.4,NA
+610,2024-05-18,55,South,Other,GII.17,NA
+611,2025-01-12,72,South,Secondary care,GII.4,NA
+612,2023-11-19,0,North,Unknown,Other,NA
+613,2024-03-12,54,South,Secondary care,GII.17,2024-03-19
+614,2024-07-17,0,North,Other,GII.17,NA
+615,2023-02-01,52,South,Secondary care,Other,NA
+616,2023-02-19,83,North,Secondary care,GII.4,NA
+617,2024-11-30,82,North,Other,GII.17,2024-12-20
+618,2025-03-04,77,North,Other,GII.17,NA
+619,2024-03-29,71,North,Secondary care,GII.17,NA
+620,2025-01-31,3,North,Secondary care,Other,NA
+621,2025-02-20,91,South,Secondary care,GII.4,NA
+622,2024-03-15,22,South,Unknown,Other,NA
+623,2025-01-15,92,Midlands,Secondary care,GII.17,NA
+624,2023-02-20,0,North,Primary care,GII.4,NA
+625,2024-06-22,81,Midlands,Secondary care,GII.4,NA
+626,2025-01-08,91,Midlands,Secondary care,GII.4,NA
+627,2024-04-25,90,North,Secondary care,GII.4,NA
+628,2025-02-01,84,Midlands,Secondary care,GII.4,NA
+629,2022-09-18,48,South,Secondary care,Other,NA
+630,2024-12-12,63,North,Secondary care,GII.4,NA
+631,2024-06-26,0,South,Primary care,GII.17,NA
+632,2025-02-18,86,North,Secondary care,GII.4,NA
+633,2024-06-13,60,South,Primary care,Other,NA
+634,2024-01-31,87,North,Other,GII.4,2024-06-26
+635,2023-08-22,85,South,Other,Other,2023-11-03
+636,2025-01-31,48,North,Secondary care,GII.17,NA
+637,2025-01-28,79,Midlands,Secondary care,GII.4,NA
+638,2023-01-06,75,North,Unknown,GII.4,NA
+639,2023-11-12,93,North,Other,Other,NA
+640,2023-05-01,76,South,Primary care,GII.4,2023-05-13
+641,2024-12-12,77,Midlands,Secondary care,GII.4,NA
+642,2025-02-13,24,North,Primary care,GII.17,NA
+643,2022-10-28,3,South,Secondary care,Unknown,NA
+644,2024-01-12,89,North,Secondary care,GII.4,NA
+645,2023-12-24,36,South,Primary care,Other,NA
+646,2023-12-24,90,North,Secondary care,Unknown,NA
+647,2024-07-18,2,South,Other,GII.17,NA
+648,2023-04-04,92,South,Other,GII.4,NA
+649,2023-02-21,0,South,Primary care,GII.4,NA
+650,2024-12-31,77,North,Other,GII.17,NA
+651,2023-03-23,66,South,Secondary care,GII.4,2023-03-24
+652,2022-11-24,53,South,Secondary care,Unknown,2023-01-01
+653,2023-03-19,71,North,Secondary care,GII.4,2024-01-20
+654,2022-12-06,4,South,Primary care,Other,NA
+655,2023-01-18,82,North,Secondary care,GII.4,2023-12-18
+656,2023-04-26,80,South,Other,Other,NA
+657,2023-12-31,61,North,Other,GII.4,NA
+658,2024-12-13,0,South,Primary care,GII.4,NA
+659,2022-11-08,0,South,Secondary care,Other,NA
+660,2022-11-22,93,South,Primary care,Other,NA
+661,2023-11-25,88,Midlands,Primary care,GII.4,NA
+662,2024-04-30,49,North,Other,GII.17,2024-07-12
+663,2024-01-03,7,North,Unknown,GII.4,NA
+664,2024-12-29,96,North,Secondary care,GII.17,NA
+665,2025-02-09,62,North,Unknown,Other,NA
+666,2024-11-27,83,South,Secondary care,GII.17,NA
+667,2022-12-05,88,North,Other,GII.4,NA
+668,2024-04-18,79,North,Secondary care,GII.4,NA
+669,2025-02-21,6,North,Unknown,Other,NA
+670,2024-09-27,39,South,Secondary care,Other,NA
+671,2024-11-01,1,North,Secondary care,Unknown,NA
+672,2023-08-14,97,North,Other,Other,2024-09-15
+673,2023-12-03,87,Midlands,Secondary care,GII.4,NA
+674,2023-07-17,0,South,Secondary care,Other,NA
+675,2024-11-26,84,South,Secondary care,GII.17,2025-01-26
+676,2024-03-26,81,North,Secondary care,GII.17,2024-03-29
+677,2023-11-14,5,North,Other,Unknown,NA
+678,2024-05-14,62,South,Primary care,GII.4,NA
+679,2024-07-28,15,South,Other,GII.17,NA
+680,2024-06-24,0,North,Other,Unknown,NA
+681,2024-02-22,69,South,Secondary care,GII.17,2024-09-14
+682,2022-08-01,0,South,Other,Other,NA
+683,2022-07-15,66,North,Secondary care,GII.4,NA
+684,2024-03-22,35,North,Unknown,Other,NA
+685,2025-01-11,76,South,Secondary care,GII.4,NA
+686,2024-03-22,16,South,Primary care,Other,NA
+687,2024-03-29,87,North,Secondary care,GII.17,2024-06-10
+688,2025-02-19,67,South,Secondary care,GII.4,2025-04-01
+689,2025-03-03,7,North,Secondary care,Other,NA
+690,2023-09-29,84,North,Other,Other,NA
+691,2023-06-06,3,North,Primary care,GII.4,NA
+692,2023-01-17,1,South,Secondary care,GII.4,NA
+693,2023-02-11,79,North,Secondary care,GII.4,2023-04-07
+694,2024-12-09,87,Midlands,Secondary care,GII.4,NA
+695,2023-03-14,32,South,Secondary care,GII.4,2023-08-07
+696,2025-03-08,14,South,Secondary care,Unknown,NA
+697,2024-11-30,67,South,Secondary care,GII.17,NA
+698,2024-05-15,64,South,Secondary care,GII.17,2024-05-29
+699,2024-01-18,85,South,Secondary care,GII.4,NA
+700,2024-07-28,86,South,Unknown,GII.4,NA
+701,2024-09-04,25,North,Secondary care,Other,NA
+702,2023-04-19,6,North,Unknown,Other,NA
+703,2023-02-03,91,South,Primary care,GII.4,NA
+704,2023-06-13,38,North,Primary care,Other,2023-12-30
+705,2024-12-14,0,South,Secondary care,Unknown,NA
+706,2023-03-31,54,South,Secondary care,Unknown,NA
+707,2025-03-14,71,South,Secondary care,GII.4,NA
+708,2023-02-18,42,South,Secondary care,Other,NA
+709,2025-02-09,89,Midlands,Secondary care,GII.17,2025-03-14
+710,2025-01-15,87,North,Secondary care,GII.17,NA
+711,2022-08-11,28,North,Secondary care,Other,NA
+712,2024-03-06,79,North,Secondary care,GII.17,2024-12-31
+713,2023-06-04,66,South,Secondary care,GII.4,NA
+714,2022-12-16,49,South,Secondary care,Other,NA
+715,2025-02-14,82,North,Secondary care,GII.4,NA
+716,2022-12-14,76,North,Other,GII.4,2023-01-22
+717,2024-01-21,94,South,Secondary care,GII.4,2025-02-13
+718,2023-06-04,56,South,Secondary care,GII.4,NA
+719,2024-10-02,44,South,Secondary care,GII.17,NA
+720,2024-04-23,85,South,Secondary care,GII.4,NA
+721,2025-01-12,70,South,Secondary care,GII.4,NA
+722,2023-12-20,2,North,Other,Other,NA
+723,2023-01-05,79,North,Other,GII.4,2024-01-04
+724,2023-01-23,88,North,Other,GII.4,2024-11-25
+725,2023-02-24,98,North,Other,GII.4,NA
+726,2024-12-15,4,North,Unknown,Other,NA
+727,2024-03-13,90,North,Other,GII.17,2024-08-07
+728,2022-07-08,64,North,Secondary care,Other,2023-05-11
+729,2025-02-24,5,North,Unknown,GII.17,NA
+730,2024-01-21,94,North,Other,Other,NA
+731,2023-06-11,2,North,Primary care,Other,NA
+732,2024-09-25,1,South,Primary care,GII.4,NA
+733,2024-04-16,80,North,Other,GII.4,NA
+734,2024-10-23,68,North,Other,GII.17,NA
+735,2023-02-14,81,North,Other,GII.4,NA
+736,2024-01-23,0,South,Secondary care,Other,NA
+737,2024-06-28,70,South,Other,GII.17,NA
+738,2022-08-01,37,South,Secondary care,Other,NA
+739,2024-12-04,67,South,Secondary care,GII.17,NA
+740,2022-11-14,0,South,Primary care,GII.4,NA
+741,2024-11-22,6,South,Primary care,GII.17,NA
+742,2023-01-22,95,South,Secondary care,GII.4,NA
+743,2023-02-18,0,South,Secondary care,Other,NA
+744,2025-02-14,97,South,Secondary care,GII.4,NA
+745,2023-05-06,2,North,Other,Other,NA
+746,2024-10-18,1,South,Primary care,GII.4,NA
+747,2023-01-05,75,South,Secondary care,GII.4,2023-02-12
+748,2025-01-08,89,North,Secondary care,GII.17,NA
+749,2024-02-22,74,Midlands,Secondary care,GII.17,NA
+750,2023-06-27,61,South,Primary care,Other,NA
+751,2025-01-21,85,Midlands,Secondary care,GII.4,NA
+752,2024-11-25,76,South,Secondary care,GII.4,NA
+753,2025-01-31,62,South,Secondary care,GII.17,NA
+754,2024-03-14,34,South,Other,GII.17,NA
+755,2023-09-16,22,North,Unknown,Other,NA
+756,2023-06-01,57,South,Secondary care,Unknown,NA
+757,2024-03-30,58,North,Secondary care,GII.17,NA
+758,2024-01-03,67,North,Other,GII.4,NA
+759,2025-03-07,27,North,Other,GII.17,NA
+760,2023-01-28,85,North,Other,GII.4,NA
+761,2022-12-14,38,North,Other,Other,NA
+762,2023-11-22,91,South,Primary care,GII.4,2024-12-15
+763,2023-09-19,49,South,Primary care,Other,NA
+764,2024-04-21,79,North,Secondary care,GII.4,NA
+765,2023-11-21,0,South,Secondary care,Unknown,NA
+766,2023-03-08,61,North,Other,GII.4,NA
+767,2024-07-18,0,North,Other,GII.17,NA
+768,2023-08-09,56,South,Other,Other,NA
+769,2023-02-13,81,North,Secondary care,GII.4,2024-10-29
+770,2022-07-03,0,North,Primary care,Other,NA
+771,2025-02-17,89,Midlands,Secondary care,GII.4,NA
+772,2023-08-09,61,South,Other,Other,2023-08-22
+773,2024-09-20,76,North,Other,GII.17,NA
+774,2023-11-06,1,North,Other,Other,NA
+775,2023-06-06,78,South,Primary care,Other,2023-09-27
+776,2024-10-27,0,North,Primary care,Other,NA
+777,2025-03-09,87,North,Other,GII.4,2025-05-09
+778,2023-12-31,4,South,Primary care,GII.4,NA
+779,2024-01-04,72,North,Secondary care,GII.4,2024-07-30
+780,2024-09-29,40,North,Secondary care,Other,NA
+781,2024-12-09,87,South,Secondary care,GII.17,NA
+782,2025-03-09,87,North,Other,GII.4,NA
+783,2025-01-16,1,South,Primary care,GII.4,NA
+784,2024-12-11,97,North,Secondary care,Other,NA
+785,2024-11-01,3,South,Secondary care,GII.4,NA
+786,2023-12-29,67,North,Secondary care,GII.4,NA
+787,2022-08-03,37,South,Primary care,GII.4,NA
+788,2024-11-17,1,South,Primary care,Other,NA
+789,2024-12-26,84,North,Secondary care,GII.17,2025-01-17
+790,2024-02-13,91,North,Other,GII.17,NA
+791,2022-09-01,4,South,Primary care,Other,NA
+792,2024-10-25,15,South,Secondary care,Other,NA
+793,2024-12-07,89,Midlands,Secondary care,GII.4,2025-03-12
+794,2022-08-05,38,South,Secondary care,Other,NA
+795,2024-05-04,80,North,Other,GII.17,2024-12-24
+796,2024-10-18,0,South,Primary care,GII.4,NA
+797,2024-09-19,5,North,Other,Other,NA
+798,2023-10-17,47,South,Secondary care,GII.4,NA
+799,2022-09-05,2,South,Secondary care,Other,NA
+800,2024-06-10,1,North,Unknown,GII.17,NA
+801,2023-09-22,90,South,Secondary care,GII.4,2023-12-12
+802,2025-01-08,91,North,Other,GII.17,NA
+803,2024-06-11,52,North,Other,Other,NA
+804,2024-09-25,55,South,Primary care,Other,NA
+805,2024-02-08,85,North,Other,GII.4,2024-02-10
+806,2024-12-13,56,North,Secondary care,GII.17,NA
+807,2022-08-03,3,South,Secondary care,GII.4,NA
+808,2025-01-27,96,Midlands,Secondary care,GII.4,NA
+809,2023-06-13,57,South,Secondary care,Other,NA
+810,2024-07-18,80,North,Other,GII.17,2025-02-03
+811,2022-12-06,88,South,Secondary care,GII.4,2024-12-16
+812,2024-12-04,64,South,Secondary care,GII.4,NA
+813,2024-04-01,86,North,Secondary care,GII.17,NA
+814,2024-04-19,87,North,Other,GII.17,NA
+815,2023-11-06,1,South,Secondary care,Other,NA
+816,2025-03-04,2,North,Unknown,GII.4,NA
+817,2024-12-30,75,Midlands,Secondary care,GII.17,NA
+818,2023-06-08,78,North,Secondary care,GII.4,2024-02-16
+819,2025-03-09,87,North,Other,GII.4,NA
+820,2023-01-28,92,North,Other,GII.4,NA
+821,2024-11-30,36,South,Secondary care,GII.4,NA
+822,2025-02-20,91,North,Secondary care,GII.4,NA
+823,2025-03-12,66,North,Other,Other,NA
+824,2025-02-14,91,North,Secondary care,GII.4,NA
+825,2022-11-05,85,South,Secondary care,Unknown,2024-06-01
+826,2024-03-22,77,North,Secondary care,GII.17,NA
+827,2024-12-11,14,Midlands,Primary care,GII.4,NA
+828,2024-06-11,84,Midlands,Secondary care,GII.4,NA
+829,2025-01-15,67,South,Secondary care,GII.17,2025-03-09
+830,2023-02-03,89,Midlands,Secondary care,GII.4,NA
+831,2023-07-16,38,South,Secondary care,Other,NA
+832,2024-12-12,83,South,Unknown,GII.17,2025-01-08
+833,2025-02-20,92,South,Secondary care,GII.17,NA
+834,2024-11-06,0,North,Unknown,Other,NA
+835,2024-12-04,92,Midlands,Secondary care,GII.4,NA
+836,2025-02-08,70,Midlands,Secondary care,GII.4,NA
+837,2024-06-22,81,North,Other,GII.17,2025-01-18
+838,2025-02-16,0,Midlands,Secondary care,Unknown,NA
+839,2023-12-29,91,North,Other,GII.4,2024-03-06
+840,2023-10-27,1,South,Secondary care,GII.4,NA
+841,2023-03-13,92,North,Other,GII.4,2023-07-25
+842,2024-03-30,5,South,Unknown,Unknown,NA
+843,2022-10-24,0,South,Primary care,GII.4,NA
+844,2023-06-02,80,North,Secondary care,Other,NA
+845,2022-07-17,4,South,Primary care,Other,NA
+846,2023-05-24,0,South,Secondary care,Other,NA
+847,2022-11-28,76,North,Other,GII.4,2022-12-30
+848,2025-03-20,88,North,Other,GII.4,NA
+849,2024-07-15,3,South,Other,Other,NA
+850,2024-09-23,91,South,Primary care,GII.4,NA
+851,2025-01-04,73,South,Secondary care,GII.4,NA
+852,2022-09-02,4,South,Primary care,GII.4,NA
+853,2024-11-29,70,South,Secondary care,GII.17,NA
+854,2023-06-04,56,South,Secondary care,Unknown,NA
+855,2023-03-03,2,North,Primary care,Other,NA
+856,2023-12-02,53,North,Secondary care,Other,NA
+857,2022-09-01,73,North,Other,GII.17,2023-12-17
+858,2024-12-31,85,North,Secondary care,GII.17,NA
+859,2025-03-05,1,Midlands,Secondary care,GII.4,NA
+860,2025-01-16,65,North,Secondary care,GII.17,NA
+861,2023-11-23,92,South,Secondary care,GII.4,NA
+862,2025-01-14,58,South,Secondary care,GII.4,NA
+863,2022-08-17,53,North,Other,GII.4,NA
+864,2025-03-19,78,North,Secondary care,GII.17,2025-07-22
+865,2022-12-14,76,North,Other,GII.4,2023-05-23
+866,2024-12-31,80,Midlands,Secondary care,GII.17,NA
+867,2024-12-04,1,South,Primary care,GII.4,NA
+868,2022-11-18,6,South,Primary care,Other,NA
+869,2025-02-03,75,North,Secondary care,GII.4,NA
+870,2024-10-24,32,South,Primary care,GII.17,NA
+871,2023-03-05,78,South,Secondary care,GII.4,NA
+872,2024-09-02,6,South,Other,GII.17,NA
+873,2024-12-10,53,Midlands,Primary care,GII.17,NA
+874,2024-03-31,55,South,Secondary care,GII.17,2024-06-30
+875,2023-08-22,84,North,Other,Other,NA
+876,2025-01-12,50,South,Secondary care,GII.4,NA
+877,2023-11-13,0,South,Secondary care,Other,NA
+878,2022-11-22,70,South,Primary care,GII.4,NA
+879,2023-03-06,75,North,Unknown,GII.4,2023-08-18
+880,2024-04-08,81,North,Secondary care,GII.17,NA
+881,2023-12-11,87,North,Other,GII.4,2024-02-21
+882,2022-11-26,82,South,Secondary care,GII.4,NA
+883,2022-10-15,81,North,Other,Other,2025-02-10
+884,2024-11-27,2,South,Primary care,GII.17,NA
+885,2023-01-06,93,North,Secondary care,GII.4,2024-09-21
+886,2023-05-16,10,North,Primary care,Other,NA
+887,2022-12-19,81,North,Secondary care,GII.4,2025-01-17
+888,2025-02-22,0,North,Secondary care,GII.4,NA
+889,2024-09-16,71,Midlands,Secondary care,GII.17,NA
+890,2024-11-30,36,South,Secondary care,GII.4,NA
+891,2024-05-07,90,South,Secondary care,GII.17,2024-10-01
+892,2025-03-04,2,South,Unknown,Other,NA
+893,2025-03-05,92,North,Other,GII.17,NA
+894,2023-02-18,1,South,Other,Other,2023-02-25
+895,2024-01-06,80,South,Primary care,GII.4,NA
+896,2025-03-05,87,Midlands,Other,Other,NA
+897,2024-02-27,87,North,Secondary care,GII.17,NA
+898,2024-03-16,2,North,Unknown,Other,NA
+899,2024-12-06,56,North,Secondary care,Other,2025-01-06
+900,2024-10-21,75,North,Secondary care,Other,NA
+901,2024-05-10,41,South,Other,GII.17,NA
+902,2023-01-07,83,South,Secondary care,GII.4,NA
+903,2024-04-18,81,North,Other,GII.4,2024-05-04
+904,2023-11-21,99,South,Other,Unknown,2024-08-18
+905,2024-12-16,1,South,Secondary care,GII.4,NA
+906,2023-11-15,75,South,Primary care,Other,NA
+907,2024-12-03,53,South,Primary care,GII.17,NA
+908,2023-02-13,90,North,Other,GII.4,2023-08-21
+909,2023-11-19,0,South,Secondary care,GII.4,NA
+910,2024-03-28,83,South,Secondary care,GII.17,NA
+911,2022-07-23,95,North,Other,Other,2022-11-03
+912,2023-10-30,9,South,Secondary care,GII.17,NA
+913,2024-04-11,1,South,Other,Other,NA
+914,2024-04-09,59,South,Secondary care,GII.17,NA
+915,2024-12-10,73,North,Secondary care,GII.4,NA
+916,2023-12-31,69,North,Secondary care,Unknown,2024-03-19
+917,2025-01-13,60,South,Secondary care,GII.17,NA
+918,2025-02-19,75,Midlands,Secondary care,Other,NA
+919,2024-12-20,65,South,Secondary care,GII.4,NA
+920,2024-11-28,87,South,Secondary care,GII.4,2025-02-06
+921,2025-01-11,89,North,Secondary care,Other,NA
+922,2024-12-06,92,South,Secondary care,GII.4,NA
+923,2023-12-21,2,North,Other,Other,NA
+924,2024-07-10,1,South,Other,Other,NA
+925,2024-03-12,54,South,Secondary care,GII.17,NA
+926,2025-02-11,94,North,Secondary care,GII.4,NA
+927,2024-11-26,9,North,Unknown,GII.17,NA
+928,2024-03-18,84,Midlands,Secondary care,GII.17,NA
+929,2024-05-05,75,North,Other,GII.17,NA
+930,2024-06-03,78,North,Other,Other,NA
+931,2024-04-23,85,North,Secondary care,GII.4,2024-10-27
+932,2022-11-25,82,South,Secondary care,Unknown,2023-03-18
+933,2023-09-01,85,North,Other,Other,NA
+934,2025-01-07,94,Midlands,Secondary care,GII.17,2025-03-06
+935,2024-12-09,69,South,Secondary care,GII.4,NA
+936,2023-11-17,0,South,Secondary care,Other,NA
+937,2024-04-26,71,Midlands,Secondary care,GII.17,NA
+938,2024-12-11,81,South,Secondary care,GII.4,NA
+939,2023-12-28,99,North,Other,GII.4,2024-12-26
+940,2023-10-17,90,North,Other,Other,NA
+941,2024-04-09,81,North,Secondary care,GII.17,NA
+942,2023-02-18,2,North,Primary care,Other,NA
+943,2024-06-12,40,South,Other,Other,NA
+944,2024-01-26,94,North,Other,GII.4,NA
+945,2025-03-17,91,South,Unknown,GII.4,NA
+946,2022-10-20,58,South,Other,Unknown,2023-07-22
+947,2024-11-15,90,Midlands,Secondary care,GII.4,NA
+948,2024-08-17,74,North,Secondary care,GII.17,NA
+949,2025-03-06,79,Midlands,Other,GII.17,NA
+950,2023-07-25,83,North,Other,Other,NA
+951,2024-08-14,32,South,Secondary care,GII.17,NA
+952,2025-01-09,81,North,Secondary care,GII.17,NA
+953,2025-02-18,75,North,Secondary care,GII.4,NA
+954,2024-12-11,72,South,Secondary care,GII.17,2025-01-14
+955,2023-05-17,6,North,Secondary care,Other,NA
+956,2024-06-18,83,North,Other,GII.17,NA
+957,2023-01-30,80,South,Secondary care,GII.4,2023-09-11
+958,2023-03-14,75,North,Other,GII.4,NA
+959,2025-02-02,84,North,Other,GII.17,NA
+960,2025-01-17,76,Midlands,Secondary care,GII.4,NA
+961,2025-01-08,68,South,Secondary care,GII.4,NA
+962,2024-12-29,88,North,Other,GII.17,NA
+963,2024-11-27,2,South,Primary care,GII.4,NA
+964,2024-12-26,44,South,Primary care,Other,NA
+965,2025-01-29,40,South,Secondary care,GII.17,NA
+966,2023-06-12,61,South,Other,Other,2023-06-15
+967,2024-10-04,0,South,Other,Other,NA
+968,2023-11-21,99,North,Other,GII.4,NA
+969,2024-07-06,75,North,Other,GII.17,NA
+970,2025-01-03,81,North,Secondary care,Other,2025-01-14
+971,2024-05-18,55,North,Other,Other,NA
+972,2023-04-10,90,North,Other,GII.4,2025-01-28
+973,2023-10-23,88,North,Other,GII.4,2024-10-21
+974,2024-09-12,0,South,Primary care,GII.4,NA
+975,2024-12-23,67,South,Secondary care,GII.17,NA
+976,2024-04-24,88,South,Secondary care,GII.4,NA
+977,2024-02-14,81,North,Other,GII.17,2024-03-31
+978,2025-01-13,87,South,Other,GII.4,NA
+979,2022-09-25,2,South,Primary care,Other,NA
+980,2024-01-31,74,South,Secondary care,GII.4,NA
+981,2024-06-21,53,South,Primary care,Other,NA
+982,2024-12-30,75,North,Secondary care,GII.17,NA
+983,2022-12-06,90,North,Other,GII.4,NA
+984,2024-05-18,77,North,Other,Unknown,NA
+985,2022-11-28,76,South,Secondary care,GII.4,NA
+986,2023-10-30,73,South,Primary care,Other,2024-05-31
+987,2024-03-12,87,North,Secondary care,GII.17,NA
+988,2024-12-09,87,South,Unknown,GII.17,NA
+989,2024-06-22,25,South,Unknown,GII.17,NA
+990,2024-03-01,4,North,Primary care,Other,NA
+991,2024-03-15,79,North,Secondary care,GII.17,2025-01-29
+992,2022-12-08,76,South,Secondary care,GII.4,NA
+993,2025-01-04,91,North,Other,GII.17,NA
+994,2024-12-07,87,South,Secondary care,GII.4,2025-02-06
+995,2023-02-15,73,North,Secondary care,GII.4,2023-04-27
+996,2024-11-20,6,South,Secondary care,Other,NA
+997,2024-06-21,76,North,Secondary care,GII.17,NA
+998,2023-05-17,1,South,Secondary care,GII.4,NA
+999,2025-01-11,85,North,Secondary care,GII.17,NA
+1000,2023-06-15,59,South,Secondary care,Other,NA
+1001,2023-02-13,80,North,Secondary care,Unknown,2025-01-29
+1002,2022-10-18,46,North,Other,Other,NA
+1003,2024-01-18,86,North,Secondary care,GII.4,NA
+1004,2024-03-14,86,North,Other,GII.17,NA
+1005,2024-04-01,55,North,Secondary care,GII.17,2024-08-26
+1006,2023-03-07,76,North,Secondary care,GII.4,2025-01-27
+1007,2023-08-14,38,North,Other,Other,NA
+1008,2024-12-18,53,South,Secondary care,GII.4,NA
+1009,2024-04-04,87,South,Secondary care,GII.17,NA
+1010,2024-12-01,58,South,Secondary care,GII.17,NA
+1011,2024-02-05,78,North,Other,Other,NA
+1012,2025-02-19,94,Midlands,Secondary care,GII.17,NA
+1013,2025-02-16,71,Midlands,Secondary care,GII.4,NA
+1014,2024-05-13,73,North,Other,GII.17,NA
+1015,2024-04-10,62,South,Secondary care,GII.17,NA
+1016,2025-02-11,77,North,Secondary care,GII.17,NA
+1017,2023-03-19,2,South,Primary care,GII.4,NA
+1018,2023-03-07,58,South,Secondary care,Other,NA
+1019,2022-12-25,44,South,Secondary care,Other,NA
+1020,2023-09-28,1,South,Primary care,GII.4,NA
+1021,2022-12-15,76,North,Other,GII.4,NA
+1022,2022-11-08,77,North,Other,Other,2023-08-10
+1023,2025-01-12,67,North,Secondary care,GII.17,NA
+1024,2024-06-07,85,North,Other,GII.17,2024-11-12
+1025,2025-01-28,85,North,Other,GII.17,2025-03-18
+1026,2023-08-14,61,North,Other,GII.4,NA
+1027,2024-04-11,93,North,Secondary care,Other,NA
+1028,2023-07-10,96,North,Other,GII.4,NA
+1029,2022-08-30,2,South,Secondary care,Other,NA
+1030,2024-11-01,86,South,Secondary care,Other,NA
+1031,2023-02-03,77,North,Secondary care,GII.4,2024-08-01
+1032,2024-02-08,5,South,Secondary care,GII.4,NA
+1033,2024-10-04,24,South,Secondary care,GII.17,NA
+1034,2024-10-20,1,South,Primary care,GII.4,NA
+1035,2023-12-30,92,South,Secondary care,GII.4,NA
+1036,2024-08-06,29,North,Secondary care,GII.17,NA
+1037,2024-11-20,1,South,Primary care,GII.4,NA
+1038,2024-08-19,67,South,Other,GII.17,NA
+1039,2024-02-17,87,South,Secondary care,GII.17,NA
+1040,2024-12-10,90,South,Secondary care,GII.17,NA
+1041,2024-06-12,85,North,Other,GII.17,NA
+1042,2022-08-03,2,South,Secondary care,Other,NA
+1043,2024-03-04,1,South,Other,Other,NA
+1044,2023-08-03,44,South,Secondary care,Other,NA
+1045,2022-08-30,69,South,Secondary care,Other,NA
+1046,2024-08-28,1,North,Primary care,GII.17,NA
+1047,2025-03-04,56,Midlands,Unknown,Other,NA
+1048,2024-01-04,80,North,Other,GII.4,2024-04-08
+1049,2023-11-08,40,South,Secondary care,Unknown,NA
+1050,2023-03-18,90,North,Other,GII.4,2023-05-23
+1051,2024-05-21,76,North,Other,GII.17,NA
+1052,2024-01-15,34,North,Other,Unknown,NA
+1053,2025-01-28,40,North,Other,GII.17,NA
+1054,2022-09-25,82,South,Secondary care,Other,NA
+1055,2025-02-27,82,South,Secondary care,GII.4,NA
+1056,2025-02-01,87,North,Other,GII.17,NA
+1057,2025-01-13,89,South,Other,GII.4,NA
+1058,2025-02-11,94,South,Secondary care,GII.4,NA
+1059,2025-03-14,84,South,Secondary care,GII.4,NA
+1060,2023-06-28,8,North,Primary care,Other,NA
+1061,2023-02-10,1,South,Other,Other,NA
+1062,2023-03-27,51,North,Primary care,Other,NA
+1063,2023-09-07,1,South,Other,Unknown,NA
+1064,2025-02-28,92,South,Secondary care,GII.4,2025-03-13
+1065,2024-11-30,67,South,Secondary care,Other,NA
+1066,2024-04-26,93,Midlands,Secondary care,GII.17,2024-07-26
+1067,2023-12-31,4,North,Primary care,GII.17,NA
+1068,2024-12-13,0,South,Primary care,GII.4,NA
+1069,2024-09-23,94,North,Secondary care,GII.17,NA
+1070,2022-12-18,49,South,Secondary care,GII.4,2023-01-20
+1071,2025-03-10,94,South,Secondary care,GII.4,NA
+1072,2025-02-28,92,South,Secondary care,GII.17,NA
+1073,2023-01-04,89,North,Secondary care,GII.4,2023-05-06
+1074,2025-01-21,85,Midlands,Secondary care,GII.17,NA
+1075,2024-11-30,90,North,Secondary care,GII.17,NA
+1076,2024-06-12,83,North,Other,GII.17,NA
+1077,2023-01-06,87,North,Secondary care,GII.4,2023-03-02
+1078,2024-01-31,90,South,Secondary care,GII.4,2024-12-18
+1079,2024-12-05,91,Midlands,Secondary care,GII.4,2025-05-31
+1080,2024-05-15,83,Midlands,Secondary care,GII.4,2025-01-04
+1081,2024-10-17,69,North,Secondary care,GII.17,NA
+1082,2023-01-03,81,North,Secondary care,Unknown,2023-04-19
+1083,2023-04-05,93,South,Other,GII.4,NA
+1084,2024-12-25,84,South,Secondary care,GII.17,NA
+1085,2024-12-17,26,South,Secondary care,GII.17,NA
+1086,2024-01-31,87,South,Secondary care,GII.4,NA
+1087,2023-02-07,75,North,Secondary care,GII.4,2024-05-23
+1088,2025-03-18,31,South,Secondary care,Other,NA
+1089,2025-03-19,88,North,Other,Other,NA
+1090,2025-03-22,11,Midlands,Secondary care,GII.17,NA
+1091,2025-01-08,91,Midlands,Secondary care,GII.4,NA
+1092,2024-01-10,49,North,Other,Other,NA
+1093,2022-11-13,91,North,Other,GII.4,2022-12-15
+1094,2024-09-09,0,North,Other,GII.4,NA
+1095,2023-06-08,2,North,Primary care,Other,NA
+1096,2022-08-22,34,North,Other,Other,NA
+1097,2024-01-17,92,North,Secondary care,GII.4,2024-08-25
+1098,2024-11-27,0,South,Primary care,GII.17,NA
+1099,2023-04-12,6,South,Other,Other,NA
+1100,2024-02-22,65,North,Secondary care,GII.17,2024-04-04
+1101,2022-08-08,87,South,Secondary care,Other,NA
+1102,2023-03-16,86,North,Primary care,GII.4,NA
+1103,2024-12-05,91,Midlands,Secondary care,GII.4,NA
+1104,2022-11-08,4,South,Primary care,Other,NA
+1105,2024-12-03,86,North,Unknown,GII.17,NA
+1106,2024-12-19,36,North,Primary care,Other,NA
+1107,2024-04-17,87,North,Other,GII.17,NA
+1108,2024-04-30,97,Midlands,Secondary care,GII.17,NA
+1109,2024-03-27,79,South,Other,GII.17,NA
+1110,2024-04-12,49,North,Other,GII.17,NA
+1111,2023-02-09,83,North,Primary care,GII.4,NA
+1112,2024-07-01,8,South,Other,GII.17,NA
+1113,2024-07-15,1,South,Primary care,Other,NA
+1114,2022-08-31,1,South,Other,Other,NA
+1115,2023-02-03,31,South,Secondary care,GII.4,NA
+1116,2022-11-14,0,South,Primary care,GII.4,NA
+1117,2024-01-02,78,South,Primary care,GII.4,2024-06-08
+1118,2024-09-25,1,South,Primary care,GII.4,NA
+1119,2023-02-07,81,South,Secondary care,GII.4,NA
+1120,2024-12-03,62,South,Secondary care,GII.17,NA
+1121,2024-12-06,92,North,Other,GII.17,NA
+1122,2022-09-17,66,South,Secondary care,Other,2024-11-28
+1123,2024-10-02,63,South,Secondary care,Other,2025-03-10
+1124,2024-10-07,85,South,Secondary care,Other,NA
+1125,2024-05-31,78,North,Other,GII.17,NA
+1126,2022-07-26,97,South,Other,Other,NA
+1127,2024-12-03,31,South,Secondary care,GII.4,NA
+1128,2024-12-16,77,Midlands,Secondary care,GII.4,NA
+1129,2024-12-29,92,North,Other,GII.17,NA
+1130,2025-01-13,89,South,Other,GII.4,NA
+1131,2024-04-09,81,North,Secondary care,GII.17,NA
+1132,2025-01-08,29,North,Secondary care,GII.17,NA
+1133,2022-09-25,82,South,Secondary care,Other,2023-01-15
+1134,2025-01-17,88,Midlands,Secondary care,GII.4,NA
+1135,2023-03-10,10,South,Other,Other,NA
+1136,2023-10-30,9,North,Unknown,Unknown,NA
+1137,2023-02-11,79,North,Secondary care,GII.4,NA
+1138,2022-12-14,74,North,Other,GII.4,2025-05-22
+1139,2024-04-19,85,North,Other,GII.17,NA
+1140,2024-03-20,77,North,Secondary care,GII.17,2024-06-26
+1141,2024-06-11,84,Midlands,Secondary care,GII.4,2024-07-24
+1142,2024-10-05,66,South,Secondary care,Unknown,NA
+1143,2022-07-03,66,North,Secondary care,Other,2022-12-15
+1144,2024-07-15,1,South,Other,GII.17,NA
+1145,2024-01-23,77,South,Secondary care,GII.4,NA
+1146,2023-10-03,15,South,Secondary care,Other,NA
+1147,2024-12-04,64,South,Secondary care,GII.17,NA
+1148,2024-11-30,81,North,Secondary care,GII.4,2024-12-20
+1149,2025-01-17,76,Midlands,Secondary care,GII.4,NA
+1150,2023-10-18,35,South,Secondary care,GII.17,NA
+1151,2024-05-06,78,North,Other,GII.17,NA
+1152,2023-06-17,76,North,Other,Other,NA
+1153,2024-04-22,85,North,Secondary care,GII.4,NA
+1154,2023-04-21,83,South,Other,GII.4,2023-10-27
+1155,2024-10-02,29,South,Secondary care,Other,NA
+1156,2023-11-02,73,South,Primary care,GII.4,NA
+1157,2025-02-14,81,North,Secondary care,GII.17,2025-04-26
+1158,2023-03-19,82,North,Secondary care,GII.4,2024-05-09
+1159,2023-02-03,89,Midlands,Secondary care,GII.4,2023-02-27
+1160,2023-08-10,17,South,Secondary care,Other,NA
+1161,2024-05-18,77,South,Secondary care,GII.17,NA
+1162,2023-02-09,91,South,Secondary care,GII.4,NA
+1163,2023-07-25,63,South,Secondary care,Other,NA
+1164,2022-11-13,91,North,Other,GII.4,2024-01-30
+1165,2024-09-09,1,North,Other,GII.4,NA
+1166,2024-07-13,28,South,Other,GII.17,NA
+1167,2023-02-07,73,North,Secondary care,GII.4,2023-05-22
+1168,2024-07-10,94,Midlands,Secondary care,GII.4,NA
+1169,2024-12-30,64,North,Unknown,Other,2025-06-10
+1170,2024-09-17,71,South,Primary care,GII.17,NA
+1171,2022-09-17,90,North,Secondary care,Other,2023-11-08
+1172,2024-12-19,81,Midlands,Secondary care,GII.17,NA
+1173,2023-12-03,87,Midlands,Secondary care,GII.4,NA
+1174,2023-02-15,69,North,Other,GII.4,2024-11-12
+1175,2023-01-18,92,North,Other,GII.4,2023-08-19
+1176,2024-04-26,70,Midlands,Secondary care,GII.17,NA
+1177,2024-11-15,0,South,Primary care,Other,NA
+1178,2025-03-03,83,Midlands,Other,Other,NA
+1179,2024-03-01,66,North,Secondary care,GII.17,NA
+1180,2024-04-15,79,North,Secondary care,GII.4,NA
+1181,2024-07-10,58,South,Secondary care,GII.17,NA
+1182,2023-01-27,96,South,Primary care,GII.4,NA
+1183,2024-01-03,42,North,Other,GII.4,NA
+1184,2025-02-01,43,North,Secondary care,Other,NA
+1185,2023-12-30,69,North,Secondary care,GII.4,2024-10-01
+1186,2023-11-21,76,South,Secondary care,GII.4,NA
+1187,2022-09-16,96,North,Other,Other,2022-10-17
+1188,2023-12-20,64,North,Other,GII.4,NA
+1189,2024-10-09,83,South,Primary care,GII.4,NA
+1190,2023-01-06,87,North,Unknown,Other,NA
+1191,2022-12-25,78,South,Secondary care,GII.4,2023-09-21
+1192,2024-02-10,78,North,Other,GII.4,NA
+1193,2024-01-21,0,South,Primary care,GII.4,NA
+1194,2025-03-07,27,North,Other,GII.17,NA
+1195,2024-09-06,73,North,Primary care,Unknown,NA
+1196,2022-07-29,18,South,Other,Other,2022-10-07
+1197,2023-08-09,61,South,Other,Other,NA
+1198,2023-10-22,77,South,Secondary care,GII.4,NA
+1199,2022-07-30,18,South,Other,Other,NA
+1200,2024-01-26,85,South,Secondary care,GII.4,NA
+1201,2024-03-26,76,North,Other,GII.17,NA
+1202,2024-03-18,85,North,Secondary care,GII.17,2024-06-27
+1203,2024-06-28,1,North,Primary care,GII.4,NA
+1204,2025-01-17,76,Midlands,Secondary care,GII.17,NA
+1205,2025-02-01,72,South,Unknown,GII.4,2025-07-09
+1206,2024-03-18,77,North,Secondary care,GII.17,NA
+1207,2025-01-13,28,South,Primary care,Other,NA
+1208,2024-07-07,0,North,Other,GII.17,NA
+1209,2024-01-31,69,South,Secondary care,GII.4,NA
+1210,2024-12-23,67,South,Secondary care,GII.17,NA
+1211,2024-12-06,85,Midlands,Unknown,Other,NA
+1212,2024-05-25,90,North,Other,GII.17,NA
+1213,2023-01-08,83,North,Secondary care,GII.4,2025-06-12
+1214,2024-07-08,2,South,Other,GII.17,NA
+1215,2022-10-19,86,South,Secondary care,GII.4,2023-02-23
+1216,2023-03-18,85,North,Secondary care,GII.4,NA
+1217,2023-08-08,39,North,Other,Other,NA
+1218,2024-06-20,45,North,Secondary care,Other,NA
+1219,2023-11-23,1,North,Other,Other,NA
+1220,2022-11-08,73,South,Other,GII.4,NA
+1221,2024-11-12,94,North,Secondary care,GII.17,2025-02-15
+1222,2025-02-20,29,Midlands,Primary care,GII.17,NA
+1223,2025-01-17,77,Midlands,Secondary care,GII.4,NA
+1224,2023-12-30,63,South,Secondary care,GII.4,NA
+1225,2022-08-30,0,South,Primary care,Unknown,NA
+1226,2024-04-01,86,North,Secondary care,GII.17,2024-08-25
+1227,2024-08-06,2,South,Other,Other,NA
+1228,2024-11-11,12,South,Primary care,GII.17,NA
+1229,2023-12-30,79,North,Other,GII.4,2024-04-09
+1230,2024-10-07,85,South,Secondary care,GII.17,NA
+1231,2023-02-20,75,North,Other,GII.4,NA
+1232,2023-12-29,70,North,Secondary care,GII.4,NA
+1233,2024-12-05,83,Midlands,Secondary care,GII.4,NA
+1234,2022-08-22,51,South,Primary care,Other,NA
+1235,2022-12-08,89,North,Other,GII.4,NA
+1236,2025-02-19,95,North,Secondary care,GII.4,NA
+1237,2022-07-28,95,North,Other,Other,NA
+1238,2024-12-30,70,South,Secondary care,GII.17,2025-04-03
+1239,2023-02-03,77,South,Secondary care,GII.4,2023-02-10
+1240,2025-01-04,81,South,Secondary care,GII.17,NA
+1241,2024-12-06,69,North,Secondary care,GII.17,NA
+1242,2024-01-15,84,North,Other,GII.17,NA
+1243,2024-12-06,85,South,Unknown,GII.17,2024-12-21
+1244,2024-05-01,1,North,Primary care,GII.4,NA
+1245,2023-02-05,86,South,Secondary care,GII.4,2023-05-29
+1246,2024-11-30,96,North,Secondary care,GII.17,2025-01-30
+1247,2024-10-19,3,North,Secondary care,Unknown,2025-01-26
+1248,2024-10-11,57,South,Secondary care,Other,NA
+1249,2024-11-22,1,South,Primary care,Other,NA
+1250,2023-11-17,0,North,Other,Other,NA
+1251,2025-01-14,83,North,Other,GII.17,2025-02-17
+1252,2025-03-18,91,North,Secondary care,GII.4,2025-04-07
+1253,2024-03-01,66,North,Secondary care,GII.17,NA
+1254,2024-12-12,76,Midlands,Secondary care,GII.4,NA
+1255,2023-10-08,66,South,Secondary care,GII.4,NA
+1256,2023-01-22,81,South,Secondary care,GII.4,NA
+1257,2023-09-01,84,North,Other,Other,NA
+1258,2022-12-09,96,North,Other,GII.4,2023-06-03
+1259,2022-12-26,78,South,Secondary care,GII.4,2024-04-10
+1260,2024-06-15,47,North,Secondary care,GII.17,NA
+1261,2022-12-13,92,North,Other,Other,NA
+1262,2024-12-15,1,North,Unknown,GII.4,NA
+1263,2023-12-14,3,South,Primary care,GII.4,NA
+1264,2025-01-31,87,Midlands,Secondary care,GII.4,NA
+1265,2023-11-05,1,North,Unknown,Other,NA
+1266,2024-08-06,22,South,Other,Other,NA
+1267,2025-03-16,81,North,Secondary care,GII.17,2025-04-10
+1268,2022-11-05,77,North,Other,GII.17,2023-11-04
+1269,2024-06-15,3,South,Unknown,GII.17,NA
+1270,2023-03-18,84,North,Primary care,GII.4,NA
+1271,2025-03-20,81,South,Secondary care,GII.4,NA
+1272,2024-11-07,0,South,Primary care,GII.4,NA
+1273,2024-05-22,1,North,Other,Other,NA
+1274,2023-11-07,0,North,Primary care,Unknown,NA
+1275,2024-05-17,40,North,Other,GII.17,NA
+1276,2023-02-20,1,North,Primary care,Other,NA
+1277,2023-11-28,53,South,Secondary care,GII.17,NA
+1278,2024-10-17,45,South,Secondary care,GII.4,NA
+1279,2022-12-25,59,South,Secondary care,GII.17,NA
+1280,2024-05-18,74,North,Secondary care,GII.17,NA
+1281,2024-07-11,1,South,Other,GII.17,NA
+1282,2025-02-28,7,North,Unknown,GII.4,NA
+1283,2023-03-01,1,South,Secondary care,GII.4,NA
+1284,2024-12-12,63,South,Secondary care,GII.17,NA
+1285,2024-09-27,29,South,Secondary care,Other,NA
+1286,2024-03-27,100,North,Other,GII.17,NA
+1287,2024-08-19,0,North,Primary care,GII.17,NA
+1288,2024-05-22,76,North,Other,GII.17,NA
+1289,2024-06-28,87,South,Secondary care,GII.17,NA
+1290,2022-11-21,61,South,Primary care,Other,NA
+1291,2025-03-11,0,Midlands,Secondary care,GII.4,NA
+1292,2024-10-19,3,South,Secondary care,GII.4,NA
+1293,2025-02-08,90,North,Secondary care,GII.4,2025-03-21
+1294,2024-12-02,1,South,Primary care,GII.4,NA
+1295,2024-01-31,69,South,Secondary care,GII.4,NA
+1296,2024-09-25,1,North,Other,Other,NA
+1297,2024-01-23,0,North,Other,Other,NA
+1298,2023-06-27,39,South,Other,GII.4,NA
+1299,2024-07-03,2,South,Other,Other,NA
+1300,2022-11-05,0,South,Primary care,GII.4,NA
+1301,2024-12-23,81,South,Primary care,GII.4,2025-01-12
+1302,2025-01-16,82,Midlands,Secondary care,GII.4,NA
+1303,2024-03-01,66,North,Secondary care,GII.17,NA
+1304,2023-06-06,1,South,Secondary care,Other,NA
+1305,2024-11-12,12,South,Secondary care,GII.17,NA
+1306,2023-01-25,93,South,Secondary care,GII.4,2023-04-30
+1307,2023-01-31,89,North,Other,GII.4,2024-05-25
+1308,2024-06-28,1,South,Primary care,GII.4,NA
+1309,2025-01-24,90,North,Secondary care,GII.17,NA
+1310,2024-10-09,33,South,Primary care,Other,NA
+1311,2025-01-30,83,North,Primary care,Other,NA
+1312,2024-12-02,1,South,Primary care,GII.4,NA
+1313,2022-12-08,19,North,Other,Other,NA
+1314,2024-05-01,49,North,Other,GII.17,NA
+1315,2025-02-03,86,North,Secondary care,GII.17,2025-02-16
+1316,2024-12-27,40,North,Secondary care,GII.17,NA
+1317,2025-03-20,89,North,Other,GII.4,NA
+1318,2024-03-22,83,North,Secondary care,GII.17,2024-09-14
+1319,2023-06-22,18,South,Other,GII.4,NA
+1320,2024-01-02,79,North,Other,GII.4,2024-02-14
+1321,2023-12-12,87,Midlands,Secondary care,GII.4,NA
+1322,2024-05-02,31,South,Other,GII.17,NA
+1323,2024-05-22,1,North,Other,Other,NA
+1324,2022-09-22,90,North,Other,GII.17,2023-05-04
+1325,2024-12-09,69,South,Unknown,Other,NA
+1326,2023-10-17,80,South,Secondary care,GII.4,NA
+1327,2023-12-14,78,Midlands,Secondary care,GII.4,NA
+1328,2022-11-17,76,North,Other,GII.4,2025-05-17
+1329,2024-12-25,75,South,Secondary care,GII.17,NA
+1330,2024-06-11,40,North,Unknown,Other,NA
+1331,2024-10-03,66,South,Secondary care,Other,NA
+1332,2024-08-28,25,North,Secondary care,GII.17,NA
+1333,2022-11-24,94,North,Other,GII.4,2023-09-11
+1334,2025-03-13,66,South,Unknown,GII.4,NA
+1335,2025-01-17,94,Midlands,Secondary care,GII.4,2025-02-15
+1336,2024-04-11,15,North,Primary care,Other,NA
+1337,2024-01-13,72,North,Secondary care,GII.4,2024-06-08
+1338,2022-11-08,94,North,Other,Other,NA
+1339,2024-07-07,17,South,Secondary care,GII.17,NA
+1340,2025-02-13,88,North,Other,GII.17,NA
+1341,2024-06-05,52,North,Other,Other,2024-06-26
+1342,2025-01-04,85,South,Secondary care,GII.4,NA
+1343,2024-12-04,92,South,Primary care,GII.17,NA
+1344,2024-04-06,78,North,Secondary care,GII.17,2024-04-18
+1345,2022-07-30,75,South,Secondary care,Other,2024-06-28
+1346,2023-05-23,1,North,Primary care,Other,NA
+1347,2025-03-08,27,North,Secondary care,GII.4,2025-03-30
+1348,2023-11-07,0,South,Secondary care,GII.4,NA
+1349,2023-12-31,92,North,Secondary care,GII.4,2024-01-23
+1350,2024-12-03,53,North,Unknown,GII.17,NA
+1351,2024-06-06,22,North,Unknown,Other,NA
+1352,2024-01-28,95,North,Other,GII.17,NA
+1353,2024-12-22,67,North,Secondary care,GII.17,NA
+1354,2024-06-22,60,South,Primary care,GII.4,NA
+1355,2025-01-12,91,North,Secondary care,GII.17,NA
+1356,2022-07-30,60,South,Primary care,Other,NA
+1357,2022-07-11,64,South,Secondary care,Other,NA
+1358,2024-11-28,2,North,Unknown,GII.17,NA
+1359,2023-06-27,64,North,Other,GII.4,NA
+1360,2024-12-06,69,North,Unknown,GII.4,NA
+1361,2022-10-15,82,North,Other,GII.17,NA
+1362,2023-08-14,58,South,Other,Other,NA
+1363,2025-02-19,80,North,Secondary care,GII.4,NA
+1364,2023-12-31,82,North,Secondary care,GII.4,NA
+1365,2022-07-25,18,South,Secondary care,Other,NA
+1366,2024-01-02,79,South,Primary care,GII.4,2024-09-11
+1367,2024-09-12,5,South,Primary care,GII.17,NA
+1368,2023-12-31,63,South,Secondary care,GII.4,NA
+1369,2022-12-01,0,South,Primary care,GII.4,NA
+1370,2025-02-19,75,North,Secondary care,GII.17,2025-05-24
+1371,2024-08-17,74,North,Secondary care,GII.17,NA
+1372,2024-12-23,91,South,Secondary care,GII.17,2025-02-14
+1373,2024-06-22,25,South,Other,Other,NA
+1374,2023-06-06,0,North,Primary care,Other,NA
+1375,2024-05-13,62,North,Secondary care,GII.17,NA
+1376,2023-02-21,91,North,Other,GII.4,2023-04-18
+1377,2024-12-11,81,North,Secondary care,GII.17,NA
+1378,2025-01-04,73,South,Secondary care,GII.17,NA
+1379,2023-02-05,85,North,Other,GII.4,2023-05-11
+1380,2023-08-05,22,North,Other,Other,NA
+1381,2025-01-19,5,South,Unknown,Other,NA
+1382,2024-03-22,35,North,Secondary care,GII.17,NA
+1383,2025-01-09,85,North,Secondary care,GII.17,2025-06-16
+1384,2025-02-08,84,Midlands,Secondary care,GII.17,NA
+1385,2023-01-07,84,North,Secondary care,GII.4,2024-07-10
+1386,2023-06-12,40,South,Secondary care,GII.4,NA
+1387,2023-02-13,87,North,Other,GII.4,NA
+1388,2023-12-12,87,Midlands,Primary care,GII.4,NA
+1389,2024-01-15,83,South,Secondary care,GII.4,2024-06-10
+1390,2023-03-25,79,North,Secondary care,GII.4,2025-07-02
+1391,2024-11-27,87,South,Secondary care,Unknown,2024-12-02
+1392,2023-07-25,83,North,Other,Other,NA
+1393,2024-08-12,74,South,Secondary care,GII.17,2024-09-12
+1394,2024-12-11,14,South,Primary care,Other,NA
+1395,2024-03-28,68,South,Secondary care,GII.17,NA
+1396,2024-02-28,95,South,Other,GII.17,NA
+1397,2025-01-17,87,Midlands,Secondary care,GII.4,NA
+1398,2024-11-29,91,North,Secondary care,GII.17,NA
+1399,2025-02-13,85,North,Other,GII.17,NA
+1400,2025-01-04,81,North,Other,GII.17,NA
+1401,2022-12-09,92,South,Primary care,GII.4,NA
+1402,2023-05-19,2,North,Primary care,Other,NA
+1403,2024-10-30,1,South,Primary care,Other,NA
+1404,2024-12-12,76,Midlands,Secondary care,GII.17,NA
+1405,2024-03-29,71,North,Other,GII.17,NA
+1406,2023-04-05,90,North,Unknown,Other,2023-10-02
+1407,2025-03-04,90,South,Other,GII.17,NA
+1408,2025-01-13,89,North,Other,GII.4,2025-02-10
+1409,2024-02-02,82,South,Secondary care,GII.4,NA
+1410,2025-01-30,74,North,Other,GII.17,2025-02-17
+1411,2025-03-20,89,South,Unknown,GII.4,NA
+1412,2024-12-11,82,Midlands,Secondary care,GII.17,NA
+1413,2023-01-30,54,North,Secondary care,GII.4,NA
+1414,2023-02-14,95,North,Other,GII.4,2023-02-22
+1415,2024-08-09,60,North,Other,GII.17,NA
+1416,2023-02-20,1,South,Secondary care,GII.4,NA
+1417,2024-04-09,62,South,Secondary care,GII.17,NA
+1418,2024-03-02,54,North,Secondary care,Other,2025-07-14
+1419,2023-06-05,0,South,Primary care,GII.4,NA
+1420,2023-01-28,85,South,Secondary care,GII.4,2023-02-28
+1421,2025-01-26,2,North,Secondary care,Other,NA
+1422,2023-10-14,66,South,Secondary care,GII.4,NA
+1423,2023-03-30,4,South,Primary care,Other,NA
+1424,2024-05-10,41,South,Other,Other,NA
+1425,2024-05-15,66,North,Secondary care,GII.17,NA
+1426,2025-03-20,81,South,Secondary care,GII.4,NA
+1427,2024-07-02,20,South,Other,GII.17,NA
+1428,2024-08-19,0,South,Unknown,Other,NA
+1429,2024-04-12,72,North,Secondary care,GII.4,2024-05-06
+1430,2024-11-30,36,South,Secondary care,GII.17,NA
+1431,2024-04-07,76,North,Secondary care,GII.17,2025-04-06
+1432,2024-09-17,20,South,Secondary care,GII.17,NA
+1433,2024-05-10,68,North,Other,GII.17,NA
+1434,2025-03-07,86,North,Secondary care,GII.17,NA
+1435,2024-12-19,53,South,Primary care,GII.17,NA
+1436,2025-03-23,92,North,Other,GII.4,NA
+1437,2024-05-14,62,North,Primary care,GII.17,NA
+1438,2025-03-09,75,South,Unknown,GII.4,NA
+1439,2025-01-14,68,South,Other,GII.4,NA
+1440,2023-04-05,96,North,Unknown,Other,2023-08-15
+1441,2023-05-16,44,South,Secondary care,Other,NA
+1442,2024-12-06,69,North,Unknown,Other,NA
+1443,2024-05-03,79,North,Other,GII.17,NA
+1444,2024-01-17,101,North,Secondary care,GII.4,2024-03-25
+1445,2024-05-11,37,South,Other,GII.17,NA
+1446,2023-04-20,83,South,Other,GII.4,2025-06-17
+1447,2024-06-14,84,South,Other,GII.4,NA
+1448,2024-10-07,70,Midlands,Secondary care,Other,NA
+1449,2024-10-05,96,Midlands,Secondary care,Other,NA
+1450,2023-08-15,3,North,Primary care,Unknown,NA
+1451,2023-08-22,90,South,Secondary care,GII.4,2024-07-25
+1452,2023-04-06,93,North,Unknown,GII.4,NA
+1453,2024-05-16,83,Midlands,Secondary care,GII.4,NA
+1454,2025-02-22,19,North,Primary care,Other,NA
+1455,2024-09-06,35,North,Other,GII.17,NA
+1456,2023-01-05,73,North,Secondary care,GII.4,NA
+1457,2025-01-17,77,South,Secondary care,GII.17,NA
+1458,2022-08-01,0,South,Secondary care,Other,NA
+1459,2023-10-27,1,North,Primary care,Other,NA
+1460,2023-03-05,88,North,Other,GII.4,2024-06-27
+1461,2024-05-03,31,South,Other,GII.17,NA
+1462,2024-06-20,84,South,Secondary care,GII.17,NA
+1463,2025-02-15,81,North,Secondary care,GII.17,NA
+1464,2025-01-13,60,South,Secondary care,GII.4,NA
+1465,2024-02-22,74,North,Other,GII.17,NA
+1466,2023-03-13,92,North,Other,GII.4,2023-08-25
+1467,2025-01-26,11,South,Secondary care,Unknown,NA
+1468,2024-12-01,76,North,Unknown,GII.4,NA
+1469,2024-10-02,75,South,Secondary care,Unknown,NA
+1470,2024-12-02,47,South,Secondary care,GII.17,NA
+1471,2022-12-14,1,North,Unknown,Other,NA
+1472,2024-06-20,76,South,Unknown,Other,NA
+1473,2022-12-23,44,South,Secondary care,GII.4,NA
+1474,2023-06-13,76,North,Other,Other,NA
+1475,2024-04-20,90,North,Other,GII.17,2024-07-24
+1476,2023-03-29,87,North,Other,GII.4,2023-06-11
+1477,2025-01-21,64,South,Secondary care,GII.17,NA
+1478,2024-08-01,22,South,Secondary care,Other,NA
+1479,2023-03-13,32,South,Secondary care,GII.17,NA
+1480,2024-11-29,83,South,Secondary care,GII.17,NA
+1481,2024-12-03,89,North,Secondary care,GII.17,NA
+1482,2024-05-01,49,North,Other,GII.17,NA
+1483,2023-12-31,61,South,Secondary care,GII.4,NA
+1484,2024-11-29,77,South,Secondary care,Other,NA
+1485,2022-07-28,86,North,Other,Other,2023-11-12
+1486,2023-01-08,84,North,Secondary care,GII.4,2025-05-06
+1487,2023-02-13,95,North,Other,GII.4,2023-02-17
+1488,2024-04-29,49,North,Other,Other,NA
+1489,2023-08-09,17,South,Other,Other,NA
+1490,2024-12-26,40,North,Primary care,Other,NA
+1491,2024-02-10,0,South,Secondary care,Other,NA
+1492,2025-02-20,94,North,Secondary care,GII.4,NA
+1493,2025-02-15,82,South,Secondary care,GII.4,NA
+1494,2023-11-05,0,South,Secondary care,GII.4,NA
+1495,2024-12-30,64,North,Secondary care,GII.17,NA
+1496,2025-03-14,0,South,Secondary care,Other,NA
+1497,2024-04-23,86,South,Secondary care,GII.4,2025-01-20
+1498,2023-02-15,77,North,Primary care,GII.4,2023-04-22
+1499,2023-01-16,49,North,Other,GII.4,NA
+1500,2024-12-18,75,Midlands,Secondary care,GII.17,NA
+1501,2022-09-01,34,North,Other,GII.4,NA
+1502,2025-01-11,85,North,Secondary care,GII.4,NA
+1503,2024-09-20,76,North,Secondary care,GII.17,2024-12-28
+1504,2025-01-15,87,Midlands,Secondary care,GII.4,2025-03-28
+1505,2022-07-26,86,South,Other,GII.17,NA
+1506,2023-01-27,88,South,Secondary care,GII.4,NA
+1507,2023-12-04,78,Midlands,Secondary care,GII.4,NA
+1508,2022-12-23,62,South,Secondary care,Other,NA
+1509,2022-12-08,56,North,Other,GII.4,2023-05-13
+1510,2024-03-27,76,North,Secondary care,GII.17,2025-04-02
+1511,2023-06-10,78,North,Other,Other,NA
+1512,2024-11-30,41,South,Secondary care,GII.17,NA
+1513,2024-10-04,24,South,Secondary care,Other,NA
+1514,2023-08-03,47,North,Secondary care,GII.4,NA
+1515,2024-03-22,75,North,Secondary care,GII.17,2024-05-04
+1516,2022-08-04,76,South,Secondary care,Other,NA
+1517,2025-01-10,88,Midlands,Secondary care,GII.4,2025-03-03
+1518,2023-12-28,91,North,Other,GII.4,NA
+1519,2023-02-02,89,Midlands,Secondary care,GII.4,NA
+1520,2024-12-16,0,South,Secondary care,GII.4,NA
+1521,2024-04-30,97,Midlands,Secondary care,GII.17,NA
+1522,2024-09-04,49,South,Secondary care,Other,2025-06-29
+1523,2024-03-18,85,Midlands,Secondary care,GII.17,NA
+1524,2024-03-14,92,North,Other,GII.17,2024-07-04
+1525,2024-02-03,90,South,Secondary care,GII.4,2024-02-06
+1526,2023-07-16,89,North,Other,Unknown,NA
+1527,2024-04-18,87,North,Other,GII.17,2025-01-03
+1528,2024-03-29,54,South,Secondary care,GII.17,NA
+1529,2025-01-19,74,South,Secondary care,GII.4,NA
+1530,2022-10-19,46,South,Primary care,GII.4,NA
+1531,2024-12-16,0,South,Secondary care,GII.4,NA
+1532,2024-03-19,5,South,Unknown,GII.17,NA
+1533,2025-03-05,88,North,Secondary care,GII.4,NA
+1534,2025-02-28,83,South,Unknown,GII.4,NA
+1535,2022-10-08,46,South,Primary care,GII.4,NA
+1536,2023-03-03,35,North,Unknown,Other,NA
+1537,2024-01-02,100,North,Other,GII.4,2025-03-15
+1538,2024-11-28,83,South,Secondary care,GII.17,2025-03-02
+1539,2024-10-14,83,South,Secondary care,Other,NA
+1540,2023-12-09,86,North,Other,GII.4,NA
+1541,2024-09-06,14,South,Secondary care,Other,NA
+1542,2024-03-29,82,North,Secondary care,GII.17,NA
+1543,2023-01-30,71,South,Secondary care,GII.4,2023-08-21
+1544,2024-12-31,77,North,Other,GII.4,NA
+1545,2024-11-29,83,South,Unknown,GII.17,NA
+1546,2024-07-12,21,South,Secondary care,GII.17,NA
+1547,2023-12-31,89,North,Other,GII.4,2024-06-20
+1548,2023-04-04,96,North,Other,GII.4,NA
+1549,2024-03-04,87,North,Secondary care,Other,NA
+1550,2023-02-08,93,North,Other,GII.4,2023-08-03
+1551,2024-07-18,96,South,Other,GII.4,NA
+1552,2022-11-19,93,North,Other,GII.4,2023-03-05
+1553,2025-03-06,61,North,Other,GII.17,NA
+1554,2022-12-22,64,South,Secondary care,Other,NA
+1555,2022-10-24,3,South,Primary care,Other,NA
+1556,2023-08-22,3,North,Other,Other,NA
+1557,2024-02-09,5,North,Unknown,Other,NA
+1558,2024-10-16,92,South,Secondary care,GII.17,NA
+1559,2025-03-23,60,North,Other,Other,NA
+1560,2023-10-17,35,South,Secondary care,Other,NA
+1561,2023-11-30,32,North,Other,Other,NA
+1562,2023-07-09,92,North,Secondary care,Other,NA
+1563,2023-01-05,93,North,Secondary care,GII.4,2024-04-29
+1564,2025-02-09,94,Midlands,Secondary care,GII.4,2025-03-08
+1565,2023-09-12,8,South,Secondary care,Other,NA
+1566,2025-01-28,65,South,Secondary care,GII.17,NA
+1567,2023-08-05,17,South,Other,Other,NA
+1568,2023-08-08,47,North,Other,Unknown,NA
+1569,2024-09-25,55,South,Primary care,Other,NA
+1570,2024-12-03,12,South,Secondary care,GII.4,NA
+1571,2023-08-09,44,North,Other,Other,NA
+1572,2022-12-15,59,North,Other,GII.4,NA
+1573,2023-05-01,96,South,Other,Other,NA
+1574,2023-06-16,55,North,Primary care,Other,NA
+1575,2022-12-14,92,North,Other,Other,NA
+1576,2024-10-23,0,North,Primary care,Other,NA
+1577,2022-12-22,93,South,Secondary care,GII.4,2023-01-30
+1578,2023-06-22,39,South,Other,Other,NA
+1579,2024-03-12,1,North,Other,Other,NA
+1580,2023-08-18,1,North,Primary care,Other,NA
+1581,2024-12-11,67,North,Secondary care,GII.4,NA
+1582,2023-01-06,75,North,Secondary care,GII.4,2024-01-05
+1583,2022-09-05,2,South,Secondary care,Other,NA
+1584,2023-12-04,48,South,Primary care,Unknown,NA
+1585,2023-11-24,93,South,Secondary care,GII.4,2024-04-19
+1586,2024-12-10,73,North,Secondary care,GII.4,NA
+1587,2022-10-10,58,North,Other,GII.4,NA
+1588,2025-01-06,25,South,Secondary care,GII.17,NA
+1589,2023-07-04,80,North,Other,Other,2024-08-28
+1590,2024-03-29,71,North,Other,GII.17,NA
+1591,2024-09-24,55,South,Primary care,Other,NA
+1592,2023-02-13,80,North,Secondary care,GII.4,2023-06-25
+1593,2023-06-22,27,North,Other,Other,NA
+1594,2024-07-18,80,North,Other,Other,NA
+1595,2024-10-25,15,South,Secondary care,GII.17,NA
+1596,2022-12-20,90,South,Secondary care,GII.4,2023-03-04
+1597,2024-09-09,0,North,Other,GII.4,NA
+1598,2024-08-14,59,South,Secondary care,GII.17,NA
+1599,2025-02-21,6,North,Unknown,GII.4,NA
+1600,2023-07-04,78,North,Other,Other,NA
+1601,2023-07-19,0,South,Secondary care,Other,NA
+1602,2023-06-21,41,South,Other,Other,NA
+1603,2024-11-05,0,North,Unknown,Unknown,NA
+1604,2024-04-24,85,South,Unknown,Other,2025-03-28
+1605,2024-11-06,91,North,Other,Other,NA
+1606,2024-04-14,87,North,Other,GII.4,NA
+1607,2024-12-11,74,South,Secondary care,GII.17,NA
+1608,2024-08-19,90,South,Primary care,Other,NA
+1609,2023-03-02,1,North,Primary care,Other,NA
+1610,2023-09-07,85,South,Secondary care,GII.4,NA
+1611,2024-04-22,57,North,Other,GII.17,NA
+1612,2023-01-28,93,South,Primary care,GII.4,NA
+1613,2024-12-10,0,North,Unknown,GII.4,NA
+1614,2025-01-07,25,North,Primary care,Other,NA
+1615,2024-06-22,88,South,Secondary care,Other,NA
+1616,2024-10-22,77,North,Other,GII.17,NA
+1617,2025-01-13,27,South,Primary care,Other,NA
+1618,2025-01-12,56,Midlands,Secondary care,Other,NA
+1619,2024-12-10,67,Midlands,Secondary care,GII.4,NA
+1620,2024-03-16,82,Midlands,Secondary care,GII.17,NA
+1621,2023-06-28,1,North,Primary care,Other,NA
+1622,2025-01-08,96,South,Other,GII.4,NA
+1623,2024-05-14,62,North,Secondary care,GII.17,NA
+1624,2023-10-21,73,South,Secondary care,GII.4,2023-12-28
+1625,2023-02-11,62,North,Other,GII.4,NA
+1626,2024-12-13,0,South,Primary care,GII.4,NA
+1627,2024-03-15,22,North,Primary care,GII.17,NA
+1628,2024-10-14,91,North,Secondary care,Other,2025-02-11
+1629,2024-11-27,90,North,Secondary care,GII.17,NA
+1630,2023-07-12,1,North,Unknown,Other,NA
+1631,2023-03-01,98,South,Primary care,Other,2025-03-08
+1632,2024-10-16,89,South,Secondary care,GII.17,2025-03-24
+1633,2025-01-24,93,North,Secondary care,GII.17,NA
+1634,2023-12-28,89,North,Other,GII.4,NA
+1635,2024-01-23,1,North,Secondary care,GII.4,NA
+1636,2025-03-06,87,North,Other,GII.4,NA
+1637,2024-03-16,86,North,Secondary care,GII.17,2024-11-08
+1638,2023-12-04,95,Midlands,Secondary care,GII.4,NA
+1639,2023-10-17,73,South,Secondary care,GII.4,2024-04-09
+1640,2024-07-12,28,South,Secondary care,GII.17,NA
+1641,2024-10-23,11,South,Primary care,GII.17,NA
+1642,2023-10-27,32,South,Primary care,GII.4,NA
+1643,2024-01-01,4,North,Primary care,Other,NA
+1644,2024-05-03,91,Midlands,Secondary care,GII.17,2024-06-28
+1645,2024-03-20,77,North,Secondary care,GII.17,NA
+1646,2024-12-04,92,South,Secondary care,GII.4,NA
+1647,2024-11-02,2,North,Secondary care,Unknown,NA
+1648,2024-11-28,46,South,Primary care,GII.17,NA
+1649,2024-03-12,49,North,Secondary care,GII.17,NA
+1650,2024-08-09,74,North,Unknown,Other,NA
+1651,2022-10-06,3,South,Secondary care,GII.4,NA
+1652,2023-09-05,15,South,Secondary care,Other,NA
+1653,2024-11-28,2,South,Primary care,GII.17,NA
+1654,2023-01-25,88,North,Other,GII.4,2024-06-25
+1655,2024-06-15,76,South,Other,Other,NA
+1656,2024-12-02,75,South,Secondary care,Other,NA
+1657,2024-03-30,88,North,Secondary care,GII.17,2024-12-15
+1658,2023-07-10,88,North,Secondary care,GII.17,2023-09-29
+1659,2024-11-14,0,North,Unknown,Other,NA
+1660,2023-06-21,39,North,Other,Other,2023-11-26
+1661,2023-01-05,79,North,Unknown,Other,2023-07-27
+1662,2022-12-25,81,North,Other,GII.4,2023-01-09
+1663,2025-03-08,14,South,Secondary care,GII.17,NA
+1664,2023-01-04,81,North,Secondary care,GII.4,NA
+1665,2024-09-18,2,South,Primary care,GII.17,NA
+1666,2025-03-13,84,North,Other,GII.4,2025-03-13
+1667,2024-12-31,81,North,Secondary care,GII.17,NA
+1668,2024-01-14,101,South,Primary care,Other,NA
+1669,2024-06-26,27,South,Other,Other,NA
+1670,2024-03-29,87,North,Secondary care,Unknown,2024-07-31
+1671,2023-02-05,75,North,Secondary care,GII.4,NA
+1672,2025-01-21,78,South,Secondary care,GII.4,2025-02-08
+1673,2025-02-08,84,North,Secondary care,GII.4,NA
+1674,2025-01-05,80,South,Secondary care,GII.17,NA
+1675,2023-02-15,93,South,Other,GII.4,NA
+1676,2023-05-01,55,South,Secondary care,GII.17,NA
+1677,2024-11-25,0,South,Primary care,Other,NA
+1678,2023-02-02,52,South,Secondary care,GII.4,2023-07-14
+1679,2023-09-22,90,North,Other,Other,2023-10-09
+1680,2022-08-30,28,South,Primary care,Other,NA
+1681,2023-02-03,52,South,Secondary care,Other,NA
+1682,2024-03-01,32,North,Secondary care,GII.17,NA
+1683,2025-03-28,60,North,Other,Other,NA
+1684,2024-06-21,45,South,Other,Other,NA
+1685,2025-01-30,79,North,Secondary care,GII.17,NA
+1686,2022-12-16,4,North,Secondary care,Other,NA
+1687,2022-12-08,90,North,Other,GII.4,2025-01-02
+1688,2024-03-14,86,North,Secondary care,GII.17,NA
+1689,2024-08-28,1,North,Primary care,GII.4,NA
+1690,2022-09-11,72,South,Secondary care,Other,NA
+1691,2024-04-30,49,North,Other,GII.17,NA
+1692,2022-11-24,70,South,Secondary care,GII.4,NA
+1693,2024-03-01,95,North,Secondary care,GII.17,NA
+1694,2022-08-16,2,South,Primary care,Other,NA
+1695,2023-01-10,84,South,Secondary care,Unknown,2024-07-13
+1696,2024-04-22,18,North,Primary care,Other,NA
+1697,2024-11-14,2,South,Primary care,Other,NA
+1698,2022-09-11,1,South,Primary care,Other,NA
+1699,2023-10-31,40,North,Other,Other,NA
+1700,2024-12-29,79,South,Secondary care,GII.4,2025-02-07
+1701,2024-11-25,61,South,Secondary care,Unknown,2024-12-15
+1702,2023-06-10,93,North,Other,Other,2023-11-27
+1703,2024-12-31,79,North,Other,GII.17,2025-02-08
+1704,2022-12-10,78,North,Other,GII.4,NA
+1705,2025-02-28,34,North,Other,Other,NA
+1706,2025-02-03,78,North,Secondary care,GII.17,NA
+1707,2024-08-12,32,South,Secondary care,GII.17,NA
+1708,2023-11-21,86,South,Primary care,Unknown,NA
+1709,2022-09-18,91,North,Other,Other,2024-09-28
+1710,2024-05-04,68,North,Other,GII.17,NA
+1711,2023-03-08,89,South,Other,GII.4,NA
+1712,2025-01-08,61,South,Secondary care,GII.17,NA
+1713,2023-10-14,93,South,Secondary care,GII.4,2023-10-27
+1714,2022-12-12,92,North,Other,GII.4,NA
+1715,2022-07-26,95,South,Secondary care,Other,2023-06-21
+1716,2024-11-08,92,South,Secondary care,Other,NA
+1717,2023-10-17,60,South,Secondary care,Other,2024-04-10
+1718,2025-01-31,79,North,Other,Other,NA
+1719,2024-01-05,2,North,Unknown,GII.4,NA
+1720,2023-06-04,87,South,Secondary care,Other,2023-09-11
+1721,2023-09-27,39,North,Unknown,Other,NA
+1722,2024-10-08,92,North,Primary care,Other,2025-05-25
+1723,2024-07-18,1,South,Other,GII.17,NA
+1724,2023-01-08,90,North,Secondary care,GII.4,2024-06-12
+1725,2024-01-28,88,South,Secondary care,GII.4,NA
+1726,2022-12-08,88,North,Other,GII.4,NA
+1727,2025-01-15,90,South,Secondary care,GII.17,2025-02-02
+1728,2022-09-02,34,North,Other,GII.4,NA
+1729,2024-11-08,68,Midlands,Secondary care,GII.17,2025-02-20
+1730,2024-04-25,90,North,Secondary care,GII.4,2024-10-08
+1731,2023-02-15,70,North,Other,GII.4,NA
+1732,2023-01-06,87,South,Secondary care,GII.4,2023-03-21
+1733,2025-03-17,1,South,Secondary care,GII.4,NA
+1734,2024-05-10,80,North,Other,GII.17,NA
+1735,2024-02-14,5,North,Unknown,Other,NA
+1736,2024-12-07,89,Midlands,Secondary care,GII.4,NA
+1737,2024-11-23,82,North,Other,GII.17,2025-05-26
+1738,2025-02-16,72,North,Secondary care,GII.17,NA
+1739,2023-04-05,96,North,Secondary care,GII.4,NA
+1740,2023-06-06,70,North,Other,Other,NA
+1741,2023-04-07,92,South,Other,GII.4,NA
+1742,2024-10-07,85,South,Primary care,GII.17,2025-02-02
+1743,2024-11-18,84,Midlands,Primary care,Other,NA
+1744,2024-03-15,75,South,Secondary care,GII.17,2024-10-23
+1745,2023-03-22,1,South,Primary care,GII.4,NA
+1746,2023-11-10,40,South,Secondary care,GII.4,NA
+1747,2025-01-21,34,South,Secondary care,GII.17,NA
+1748,2024-04-17,19,South,Other,GII.4,NA
+1749,2022-12-09,96,North,Other,Other,NA
+1750,2024-07-13,28,South,Secondary care,GII.17,NA
+1751,2025-01-08,63,Midlands,Secondary care,GII.4,NA
+1752,2023-12-18,50,North,Other,GII.4,NA
+1753,2024-06-21,84,South,Secondary care,GII.17,NA
+1754,2025-02-13,76,North,Secondary care,GII.17,NA
+1755,2022-12-01,0,South,Primary care,GII.4,NA
+1756,2023-03-08,61,South,Secondary care,Unknown,NA
+1757,2023-01-10,72,South,Secondary care,GII.4,NA
+1758,2022-11-05,77,North,Other,GII.4,2023-04-09
+1759,2024-12-11,71,Midlands,Unknown,GII.4,NA
+1760,2024-05-10,77,North,Secondary care,GII.17,2024-08-31
+1761,2023-05-24,1,North,Unknown,Other,NA
+1762,2025-02-28,7,North,Unknown,Other,NA
+1763,2024-05-18,74,North,Other,GII.17,NA
+1764,2025-01-28,66,South,Secondary care,GII.17,NA
+1765,2025-01-25,75,South,Secondary care,GII.4,2025-02-05
+1766,2023-04-26,57,South,Other,Other,NA
+1767,2022-12-08,19,North,Other,Other,NA
+1768,2023-10-23,66,North,Secondary care,GII.4,NA
+1769,2023-08-18,43,North,Primary care,Other,NA
+1770,2024-03-01,72,North,Secondary care,GII.17,NA
+1771,2024-11-26,68,South,Primary care,GII.17,NA
+1772,2023-02-11,89,North,Other,GII.4,NA
+1773,2024-10-02,44,South,Secondary care,Other,NA
+1774,2023-10-18,61,South,Secondary care,Other,NA
+1775,2024-12-09,89,South,Unknown,GII.17,NA
+1776,2024-12-05,63,South,Secondary care,GII.4,NA
+1777,2024-12-04,40,South,Primary care,Other,NA
+1778,2024-02-03,87,North,Other,GII.4,2024-02-06
+1779,2023-02-18,0,South,Other,GII.4,NA
+1780,2024-03-01,66,North,Secondary care,GII.17,2024-03-04
+1781,2023-07-04,94,North,Other,Other,2023-09-17
+1782,2023-03-25,1,South,Primary care,GII.4,NA
+1783,2025-01-30,74,North,Other,GII.17,2025-03-12
+1784,2023-01-24,75,North,Primary care,GII.4,NA
+1785,2023-11-05,1,South,Secondary care,Other,NA
+1786,2024-01-16,47,North,Other,Other,NA
+1787,2023-11-25,88,South,Secondary care,GII.4,2024-11-15
+1788,2024-12-11,76,South,Unknown,GII.17,2024-12-23
+1789,2025-01-16,64,Midlands,Secondary care,GII.4,NA
+1790,2024-12-07,86,South,Unknown,GII.17,NA
+1791,2024-11-08,1,South,Primary care,GII.4,NA
+1792,2024-08-01,29,South,Secondary care,Other,NA
+1793,2023-09-04,15,North,Secondary care,Other,NA
+1794,2023-12-20,36,North,Unknown,Other,NA
+1795,2023-02-07,87,North,Other,GII.4,NA
+1796,2024-03-15,79,North,Secondary care,GII.4,NA
+1797,2024-11-15,0,South,Primary care,GII.4,NA
+1798,2023-08-24,3,North,Other,Unknown,NA
+1799,2022-07-30,15,South,Secondary care,Other,2024-08-28
+1800,2025-01-11,77,Midlands,Secondary care,GII.4,NA
+1801,2024-08-08,60,North,Other,GII.17,NA
+1802,2024-08-07,2,South,Other,GII.17,NA
+1803,2022-10-12,0,North,Unknown,Other,NA
+1804,2025-02-21,19,South,Other,Other,NA
+1805,2024-08-06,87,North,Other,GII.17,NA
+1806,2024-12-03,81,North,Secondary care,GII.4,NA
+1807,2024-04-30,48,South,Primary care,GII.17,NA
+1808,2024-07-07,1,South,Primary care,GII.4,NA
+1809,2022-10-09,65,South,Other,Other,2023-04-07
+1810,2025-02-16,63,South,Secondary care,Other,NA
+1811,2022-12-13,81,South,Secondary care,Unknown,NA
+1812,2023-12-02,91,South,Primary care,GII.4,2024-06-21
+1813,2023-04-26,76,South,Other,GII.4,2024-09-24
+1814,2023-07-07,83,North,Other,Other,2023-10-10
+1815,2025-01-12,52,Midlands,Secondary care,GII.17,NA
+1816,2024-12-05,33,South,Secondary care,Other,NA
+1817,2024-05-11,73,North,Other,GII.17,NA
+1818,2024-04-29,1,South,Unknown,GII.17,NA
+1819,2023-06-06,86,South,Secondary care,GII.4,NA
+1820,2022-12-06,4,South,Secondary care,GII.4,NA
+1821,2024-09-13,0,South,Primary care,Other,NA
+1822,2023-06-10,46,South,Primary care,Other,NA
+1823,2023-12-20,74,South,Secondary care,GII.4,2024-12-12
+1824,2024-12-11,82,Midlands,Secondary care,GII.4,NA
+1825,2024-07-10,1,South,Other,GII.17,2024-10-19
+1826,2024-07-15,1,South,Primary care,Other,NA
+1827,2024-03-21,84,North,Secondary care,GII.17,2025-03-28
+1828,2023-12-08,89,North,Other,GII.4,NA
+1829,2025-03-06,87,South,Unknown,GII.17,NA
+1830,2023-07-16,1,North,Primary care,Other,NA
+1831,2023-06-11,46,South,Secondary care,GII.4,NA
+1832,2025-01-08,77,South,Other,GII.17,NA
+1833,2023-06-03,80,South,Other,Other,NA
+1834,2024-01-02,90,North,Secondary care,GII.4,NA
+1835,2024-08-19,67,South,Other,GII.17,2025-08-24
+1836,2023-12-03,85,Midlands,Primary care,GII.4,2024-03-13
+1837,2023-12-28,79,North,Secondary care,GII.4,2024-05-23
+1838,2023-12-15,91,North,Other,Other,NA
+1839,2022-11-18,54,South,Primary care,Other,NA
+1840,2024-09-27,1,South,Primary care,Other,NA
+1841,2025-02-15,97,North,Secondary care,GII.4,NA
+1842,2023-11-04,35,South,Secondary care,Other,NA
+1843,2023-11-28,43,North,Other,GII.4,NA
+1844,2022-09-02,4,South,Secondary care,Other,2023-01-25
+1845,2023-01-10,81,South,Secondary care,GII.4,2023-12-10
+1846,2025-01-08,72,South,Secondary care,GII.4,NA
+1847,2025-02-15,91,South,Secondary care,GII.4,NA
+1848,2025-02-17,19,North,Unknown,GII.4,NA
+1849,2025-01-08,89,North,Other,GII.17,NA
+1850,2024-08-06,29,South,Secondary care,GII.17,NA
+1851,2024-10-05,66,South,Primary care,Other,NA
+1852,2023-05-17,33,North,Other,Other,NA
+1853,2024-10-23,96,North,Other,Other,2024-12-20
+1854,2023-11-15,0,South,Secondary care,Other,NA
+1855,2024-10-24,2,South,Primary care,GII.4,NA
+1856,2024-08-14,74,North,Secondary care,GII.17,2025-01-19
+1857,2024-03-15,74,North,Other,GII.17,NA
+1858,2024-06-26,1,North,Primary care,GII.4,NA
+1859,2022-12-23,59,North,Other,GII.4,NA
+1860,2024-08-07,2,South,Primary care,Other,NA
+1861,2024-06-22,0,North,Other,Other,NA
+1862,2024-12-16,86,South,Secondary care,Other,NA
+1863,2024-03-02,72,North,Secondary care,GII.17,NA
+1864,2024-12-06,1,South,Primary care,GII.4,NA
+1865,2022-10-31,2,South,Primary care,GII.4,NA
+1866,2023-03-03,51,South,Secondary care,Other,NA
+1867,2023-11-13,1,North,Other,Other,NA
+1868,2023-05-31,95,South,Other,Other,2024-05-24
+1869,2024-05-05,61,North,Other,GII.17,NA
+1870,2023-10-23,73,South,Secondary care,GII.4,NA
+1871,2024-12-31,74,North,Secondary care,GII.17,NA
+1872,2024-12-02,1,South,Primary care,GII.4,NA
+1873,2023-12-21,64,North,Secondary care,GII.4,NA
+1874,2025-02-02,87,North,Secondary care,GII.17,NA
+1875,2023-01-18,92,South,Secondary care,GII.4,2023-02-13
+1876,2025-01-04,91,South,Secondary care,GII.4,NA
+1877,2024-08-17,32,North,Secondary care,GII.17,NA
+1878,2022-09-01,34,South,Secondary care,Unknown,NA
+1879,2023-07-05,77,South,Secondary care,GII.17,2023-12-01
+1880,2023-02-19,1,North,Primary care,Other,NA
+1881,2025-03-30,97,North,Other,GII.4,2025-06-24
+1882,2025-02-28,34,North,Secondary care,Other,NA
+1883,2024-04-26,90,Midlands,Secondary care,GII.17,NA
+1884,2024-09-05,87,North,Unknown,Other,NA
+1885,2023-11-10,1,North,Other,Other,NA
+1886,2022-07-11,2,South,Primary care,Other,NA
+1887,2024-06-18,53,North,Secondary care,Other,NA
+1888,2023-01-14,84,South,Secondary care,GII.4,NA
+1889,2023-12-29,75,North,Other,GII.4,NA
+1890,2025-03-08,78,Midlands,Secondary care,GII.4,NA
+1891,2023-01-31,58,North,Unknown,GII.4,NA
+1892,2024-12-09,88,South,Secondary care,GII.17,2025-03-17
+1893,2023-08-20,97,South,Secondary care,GII.4,2024-03-30
+1894,2023-02-15,70,North,Other,GII.4,2023-03-03
+1895,2023-10-14,87,North,Other,Other,NA
+1896,2024-10-03,65,South,Secondary care,GII.4,NA
+1897,2024-11-06,66,North,Other,GII.17,2025-01-15
+1898,2024-12-08,87,Midlands,Secondary care,GII.4,NA
+1899,2024-12-10,42,South,Primary care,Other,NA

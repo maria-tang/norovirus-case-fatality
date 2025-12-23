@@ -1,0 +1,3542 @@
+uid,specimen_date,age,region,genotype,death_date
+1,2023-03-24,1,North West,Unknown,NA
+2,2023-03-20,1,North West,GII.4,NA
+3,2022-09-17,80,North East and Yorkshire,Other,2025-02-02
+4,2023-01-16,81,Midlands,GII.4,2024-11-05
+5,2024-11-30,96,North West,Other,NA
+6,2025-03-16,40,London,GII.17,NA
+7,2024-12-06,75,Midlands,GII.4,2025-05-05
+8,2024-05-15,77,North West,GII.17,NA
+9,2022-12-29,50,North East and Yorkshire,GII.4,NA
+10,2022-09-19,90,North East and Yorkshire,GII.17,NA
+11,2024-11-06,91,North West,GII.17,NA
+12,2025-02-24,0,North West,GII.4,NA
+13,2025-01-06,78,South East,GII.17,2025-01-12
+14,2023-03-10,74,East of England,Unknown,NA
+15,2023-09-20,1,North West,Other,NA
+16,2024-12-16,52,North West,GII.17,NA
+17,2024-02-07,85,North West,GII.4,NA
+18,2023-10-23,9,South West,Other,NA
+19,2022-12-14,60,East of England,Unknown,NA
+20,2024-03-16,75,North West,GII.17,NA
+21,2023-01-24,3,North West,Other,NA
+22,2024-07-22,70,North West,GII.17,NA
+23,2023-01-22,85,South West,GII.4,NA
+24,2023-11-12,93,Midlands,GII.4,2024-09-27
+25,2024-11-26,73,Midlands,GII.17,NA
+26,2024-03-15,84,North West,GII.17,NA
+27,2024-06-19,40,South West,Other,NA
+28,2023-01-18,88,North East and Yorkshire,GII.4,NA
+29,2023-12-18,2,North West,GII.4,NA
+30,2022-12-29,1,North West,GII.17,2024-04-28
+31,2024-08-29,67,North East and Yorkshire,GII.17,2026-01-27
+32,2022-12-19,9,North West,GII.4,NA
+33,2024-12-25,44,North West,Unknown,NA
+34,2025-01-06,60,South West,GII.17,NA
+35,2023-09-08,75,East of England,Unknown,NA
+36,2025-02-27,92,North East and Yorkshire,GII.17,NA
+37,2024-04-16,88,North East and Yorkshire,Other,2024-06-23
+38,2022-12-19,81,East of England,Unknown,NA
+39,2024-07-10,81,North East and Yorkshire,GII.17,NA
+40,2023-10-19,47,South West,Unknown,NA
+41,2024-11-24,102,Midlands,GII.4,NA
+42,2022-10-14,2,South West,Other,NA
+43,2025-03-30,70,South East,GII.4,NA
+44,2022-08-21,37,South West,Other,2023-08-15
+45,2024-07-01,80,Midlands,GII.4,NA
+46,2025-02-19,95,North East and Yorkshire,Other,2025-03-26
+47,2024-07-17,1,South West,GII.17,NA
+48,2024-07-01,74,London,Other,2024-10-21
+49,2025-03-06,1,North West,GII.4,NA
+50,2022-08-17,37,East of England,Unknown,2024-07-21
+51,2023-03-21,73,North West,GII.4,2023-04-03
+52,2024-09-28,73,North West,Other,2024-12-14
+53,2025-03-05,86,Midlands,GII.17,2025-03-22
+54,2023-02-13,0,North West,GII.4,NA
+55,2024-03-01,72,North West,GII.4,2024-11-27
+56,2025-01-21,85,North West,GII.4,NA
+57,2025-03-05,86,North East and Yorkshire,GII.17,2025-03-25
+58,2024-02-15,35,North East and Yorkshire,GII.4,NA
+59,2024-06-23,75,South West,GII.17,NA
+60,2023-12-08,82,East of England,Unknown,2024-02-02
+61,2023-01-18,84,East of England,GII.4,2023-09-02
+62,2025-02-11,78,East of England,GII.17,NA
+63,2023-08-03,0,North West,Other,NA
+64,2024-09-06,73,South West,Unknown,2024-09-07
+65,2024-12-15,68,Midlands,GII.4,NA
+66,2022-12-19,9,North West,GII.17,NA
+67,2024-12-02,91,Midlands,GII.4,NA
+68,2023-01-10,4,North West,GII.4,NA
+69,2024-01-29,69,South West,Other,NA
+70,2025-01-28,66,South West,GII.17,NA
+71,2024-06-21,78,North West,GII.17,NA
+72,2025-02-20,82,Midlands,GII.17,NA
+73,2024-03-22,75,North West,GII.17,2024-09-15
+74,2024-06-12,58,South West,Other,NA
+75,2024-07-16,84,North East and Yorkshire,GII.17,2024-10-31
+76,2024-11-17,72,North West,GII.17,NA
+77,2023-11-05,1,North West,Other,NA
+78,2024-10-18,1,North West,GII.4,NA
+79,2024-01-29,2,North West,Other,NA
+80,2022-09-29,0,North West,Other,NA
+81,2023-12-28,89,North East and Yorkshire,GII.4,NA
+82,2023-10-31,0,North West,Other,NA
+83,2022-10-29,2,South West,Other,NA
+84,2023-05-25,4,North West,Other,NA
+85,2025-01-14,83,South West,GII.4,NA
+86,2024-04-16,32,North East and Yorkshire,GII.4,NA
+87,2024-10-10,1,South East,Unknown,NA
+88,2022-11-10,0,North West,GII.4,NA
+89,2025-01-20,63,North East and Yorkshire,GII.17,NA
+90,2023-02-16,81,North West,GII.4,NA
+91,2024-11-06,0,South West,Other,NA
+92,2024-03-27,82,North West,GII.17,NA
+93,2025-03-13,73,South West,GII.4,2025-03-17
+94,2024-07-11,19,North West,GII.17,NA
+95,2024-09-13,71,South West,GII.17,NA
+96,2025-01-31,74,South West,GII.17,2025-08-03
+97,2023-01-21,92,South West,GII.4,2023-12-12
+98,2023-12-05,74,South East,GII.4,NA
+99,2023-12-21,36,North West,Other,NA
+100,2024-01-05,58,North West,Other,NA
+101,2024-04-19,98,North West,GII.4,NA
+102,2022-10-31,9,East of England,Unknown,NA
+103,2024-12-11,72,London,GII.17,NA
+104,2023-01-22,85,East of England,Unknown,2024-04-06
+105,2024-06-06,61,North West,GII.17,NA
+106,2023-01-06,78,South East,GII.4,2023-02-13
+107,2024-12-09,1,North West,GII.4,NA
+108,2022-12-01,3,North West,GII.4,NA
+109,2024-03-01,32,North West,GII.4,NA
+110,2022-11-14,66,East of England,Unknown,NA
+111,2024-01-26,2,North West,Other,NA
+112,2023-03-15,68,North East and Yorkshire,GII.4,2023-04-29
+113,2024-11-28,83,North West,GII.17,NA
+114,2023-01-28,92,South West,GII.4,NA
+115,2023-06-23,18,South West,Other,NA
+116,2024-10-01,39,South West,Unknown,NA
+117,2025-01-22,93,Midlands,GII.4,NA
+118,2025-03-14,42,North West,GII.17,NA
+119,2024-04-11,15,South West,GII.17,NA
+120,2024-05-18,89,South West,GII.17,2024-10-23
+121,2024-02-28,1,North West,GII.4,NA
+122,2023-12-15,85,North East and Yorkshire,GII.4,2024-03-19
+123,2025-02-09,78,North West,GII.4,NA
+124,2024-09-09,2,North West,GII.4,NA
+125,2024-01-06,1,North West,GII.17,NA
+126,2024-10-27,89,North West,GII.17,NA
+127,2023-02-14,3,North West,Other,NA
+128,2024-06-27,70,South West,GII.17,NA
+129,2025-01-14,79,North West,GII.4,2025-06-13
+130,2023-05-31,66,South West,Other,NA
+131,2024-11-24,87,South West,GII.4,NA
+132,2022-12-15,2,North West,GII.4,2024-01-18
+133,2025-01-12,50,North West,GII.17,2025-02-14
+134,2024-06-26,27,South West,GII.17,NA
+135,2025-02-16,63,North West,GII.4,NA
+136,2024-11-27,75,North West,GII.17,NA
+137,2024-09-04,0,North West,GII.17,2024-11-15
+138,2023-08-31,72,North West,GII.4,NA
+139,2024-09-01,33,South West,Unknown,NA
+140,2024-08-09,18,North East and Yorkshire,GII.17,NA
+141,2022-10-03,50,North West,GII.17,2023-04-27
+142,2024-04-01,71,North West,GII.17,NA
+143,2023-02-13,82,North East and Yorkshire,Other,2023-09-03
+144,2023-03-09,80,North West,GII.4,2024-08-07
+145,2023-01-05,93,North East and Yorkshire,GII.4,2023-02-03
+146,2024-10-01,96,South West,Unknown,2024-12-06
+147,2023-09-29,34,North West,Other,NA
+148,2024-11-28,87,Midlands,GII.4,2024-12-10
+149,2024-11-18,60,South West,GII.17,NA
+150,2023-06-08,3,North West,Other,NA
+151,2024-08-01,69,North West,GII.17,NA
+152,2023-09-05,49,East of England,Other,NA
+153,2024-11-27,93,Midlands,GII.4,2024-12-13
+154,2022-07-30,97,North East and Yorkshire,GII.17,NA
+155,2024-12-08,3,North West,GII.4,NA
+156,2024-07-08,0,South West,GII.4,NA
+157,2024-11-13,59,North West,GII.17,NA
+158,2022-12-22,0,North West,GII.4,NA
+159,2023-02-15,70,North East and Yorkshire,GII.4,2023-05-20
+160,2024-10-20,59,North West,Other,NA
+161,2024-11-04,10,North West,GII.17,NA
+162,2022-11-06,77,North East and Yorkshire,Other,NA
+163,2023-11-10,1,North West,Other,NA
+164,2025-01-12,91,North East and Yorkshire,GII.17,NA
+165,2022-12-14,78,North East and Yorkshire,GII.4,NA
+166,2023-02-12,2,North West,GII.4,NA
+167,2024-01-23,84,North East and Yorkshire,GII.4,NA
+168,2024-07-10,1,South West,GII.17,NA
+169,2022-07-02,87,North East and Yorkshire,Other,NA
+170,2024-03-13,0,North West,GII.4,NA
+171,2025-01-17,94,Midlands,Other,NA
+172,2023-02-05,75,East of England,GII.4,NA
+173,2023-06-28,1,North West,Other,NA
+174,2023-07-20,0,North West,Other,NA
+175,2024-12-07,79,Midlands,GII.4,NA
+176,2024-04-07,72,North East and Yorkshire,GII.17,2024-04-29
+177,2023-06-19,26,South West,GII.4,NA
+178,2024-09-09,2,North West,GII.4,NA
+179,2025-01-26,2,North West,GII.17,NA
+180,2023-07-07,0,North West,Other,NA
+181,2025-01-11,89,Midlands,GII.17,2025-02-14
+182,2023-10-30,3,North West,Unknown,NA
+183,2024-12-04,64,North East and Yorkshire,GII.4,NA
+184,2024-04-02,86,North West,GII.17,NA
+185,2024-09-19,0,North West,GII.4,NA
+186,2025-01-29,81,London,Other,NA
+187,2024-02-26,71,South West,GII.17,2024-05-07
+188,2023-01-28,71,South West,GII.4,2023-02-05
+189,2025-01-14,92,Midlands,GII.4,2025-02-06
+190,2024-10-12,95,North West,GII.17,2025-01-05
+191,2023-01-06,87,North East and Yorkshire,GII.4,2024-05-19
+192,2023-02-26,2,North West,GII.4,NA
+193,2025-01-17,94,Midlands,GII.4,2025-06-22
+194,2024-05-04,64,South West,GII.17,NA
+195,2024-03-15,22,North West,GII.17,NA
+196,2023-10-25,15,North West,Other,NA
+197,2023-07-28,22,North West,GII.4,NA
+198,2022-09-17,93,North East and Yorkshire,Other,2025-01-03
+199,2024-09-27,46,South West,Other,NA
+200,2024-04-04,88,North West,GII.4,2024-04-19
+201,2022-11-12,73,North East and Yorkshire,GII.4,NA
+202,2023-06-13,40,East of England,Unknown,NA
+203,2024-03-03,0,North West,GII.4,NA
+204,2022-12-16,90,North West,GII.4,2023-05-12
+205,2023-02-07,81,East of England,GII.4,2025-07-16
+206,2024-04-08,69,North West,GII.4,NA
+207,2024-12-05,0,South West,GII.4,NA
+208,2023-02-11,85,North West,Other,NA
+209,2024-11-26,73,South West,Unknown,2024-12-10
+210,2024-02-29,88,North West,GII.17,NA
+211,2023-02-13,2,North West,Other,NA
+212,2024-12-17,78,Midlands,GII.4,NA
+213,2023-11-06,14,South West,Other,NA
+214,2024-02-07,0,North West,GII.17,NA
+215,2024-02-14,81,South West,GII.4,NA
+216,2022-12-19,43,East of England,GII.4,NA
+217,2025-01-03,73,South West,GII.4,2025-01-25
+218,2023-03-15,4,North West,Other,NA
+219,2023-06-12,93,South West,GII.4,2023-06-14
+220,2022-08-08,10,South West,Other,NA
+221,2022-09-22,1,North West,GII.4,NA
+222,2023-01-23,90,North East and Yorkshire,GII.4,2024-07-09
+223,2023-04-05,2,North West,GII.4,NA
+224,2024-05-06,38,North West,GII.17,NA
+225,2024-02-13,87,North West,GII.17,2024-03-01
+226,2023-11-14,0,North West,Other,NA
+227,2022-09-05,85,South West,Other,2022-09-09
+228,2025-02-03,54,South West,GII.4,NA
+229,2023-11-04,9,North West,Other,NA
+230,2025-02-04,52,Midlands,GII.4,2025-03-01
+231,2023-02-20,81,North West,GII.4,NA
+232,2024-12-20,1,South West,GII.4,NA
+233,2024-03-01,40,North West,GII.17,NA
+234,2024-06-27,70,Midlands,GII.4,NA
+235,2023-12-08,23,East of England,Unknown,NA
+236,2024-10-16,1,South West,Other,NA
+237,2024-12-09,96,North East and Yorkshire,GII.17,NA
+238,2023-11-21,92,North East and Yorkshire,GII.4,NA
+239,2024-12-30,60,North East and Yorkshire,GII.17,NA
+240,2024-01-14,92,North West,Other,2024-07-13
+241,2024-10-22,72,South West,Unknown,NA
+242,2023-02-21,1,Midlands,GII.4,NA
+243,2024-09-04,14,North West,GII.17,NA
+244,2024-07-10,1,South West,GII.17,NA
+245,2023-12-09,81,Midlands,GII.4,2024-06-03
+246,2023-10-17,1,North East and Yorkshire,Other,NA
+247,2023-01-17,48,North East and Yorkshire,GII.4,2023-03-05
+248,2024-04-06,80,North West,GII.17,NA
+249,2025-02-25,4,North West,Unknown,NA
+250,2023-05-22,2,North West,Unknown,NA
+251,2024-06-10,40,North West,GII.17,NA
+252,2024-10-08,92,North West,Other,NA
+253,2025-02-22,4,North West,Other,NA
+254,2024-04-15,69,North East and Yorkshire,GII.4,NA
+255,2024-02-27,71,North West,GII.4,NA
+256,2023-12-09,90,Midlands,GII.4,NA
+257,2024-06-25,0,North West,GII.17,NA
+258,2024-09-14,39,South West,GII.17,NA
+259,2024-05-04,42,North West,GII.17,NA
+260,2022-10-26,3,North West,Other,NA
+261,2023-07-29,1,North West,Other,NA
+262,2023-07-25,1,North West,GII.4,NA
+263,2022-10-18,64,South West,Other,NA
+264,2024-04-09,59,South West,GII.4,NA
+265,2024-12-12,77,East of England,GII.17,NA
+266,2025-03-14,1,North West,GII.4,NA
+267,2024-01-31,84,South West,GII.17,NA
+268,2023-11-21,5,North West,Other,NA
+269,2022-07-06,87,North East and Yorkshire,GII.17,2024-02-07
+270,2024-07-23,80,North East and Yorkshire,GII.17,NA
+271,2024-08-29,1,North West,Other,NA
+272,2022-12-12,79,North West,GII.4,2024-06-14
+273,2023-03-16,1,North West,GII.4,2024-08-20
+274,2023-09-29,39,North West,Other,NA
+275,2024-10-16,72,Midlands,GII.17,NA
+276,2023-08-17,43,North West,GII.4,NA
+277,2024-12-10,53,Midlands,GII.4,NA
+278,2024-03-20,88,North West,GII.4,NA
+279,2022-11-10,77,North East and Yorkshire,Other,NA
+280,2024-06-16,47,South West,Other,NA
+281,2024-12-19,70,North West,GII.4,NA
+282,2022-11-13,82,East of England,Unknown,2022-11-20
+283,2023-12-08,61,East of England,Unknown,NA
+284,2023-06-28,2,North West,Other,NA
+285,2024-08-07,1,North West,Other,NA
+286,2023-02-14,39,North West,GII.4,NA
+287,2023-12-06,92,North East and Yorkshire,GII.4,2024-02-12
+288,2023-03-05,76,East of England,GII.4,NA
+289,2024-11-12,92,North West,GII.17,NA
+290,2023-08-14,73,South West,GII.4,NA
+291,2023-08-29,0,North West,GII.4,NA
+292,2024-11-25,1,North West,Other,NA
+293,2023-02-20,81,North West,GII.4,NA
+294,2025-01-12,91,South West,GII.4,2025-04-11
+295,2024-05-03,12,North West,GII.17,NA
+296,2024-02-27,0,North West,GII.4,NA
+297,2024-04-16,84,North West,Unknown,NA
+298,2022-12-21,98,North West,GII.4,2025-05-08
+299,2024-03-16,1,North West,GII.4,NA
+300,2023-07-14,38,North West,Other,NA
+301,2023-05-02,78,North West,Unknown,2025-08-18
+302,2024-07-23,70,North West,GII.17,NA
+303,2023-08-27,85,East of England,Unknown,2023-12-04
+304,2023-10-22,40,South West,Other,NA
+305,2023-02-01,2,East of England,GII.4,NA
+306,2025-02-18,95,North West,GII.4,NA
+307,2024-02-07,0,East of England,Unknown,NA
+308,2024-07-29,15,South West,Other,NA
+309,2023-12-17,97,North West,GII.4,NA
+310,2023-12-01,1,North West,Other,NA
+311,2023-04-13,0,North West,GII.4,NA
+312,2024-06-29,36,North East and Yorkshire,GII.17,NA
+313,2024-12-18,53,South West,Other,NA
+314,2024-12-22,68,South West,GII.4,NA
+315,2025-03-09,81,East of England,GII.17,2025-07-12
+316,2024-01-21,82,South West,GII.4,NA
+317,2025-01-12,56,South West,GII.4,NA
+318,2025-03-30,88,South West,GII.17,2025-04-11
+319,2025-01-28,40,London,GII.17,NA
+320,2023-11-13,5,North West,Other,NA
+321,2024-10-02,0,North West,Other,NA
+322,2023-08-03,1,North West,Other,NA
+323,2024-03-04,1,North West,Other,NA
+324,2024-12-03,73,South West,GII.4,NA
+325,2025-03-07,27,South West,Other,NA
+326,2024-07-16,80,North West,GII.17,2024-11-05
+327,2024-09-02,1,North West,Other,NA
+328,2024-06-15,22,North East and Yorkshire,GII.17,NA
+329,2024-01-01,89,North West,GII.4,2024-10-14
+330,2023-06-01,85,South West,Unknown,2024-08-06
+331,2025-02-20,91,South West,GII.4,NA
+332,2024-05-10,77,North East and Yorkshire,GII.17,NA
+333,2023-11-24,44,South West,GII.17,NA
+334,2024-04-26,71,North West,GII.17,NA
+335,2025-01-13,27,South West,GII.17,NA
+336,2024-04-23,57,South East,Other,NA
+337,2025-03-19,78,North West,GII.17,NA
+338,2022-08-27,1,South West,GII.4,NA
+339,2022-10-21,66,North East and Yorkshire,Other,NA
+340,2024-12-08,3,North West,Unknown,NA
+341,2024-09-01,3,South West,GII.17,NA
+342,2024-07-05,76,North West,GII.17,NA
+343,2025-02-15,77,North East and Yorkshire,GII.17,NA
+344,2024-04-08,81,North West,GII.4,2024-11-07
+345,2024-10-04,1,North West,GII.17,NA
+346,2024-11-22,12,South West,Unknown,NA
+347,2024-01-11,89,Midlands,GII.4,2024-06-21
+348,2023-03-11,2,South West,GII.4,NA
+349,2024-10-25,15,North West,GII.17,NA
+350,2024-01-03,57,North West,Other,NA
+351,2024-09-03,3,South West,Other,NA
+352,2024-12-20,65,North East and Yorkshire,GII.17,2025-03-02
+353,2023-04-13,1,North West,Other,NA
+354,2023-05-11,10,North West,Other,NA
+355,2023-10-23,40,South West,Other,NA
+356,2025-01-04,85,Midlands,GII.4,NA
+357,2024-10-27,15,North West,GII.17,NA
+358,2025-03-15,88,North West,GII.17,2025-05-25
+359,2025-01-20,92,North West,GII.4,NA
+360,2023-06-01,84,South West,Unknown,2023-11-10
+361,2024-10-25,1,North West,Other,NA
+362,2025-03-09,71,North West,Other,NA
+363,2023-11-07,14,North West,Unknown,NA
+364,2024-10-16,71,South West,Other,NA
+365,2023-01-15,84,East of England,GII.4,NA
+366,2024-05-13,1,North West,GII.17,NA
+367,2023-12-18,94,East of England,Other,NA
+368,2023-05-27,2,North West,Other,NA
+369,2025-01-28,40,North West,Unknown,NA
+370,2023-09-06,15,North West,Other,NA
+371,2025-01-12,79,London,Unknown,NA
+372,2024-11-19,88,South West,GII.17,NA
+373,2023-01-31,1,North West,Other,NA
+374,2024-09-20,0,South West,GII.17,NA
+375,2023-06-21,61,South West,Other,NA
+376,2023-02-19,83,North West,GII.4,2026-02-05
+377,2025-01-08,1,North West,GII.17,NA
+378,2023-06-12,93,North East and Yorkshire,Other,2024-10-23
+379,2024-08-07,91,North West,GII.17,NA
+380,2024-12-26,85,South West,GII.17,NA
+381,2025-02-28,55,North East and Yorkshire,GII.17,2025-03-09
+382,2024-08-01,69,North West,GII.17,NA
+383,2024-09-18,34,South West,GII.17,NA
+384,2024-02-10,91,North West,GII.17,2024-12-26
+385,2024-01-16,47,North West,Other,NA
+386,2023-02-14,3,North West,GII.4,NA
+387,2023-06-02,1,North West,Other,NA
+388,2023-12-28,89,South West,GII.4,2024-03-25
+389,2023-02-28,5,North West,GII.4,NA
+390,2022-12-08,0,North West,Other,NA
+391,2022-11-21,81,East of England,Unknown,NA
+392,2025-01-31,21,South West,GII.17,NA
+393,2023-08-24,92,East of England,GII.4,2023-09-01
+394,2025-01-17,73,North West,GII.4,NA
+395,2024-03-19,62,North West,Unknown,NA
+396,2023-11-14,68,North West,GII.4,NA
+397,2023-08-23,1,North West,Other,NA
+398,2024-05-01,88,North East and Yorkshire,GII.17,NA
+399,2022-12-13,38,East of England,Unknown,NA
+400,2025-03-06,1,South West,GII.4,NA
+401,2024-07-23,81,North West,GII.17,NA
+402,2025-01-18,64,Midlands,GII.4,NA
+403,2023-07-29,1,North West,Other,NA
+404,2025-02-20,92,North East and Yorkshire,GII.17,NA
+405,2025-03-22,60,South East,GII.4,NA
+406,2024-11-25,68,South West,Other,NA
+407,2024-03-15,74,North West,GII.17,2025-08-13
+408,2023-01-11,68,North East and Yorkshire,GII.4,NA
+409,2023-12-04,39,North West,Other,NA
+410,2023-01-08,98,North East and Yorkshire,GII.4,2023-04-17
+411,2023-09-08,56,East of England,Other,NA
+412,2023-08-29,68,East of England,Unknown,NA
+413,2024-02-08,0,North West,GII.4,NA
+414,2024-04-14,79,North West,GII.17,NA
+415,2024-08-17,69,North West,GII.17,NA
+416,2023-08-03,35,South West,Other,NA
+417,2024-03-13,92,North West,GII.4,2024-12-02
+418,2023-01-24,96,South West,GII.4,NA
+419,2024-11-27,90,East of England,GII.17,NA
+420,2025-03-03,95,North East and Yorkshire,GII.17,NA
+421,2024-03-20,73,North West,GII.17,NA
+422,2023-12-14,82,North East and Yorkshire,GII.4,2024-01-12
+423,2024-03-04,1,North West,Other,NA
+424,2023-12-18,92,East of England,GII.4,NA
+425,2023-02-15,0,North West,Other,NA
+426,2024-10-17,45,North West,GII.17,NA
+427,2024-03-22,40,North West,Unknown,NA
+428,2023-08-25,84,North West,Other,2023-09-01
+429,2023-03-15,2,North West,Other,NA
+430,2025-02-19,95,North East and Yorkshire,GII.4,2025-02-25
+431,2024-11-27,51,North West,GII.17,NA
+432,2023-12-04,1,North West,Other,NA
+433,2024-09-29,32,East of England,Unknown,NA
+434,2022-09-01,0,South East,Other,NA
+435,2023-12-18,90,North West,GII.4,2024-12-11
+436,2025-03-24,95,North East and Yorkshire,Other,NA
+437,2024-04-30,97,North West,GII.17,2025-04-13
+438,2025-01-10,84,South West,GII.17,NA
+439,2023-04-09,31,North East and Yorkshire,GII.4,NA
+440,2024-01-16,47,North East and Yorkshire,GII.4,NA
+441,2024-06-14,84,North East and Yorkshire,GII.17,2024-08-30
+442,2024-11-21,12,North West,GII.17,NA
+443,2024-11-12,99,North West,Other,2024-12-26
+444,2024-01-06,87,North West,GII.4,NA
+445,2024-07-10,53,North East and Yorkshire,GII.17,NA
+446,2024-10-25,0,North West,Other,NA
+447,2024-12-06,75,Midlands,GII.4,2025-02-16
+448,2024-08-14,32,East of England,GII.17,NA
+449,2024-01-03,0,North West,Other,NA
+450,2024-10-09,57,South West,Other,NA
+451,2023-01-18,1,North West,GII.4,NA
+452,2023-12-28,35,North West,Other,NA
+453,2024-11-30,92,North West,GII.17,2025-02-24
+454,2025-02-03,87,Midlands,Other,NA
+455,2023-02-13,2,North West,Other,NA
+456,2024-10-01,31,South West,Unknown,NA
+457,2024-10-07,92,North West,Other,NA
+458,2024-07-06,37,North West,GII.17,NA
+459,2024-04-25,22,North West,GII.4,NA
+460,2022-11-01,4,South West,Other,NA
+461,2023-12-03,95,Midlands,GII.4,NA
+462,2024-07-11,21,North West,GII.17,NA
+463,2023-05-09,76,North West,GII.4,2023-10-03
+464,2024-06-28,0,South West,Other,NA
+465,2024-09-16,34,South West,GII.17,NA
+466,2025-02-11,94,North West,GII.4,NA
+467,2024-03-25,79,North West,GII.17,2024-11-09
+468,2024-05-03,79,North East and Yorkshire,GII.17,NA
+469,2024-12-22,51,North West,Other,NA
+470,2024-01-13,89,North West,GII.4,2024-03-31
+471,2023-12-08,60,South West,Unknown,NA
+472,2023-02-16,96,Midlands,GII.4,2025-07-04
+473,2025-02-20,82,North West,GII.17,NA
+474,2024-02-03,69,North East and Yorkshire,GII.4,NA
+475,2024-04-18,57,South East,Other,NA
+476,2025-01-18,59,North West,Unknown,NA
+477,2023-01-31,82,North West,GII.4,2023-12-22
+478,2023-02-11,1,North West,GII.4,NA
+479,2022-09-19,93,North East and Yorkshire,GII.17,NA
+480,2023-12-08,74,East of England,Unknown,NA
+481,2024-06-26,0,North West,Other,NA
+482,2022-09-09,2,South West,Unknown,NA
+483,2022-07-11,49,North West,GII.4,NA
+484,2024-12-11,81,North East and Yorkshire,GII.17,NA
+485,2024-10-15,0,North West,GII.4,NA
+486,2024-02-09,71,North West,GII.4,NA
+487,2024-04-29,75,North West,GII.17,NA
+488,2022-10-25,0,North West,Other,NA
+489,2024-04-19,87,North East and Yorkshire,GII.4,NA
+490,2023-03-23,85,North West,GII.4,NA
+491,2025-02-26,76,South West,GII.17,2025-03-12
+492,2025-01-16,1,North West,Unknown,NA
+493,2023-10-05,1,North West,Other,NA
+494,2024-01-16,80,North West,GII.4,NA
+495,2023-03-23,85,North West,GII.4,NA
+496,2024-07-16,34,North West,Unknown,NA
+497,2022-12-20,1,North West,Unknown,NA
+498,2024-11-08,68,South West,Other,NA
+499,2023-11-04,0,London,Unknown,NA
+500,2022-10-15,1,South West,Other,NA
+501,2025-02-17,59,East of England,GII.17,NA
+502,2024-12-07,83,Midlands,GII.4,2025-01-25
+503,2022-10-08,97,North East and Yorkshire,GII.17,NA
+504,2024-01-21,0,North West,Other,NA
+505,2024-09-28,46,East of England,Other,NA
+506,2024-10-21,7,North West,GII.4,NA
+507,2025-01-07,79,Midlands,GII.4,NA
+508,2022-08-21,53,North East and Yorkshire,Other,NA
+509,2023-03-05,56,North West,Other,NA
+510,2023-12-29,91,North West,GII.4,NA
+511,2024-01-17,1,North West,Unknown,NA
+512,2025-01-08,88,Midlands,GII.17,NA
+513,2023-05-10,70,South East,GII.4,NA
+514,2023-08-07,85,East of England,Unknown,2023-09-16
+515,2023-12-16,87,North West,GII.4,NA
+516,2023-10-17,66,South West,GII.4,NA
+517,2025-01-01,79,North East and Yorkshire,GII.17,NA
+518,2024-04-09,59,North West,Other,NA
+519,2023-03-10,57,East of England,Unknown,NA
+520,2025-03-04,91,East of England,GII.17,NA
+521,2024-12-13,67,North West,GII.17,NA
+522,2023-07-18,63,North West,Other,NA
+523,2023-06-22,39,South West,Other,NA
+524,2022-10-20,1,North West,GII.4,NA
+525,2024-11-21,0,North West,GII.4,NA
+526,2024-11-28,92,East of England,GII.17,NA
+527,2024-12-31,79,Midlands,GII.17,NA
+528,2024-11-22,0,South West,GII.4,NA
+529,2023-12-15,71,North East and Yorkshire,GII.4,NA
+530,2024-04-17,79,North West,GII.4,NA
+531,2024-06-01,81,North East and Yorkshire,GII.17,NA
+532,2024-09-09,2,North West,GII.4,NA
+533,2025-02-07,85,North East and Yorkshire,GII.17,2025-07-19
+534,2023-09-25,44,East of England,Other,NA
+535,2023-02-10,0,Midlands,GII.4,NA
+536,2024-02-28,1,South East,Unknown,NA
+537,2024-04-22,18,North East and Yorkshire,GII.17,NA
+538,2023-05-09,76,North West,GII.4,NA
+539,2022-07-07,0,South West,GII.4,NA
+540,2024-04-15,84,North East and Yorkshire,GII.4,2024-05-07
+541,2024-01-07,59,North West,GII.4,NA
+542,2022-10-15,64,North East and Yorkshire,Other,NA
+543,2024-12-24,82,South West,GII.17,NA
+544,2023-01-18,0,North West,Other,NA
+545,2025-03-12,0,North West,Other,NA
+546,2023-01-30,79,North East and Yorkshire,GII.4,2023-02-28
+547,2024-06-18,38,North West,Other,NA
+548,2024-03-16,75,North West,GII.17,NA
+549,2022-11-08,85,East of England,Unknown,2023-04-13
+550,2025-01-15,87,North East and Yorkshire,GII.17,NA
+551,2024-12-15,64,Midlands,GII.4,NA
+552,2024-06-15,22,North West,GII.17,NA
+553,2023-10-18,19,South West,Other,2024-08-24
+554,2024-03-26,81,North West,GII.4,NA
+555,2024-12-23,71,North West,GII.4,NA
+556,2023-12-28,35,South East,Other,NA
+557,2024-01-03,57,North East and Yorkshire,GII.4,NA
+558,2024-02-28,44,Midlands,GII.17,2024-03-28
+559,2024-11-30,90,North West,GII.17,NA
+560,2023-05-18,76,North East and Yorkshire,GII.4,NA
+561,2023-02-03,1,North West,GII.4,NA
+562,2024-06-28,88,South West,GII.17,NA
+563,2024-03-22,92,North West,GII.17,2024-04-11
+564,2024-02-02,87,South West,GII.4,NA
+565,2022-09-19,91,North East and Yorkshire,GII.17,2024-01-07
+566,2023-12-23,63,North West,GII.4,NA
+567,2024-03-16,88,North East and Yorkshire,Other,2024-04-30
+568,2023-08-24,0,South West,Unknown,NA
+569,2023-01-10,55,South West,GII.4,2024-07-13
+570,2024-11-26,73,Midlands,GII.17,NA
+571,2023-11-07,1,North West,Other,NA
+572,2024-04-01,58,South West,GII.17,NA
+573,2022-11-23,89,South West,Unknown,2024-03-17
+574,2023-03-15,82,North West,GII.4,2025-01-24
+575,2024-09-02,41,North West,GII.17,NA
+576,2024-12-20,4,North West,Other,NA
+577,2024-02-29,75,North East and Yorkshire,GII.17,NA
+578,2024-10-27,0,North West,Other,NA
+579,2025-02-26,90,South West,GII.4,2025-04-16
+580,2023-01-20,83,Midlands,GII.4,2023-06-24
+581,2023-03-07,98,North East and Yorkshire,Other,2023-10-14
+582,2024-05-30,81,North West,GII.17,NA
+583,2024-10-02,39,South West,GII.17,2024-10-08
+584,2023-07-14,38,North West,Other,2024-04-27
+585,2024-09-17,20,South West,GII.17,NA
+586,2024-05-22,77,North East and Yorkshire,GII.17,NA
+587,2022-11-05,78,North East and Yorkshire,GII.4,NA
+588,2025-02-21,89,South West,GII.4,2025-04-29
+589,2024-10-24,77,North East and Yorkshire,GII.17,NA
+590,2024-04-11,1,North West,GII.17,NA
+591,2025-02-28,7,North West,Other,NA
+592,2024-07-23,70,North West,GII.17,NA
+593,2024-05-02,88,North East and Yorkshire,GII.17,NA
+594,2025-02-25,90,North West,GII.4,NA
+595,2023-03-18,2,North West,GII.4,NA
+596,2023-03-18,60,North West,GII.4,2025-02-14
+597,2025-01-15,90,North West,GII.4,NA
+598,2023-12-19,3,North West,GII.4,NA
+599,2024-01-02,91,South West,GII.4,NA
+600,2023-06-11,61,East of England,Unknown,NA
+601,2025-01-29,86,Midlands,GII.4,NA
+602,2024-10-28,90,North West,GII.17,NA
+603,2024-08-12,99,North West,GII.17,2024-10-27
+604,2022-12-19,43,East of England,Unknown,NA
+605,2024-07-07,79,London,GII.17,NA
+606,2023-02-15,73,North East and Yorkshire,GII.4,2024-10-13
+607,2022-10-16,57,London,Other,NA
+608,2024-12-02,75,North West,GII.17,NA
+609,2024-09-06,50,North West,GII.17,NA
+610,2023-02-02,91,East of England,Unknown,2023-12-22
+611,2025-01-21,97,South West,GII.4,NA
+612,2024-10-24,78,North West,Other,NA
+613,2024-11-21,1,North West,Other,NA
+614,2023-08-09,39,North East and Yorkshire,Other,NA
+615,2023-12-06,92,Midlands,GII.17,2024-06-23
+616,2022-08-05,38,North East and Yorkshire,Other,NA
+617,2022-09-17,0,North West,GII.4,NA
+618,2023-07-16,1,North West,Other,NA
+619,2025-02-22,1,South West,Other,NA
+620,2023-10-06,1,North West,Other,NA
+621,2024-04-28,1,North East and Yorkshire,GII.17,NA
+622,2024-11-20,87,South West,GII.17,NA
+623,2023-02-05,81,North East and Yorkshire,GII.4,2023-07-15
+624,2024-11-06,65,North West,GII.17,NA
+625,2022-12-14,92,North West,GII.4,2024-04-26
+626,2023-02-07,91,East of England,GII.4,2023-08-02
+627,2023-01-30,93,South West,GII.4,2026-01-16
+628,2023-07-05,2,North West,Other,NA
+629,2024-03-29,87,North West,GII.4,2024-04-06
+630,2023-04-19,8,North West,GII.4,NA
+631,2025-02-12,77,North West,GII.17,2025-03-03
+632,2023-04-20,0,North West,GII.4,NA
+633,2023-02-09,81,North East and Yorkshire,GII.4,NA
+634,2023-05-03,2,North West,GII.4,NA
+635,2023-07-07,49,North East and Yorkshire,Other,NA
+636,2023-12-09,69,North West,GII.4,NA
+637,2025-02-20,86,North East and Yorkshire,GII.17,NA
+638,2024-04-16,84,North West,GII.4,NA
+639,2025-02-13,61,North West,GII.17,NA
+640,2023-12-05,70,North West,GII.4,NA
+641,2024-12-29,79,South East,GII.17,NA
+642,2024-02-29,88,North West,GII.17,2024-10-02
+643,2023-12-20,3,North West,GII.4,NA
+644,2025-03-27,78,South West,GII.17,NA
+645,2023-06-02,1,North West,Other,NA
+646,2024-11-15,81,North West,GII.17,NA
+647,2023-01-09,81,South West,GII.4,2023-07-08
+648,2023-02-25,0,North West,Other,NA
+649,2023-11-25,91,East of England,Other,NA
+650,2025-01-28,84,South West,GII.17,NA
+651,2022-09-24,2,North West,Other,NA
+652,2024-03-17,81,North West,GII.4,NA
+653,2025-01-05,89,Midlands,GII.4,NA
+654,2024-05-16,40,North West,GII.17,NA
+655,2025-03-05,88,North West,GII.4,NA
+656,2024-12-06,70,North West,GII.17,NA
+657,2023-12-07,82,South West,GII.4,2024-09-20
+658,2024-12-09,87,Midlands,GII.17,2025-03-05
+659,2023-07-25,64,South West,Other,NA
+660,2024-04-04,78,North West,GII.17,NA
+661,2024-10-22,89,North East and Yorkshire,GII.17,NA
+662,2023-12-28,84,Midlands,GII.4,2024-11-14
+663,2023-12-30,63,North West,GII.4,NA
+664,2024-12-09,82,Midlands,GII.4,NA
+665,2025-01-07,79,North West,GII.17,NA
+666,2025-03-27,78,South West,GII.4,NA
+667,2024-04-10,90,North East and Yorkshire,GII.4,2024-08-31
+668,2022-11-13,87,North East and Yorkshire,GII.4,NA
+669,2023-02-08,90,North West,GII.4,NA
+670,2024-02-18,1,North West,GII.17,NA
+671,2022-08-11,83,North East and Yorkshire,Other,2022-10-25
+672,2023-12-31,81,North West,GII.4,2024-06-04
+673,2025-03-07,95,North East and Yorkshire,GII.4,2025-03-19
+674,2024-12-01,6,South East,Unknown,NA
+675,2022-11-30,2,North West,Other,NA
+676,2024-09-25,1,East of England,Unknown,NA
+677,2024-04-15,87,South West,GII.4,NA
+678,2024-01-07,87,South West,Other,NA
+679,2023-03-13,60,South West,Other,NA
+680,2022-09-16,39,South West,Other,NA
+681,2023-10-21,23,South West,Unknown,2024-11-26
+682,2024-03-16,1,North West,GII.4,NA
+683,2024-02-27,71,North West,GII.17,NA
+684,2024-02-27,0,North West,GII.4,NA
+685,2023-06-22,1,North West,Other,NA
+686,2023-02-23,1,North West,Other,NA
+687,2023-02-07,75,North West,Other,NA
+688,2024-04-19,79,Midlands,GII.17,NA
+689,2025-01-20,78,South West,GII.17,2025-03-27
+690,2024-08-04,69,North West,GII.17,NA
+691,2023-06-08,3,North West,Other,NA
+692,2023-09-05,0,North West,Other,NA
+693,2022-10-15,15,North East and Yorkshire,Other,NA
+694,2025-03-02,83,North East and Yorkshire,GII.17,NA
+695,2022-10-21,41,South West,Other,NA
+696,2023-03-06,65,North West,GII.4,NA
+697,2024-08-19,95,North East and Yorkshire,GII.17,NA
+698,2024-03-08,87,North West,GII.17,2025-02-10
+699,2023-04-19,7,East of England,Other,NA
+700,2023-12-25,79,North West,GII.4,NA
+701,2023-12-21,31,North West,Other,NA
+702,2022-09-16,77,North East and Yorkshire,Other,NA
+703,2022-10-21,1,North West,Other,NA
+704,2022-10-22,0,North West,Other,NA
+705,2025-01-09,91,Midlands,GII.17,NA
+706,2022-09-25,88,North East and Yorkshire,Other,2023-03-20
+707,2023-12-29,70,North West,GII.4,2024-09-21
+708,2024-06-28,88,East of England,Unknown,2024-12-11
+709,2023-12-01,2,North West,Other,NA
+710,2023-01-04,10,North West,GII.4,NA
+711,2024-12-06,1,North West,GII.4,NA
+712,2024-09-20,0,East of England,GII.17,NA
+713,2024-05-19,76,North West,GII.17,NA
+714,2023-11-20,0,South West,Other,NA
+715,2023-08-29,0,North West,Other,NA
+716,2024-11-08,94,Midlands,GII.17,NA
+717,2024-11-30,76,South East,GII.4,NA
+718,2024-12-09,88,North East and Yorkshire,GII.4,2025-01-01
+719,2025-02-25,6,North West,GII.4,NA
+720,2023-01-30,85,North West,GII.4,NA
+721,2024-03-26,87,North West,GII.17,2024-08-29
+722,2023-02-15,70,North East and Yorkshire,GII.4,NA
+723,2025-01-05,96,East of England,GII.17,2025-02-18
+724,2023-08-25,1,North West,Other,NA
+725,2024-12-02,65,North West,GII.17,NA
+726,2024-11-18,2,North West,Other,NA
+727,2024-04-02,92,North West,GII.17,NA
+728,2024-01-29,1,North West,GII.4,NA
+729,2025-01-16,65,East of England,GII.17,NA
+730,2024-10-09,83,North West,GII.17,2025-01-04
+731,2024-04-12,98,North East and Yorkshire,GII.4,2024-07-30
+732,2025-01-16,83,North West,GII.17,2025-06-27
+733,2024-12-10,53,East of England,GII.4,NA
+734,2022-08-08,8,East of England,Unknown,NA
+735,2024-07-11,4,North West,GII.17,NA
+736,2024-05-16,37,North West,GII.17,NA
+737,2024-02-15,87,North East and Yorkshire,GII.4,2024-02-16
+738,2024-03-04,81,North West,GII.17,2024-06-24
+739,2022-12-16,74,South West,GII.4,NA
+740,2024-06-10,20,East of England,GII.17,NA
+741,2023-11-23,92,South West,GII.4,NA
+742,2022-08-09,86,North West,GII.4,2022-08-23
+743,2024-01-02,91,North West,GII.4,NA
+744,2023-05-11,17,North West,Other,NA
+745,2025-01-12,70,South West,GII.4,NA
+746,2023-01-17,4,North West,GII.4,NA
+747,2023-03-06,78,East of England,Unknown,2023-07-31
+748,2025-02-03,87,North West,GII.4,NA
+749,2022-09-02,72,South West,Other,NA
+750,2022-12-02,0,North West,Other,NA
+751,2024-10-17,60,South West,GII.17,NA
+752,2023-02-15,77,North West,GII.4,2023-02-17
+753,2023-04-07,102,North East and Yorkshire,GII.4,2024-05-12
+754,2022-12-22,1,North West,GII.4,NA
+755,2024-03-22,75,North West,GII.17,2024-03-31
+756,2024-12-02,88,Midlands,GII.4,NA
+757,2024-10-14,86,Midlands,GII.17,NA
+758,2023-08-07,56,East of England,Unknown,NA
+759,2023-05-06,2,North West,Other,NA
+760,2024-11-29,77,East of England,GII.17,NA
+761,2022-09-18,90,East of England,GII.4,NA
+762,2024-10-10,100,North West,Other,NA
+763,2023-12-11,70,North East and Yorkshire,Other,NA
+764,2024-08-12,91,North West,GII.17,2025-01-15
+765,2023-03-06,80,North West,Unknown,2024-11-19
+766,2024-04-22,85,North West,GII.17,NA
+767,2024-02-29,96,North West,GII.17,NA
+768,2023-01-06,91,North East and Yorkshire,GII.4,NA
+769,2024-07-07,79,North East and Yorkshire,GII.17,NA
+770,2024-07-01,80,South West,GII.17,NA
+771,2022-09-16,45,North East and Yorkshire,GII.4,2024-10-11
+772,2024-07-09,1,South West,GII.17,NA
+773,2023-06-20,39,North West,GII.4,2024-03-22
+774,2023-08-15,1,North West,Other,NA
+775,2023-11-17,88,North East and Yorkshire,Other,2024-08-19
+776,2023-01-18,2,North West,GII.4,NA
+777,2023-12-20,65,East of England,Unknown,2024-02-15
+778,2024-08-08,52,South West,GII.17,NA
+779,2025-03-05,85,Midlands,GII.17,NA
+780,2024-01-17,92,North West,GII.4,2024-06-27
+781,2023-07-18,63,North West,Other,2024-01-24
+782,2023-06-09,86,Midlands,Unknown,2025-04-01
+783,2024-04-07,77,South West,GII.4,NA
+784,2024-04-23,84,North West,GII.4,2024-10-22
+785,2023-11-30,2,North West,Other,NA
+786,2024-12-30,83,North East and Yorkshire,GII.17,NA
+787,2023-02-01,89,North West,Other,2024-08-22
+788,2025-01-21,72,Midlands,GII.4,2025-03-02
+789,2023-02-27,4,South West,Other,NA
+790,2024-01-17,1,North West,Other,NA
+791,2022-12-16,1,North West,Unknown,NA
+792,2024-03-04,3,North West,Other,NA
+793,2025-01-15,73,Midlands,GII.17,NA
+794,2025-02-20,86,Midlands,GII.17,NA
+795,2023-12-08,62,North West,Unknown,NA
+796,2025-01-16,81,Midlands,GII.4,NA
+797,2024-12-29,79,North West,GII.17,NA
+798,2023-08-09,39,South West,Other,NA
+799,2024-10-16,84,Midlands,GII.17,2025-03-31
+800,2024-05-20,1,North West,GII.17,2025-03-27
+801,2024-12-08,84,East of England,GII.17,2025-05-15
+802,2022-12-13,78,North East and Yorkshire,Other,NA
+803,2024-10-10,0,South West,GII.17,NA
+804,2024-03-22,2,East of England,Other,NA
+805,2024-05-26,90,North West,GII.17,NA
+806,2024-10-15,97,North West,GII.17,NA
+807,2024-12-20,65,North East and Yorkshire,GII.17,NA
+808,2023-06-09,3,North West,Other,2023-08-19
+809,2024-01-26,75,South West,GII.4,NA
+810,2024-09-20,0,South West,GII.4,NA
+811,2023-06-12,79,East of England,GII.4,NA
+812,2024-08-06,65,North West,GII.17,NA
+813,2023-10-18,32,South West,Other,2024-10-11
+814,2024-05-21,90,North West,GII.17,NA
+815,2022-09-16,80,North West,GII.4,2022-11-11
+816,2025-02-19,89,South West,GII.4,NA
+817,2023-02-08,81,East of England,GII.4,2023-02-16
+818,2023-10-18,61,South West,GII.4,2023-10-22
+819,2025-01-10,88,North West,GII.17,2025-05-06
+820,2022-12-25,62,East of England,GII.4,NA
+821,2024-11-06,65,North West,Unknown,NA
+822,2024-03-29,68,South West,GII.17,NA
+823,2024-03-19,5,East of England,GII.17,NA
+824,2022-12-06,54,South West,GII.4,2024-09-28
+825,2024-12-29,78,South East,GII.17,NA
+826,2024-04-28,49,North East and Yorkshire,Other,2024-06-18
+827,2024-02-13,0,North West,Other,NA
+828,2024-05-13,69,North West,GII.17,2024-06-14
+829,2025-03-09,92,South West,GII.4,NA
+830,2024-10-14,86,Midlands,GII.17,NA
+831,2023-07-17,89,North East and Yorkshire,Other,NA
+832,2023-02-04,0,North West,Other,NA
+833,2024-03-07,43,North East and Yorkshire,GII.17,NA
+834,2023-11-16,37,South West,GII.17,2024-11-21
+835,2025-03-22,86,Midlands,Unknown,2025-08-25
+836,2024-11-27,71,North West,GII.17,2025-02-05
+837,2024-08-09,52,North West,GII.17,NA
+838,2024-04-16,80,North West,GII.4,NA
+839,2024-10-14,91,Midlands,GII.17,NA
+840,2024-12-24,94,East of England,GII.17,NA
+841,2023-02-28,88,North West,GII.4,2023-03-16
+842,2024-12-23,81,East of England,GII.17,2025-01-26
+843,2024-12-05,91,South West,GII.17,2024-12-22
+844,2023-04-24,2,North West,GII.4,NA
+845,2024-09-09,2,South West,GII.4,NA
+846,2023-11-29,4,North West,GII.17,NA
+847,2023-12-09,1,North West,Other,2024-03-24
+848,2023-07-10,88,North East and Yorkshire,Other,2024-03-26
+849,2025-01-23,61,North West,Unknown,NA
+850,2024-09-17,89,Midlands,GII.17,NA
+851,2025-01-09,81,Midlands,GII.4,2025-02-01
+852,2024-04-11,1,East of England,Other,NA
+853,2022-10-21,66,North East and Yorkshire,Other,NA
+854,2024-04-14,26,South West,Other,NA
+855,2025-01-23,85,North West,GII.17,NA
+856,2023-12-04,60,East of England,Unknown,2025-11-03
+857,2024-12-14,67,Midlands,GII.4,NA
+858,2024-03-28,83,North West,GII.4,NA
+859,2025-01-20,63,Midlands,GII.17,NA
+860,2024-10-10,33,South West,Unknown,NA
+861,2025-03-19,78,North West,GII.17,2025-05-08
+862,2024-12-13,56,South West,Other,NA
+863,2024-02-07,3,North West,Other,NA
+864,2024-04-22,18,North West,Other,NA
+865,2023-04-04,0,North West,GII.4,NA
+866,2023-03-09,88,North East and Yorkshire,GII.4,NA
+867,2025-01-12,67,South West,GII.4,NA
+868,2022-11-25,95,East of England,Unknown,2023-04-30
+869,2024-04-30,64,South West,GII.4,NA
+870,2024-05-22,80,South West,GII.17,NA
+871,2023-12-30,63,North West,GII.4,NA
+872,2025-02-01,2,North West,GII.4,NA
+873,2024-09-19,94,East of England,Unknown,NA
+874,2024-12-26,84,South West,GII.4,NA
+875,2024-05-04,42,North West,GII.17,NA
+876,2025-03-24,25,North West,Other,NA
+877,2024-10-22,83,South West,GII.17,2024-11-19
+878,2023-05-25,1,North West,GII.4,NA
+879,2024-04-03,58,North West,GII.17,NA
+880,2024-03-22,16,South West,GII.17,NA
+881,2024-11-13,84,North West,GII.17,NA
+882,2023-10-23,4,North West,Other,NA
+883,2025-01-20,68,North West,GII.17,NA
+884,2024-12-12,60,North West,GII.17,NA
+885,2024-02-10,78,North East and Yorkshire,GII.4,NA
+886,2023-03-01,51,South West,GII.4,NA
+887,2024-07-11,21,North West,GII.17,NA
+888,2022-12-15,1,North West,Other,NA
+889,2022-12-11,79,Midlands,GII.4,NA
+890,2024-03-23,77,North West,GII.17,NA
+891,2023-02-05,81,North West,GII.4,2025-07-28
+892,2022-09-26,82,North East and Yorkshire,Other,NA
+893,2024-10-24,50,North West,Other,NA
+894,2024-12-03,53,South West,GII.17,NA
+895,2025-02-23,69,North West,GII.4,NA
+896,2025-01-16,56,North West,GII.17,NA
+897,2024-10-30,77,North West,GII.4,NA
+898,2024-11-29,82,South West,GII.17,2025-01-13
+899,2025-03-20,58,North West,GII.4,NA
+900,2023-09-08,15,East of England,GII.4,NA
+901,2025-01-16,56,East of England,Other,NA
+902,2024-12-17,96,South West,GII.17,NA
+903,2023-05-08,1,North West,Unknown,NA
+904,2023-12-09,82,Midlands,GII.4,2024-05-19
+905,2023-06-08,31,East of England,Other,NA
+906,2024-12-30,70,North East and Yorkshire,GII.4,NA
+907,2023-02-20,91,North East and Yorkshire,GII.4,NA
+908,2024-12-16,77,Midlands,GII.17,NA
+909,2025-03-12,2,South West,GII.4,NA
+910,2024-10-30,75,North West,GII.17,NA
+911,2023-03-13,75,North West,GII.4,NA
+912,2023-02-01,1,North West,GII.4,NA
+913,2025-03-05,86,North East and Yorkshire,GII.17,2025-06-09
+914,2023-03-02,91,North East and Yorkshire,GII.4,2023-11-27
+915,2024-12-08,86,Midlands,Other,NA
+916,2022-11-22,71,East of England,Unknown,NA
+917,2023-02-09,85,South West,GII.4,2023-04-06
+918,2022-11-09,3,North West,Other,NA
+919,2023-04-14,0,North West,Unknown,NA
+920,2024-07-03,73,East of England,GII.17,NA
+921,2022-07-27,71,South West,Other,NA
+922,2022-12-25,62,North East and Yorkshire,GII.4,2023-01-07
+923,2024-03-12,79,North West,GII.17,NA
+924,2023-12-14,75,Midlands,GII.4,2024-01-06
+925,2024-04-21,81,North West,GII.4,NA
+926,2023-01-08,91,North East and Yorkshire,GII.4,2023-12-19
+927,2022-12-10,0,North West,GII.4,NA
+928,2022-10-21,91,North East and Yorkshire,GII.4,2023-04-28
+929,2025-01-09,72,Midlands,Unknown,NA
+930,2023-11-25,12,North West,Other,NA
+931,2022-08-30,1,South West,GII.4,NA
+932,2023-01-20,1,North West,Other,NA
+933,2023-12-03,3,North West,Other,NA
+934,2025-03-21,2,North West,GII.17,NA
+935,2023-01-28,71,South West,GII.4,2024-07-11
+936,2022-11-25,92,North East and Yorkshire,Unknown,2024-06-21
+937,2023-07-31,1,South West,Unknown,NA
+938,2024-12-05,28,Midlands,GII.17,NA
+939,2025-01-14,0,North West,Other,NA
+940,2022-09-20,1,North West,GII.4,NA
+941,2022-11-07,72,East of England,Unknown,2023-06-18
+942,2024-11-16,88,Midlands,GII.17,NA
+943,2024-01-10,91,Midlands,GII.4,2024-01-11
+944,2024-12-02,91,South East,GII.17,NA
+945,2024-08-14,41,North West,GII.17,NA
+946,2023-03-06,2,North West,GII.4,NA
+947,2023-08-18,3,North West,Other,NA
+948,2025-03-31,87,North West,Other,NA
+949,2024-11-29,82,South West,Unknown,2025-02-03
+950,2024-05-09,78,North East and Yorkshire,GII.17,NA
+951,2024-11-08,68,North West,GII.17,NA
+952,2023-07-09,2,North West,Other,NA
+953,2023-03-06,78,East of England,GII.4,NA
+954,2024-09-24,32,South West,Other,2024-09-24
+955,2024-04-17,86,North West,GII.4,NA
+956,2024-06-06,4,South West,Other,NA
+957,2024-10-24,32,North West,Other,NA
+958,2023-06-01,66,North West,GII.4,2024-09-08
+959,2024-07-23,37,North West,GII.17,NA
+960,2024-10-22,39,North West,GII.17,NA
+961,2023-11-27,53,North West,Unknown,NA
+962,2023-12-22,63,North West,GII.4,2024-04-29
+963,2024-12-09,1,South West,GII.4,NA
+964,2024-07-07,75,North East and Yorkshire,GII.17,2024-11-17
+965,2024-07-11,21,North West,GII.17,NA
+966,2023-04-06,2,North West,GII.4,NA
+967,2023-12-05,76,East of England,Unknown,2024-01-20
+968,2024-11-27,76,South West,GII.4,NA
+969,2023-05-10,70,North East and Yorkshire,GII.4,2023-12-28
+970,2024-11-27,84,North West,GII.17,2025-04-25
+971,2023-04-26,3,South West,Unknown,NA
+972,2024-11-01,0,North West,Other,NA
+973,2024-06-10,38,North East and Yorkshire,Other,NA
+974,2023-03-27,0,North West,GII.4,NA
+975,2023-03-10,32,East of England,Other,NA
+976,2024-11-13,59,North West,GII.17,NA
+977,2024-07-24,37,North West,GII.17,NA
+978,2024-11-25,74,North West,GII.17,NA
+979,2022-10-21,83,London,Unknown,2022-11-03
+980,2023-12-28,89,South West,GII.4,NA
+981,2024-06-10,84,Midlands,GII.4,2024-12-27
+982,2025-01-24,92,North West,GII.17,NA
+983,2023-06-12,1,North West,Other,NA
+984,2023-04-10,92,North East and Yorkshire,GII.4,2023-05-15
+985,2024-06-25,0,North West,Other,NA
+986,2024-10-09,1,South West,Other,NA
+987,2023-09-07,1,North West,Other,NA
+988,2023-12-02,77,North West,GII.4,2024-07-31
+989,2024-03-26,78,North West,GII.17,NA
+990,2024-12-16,79,Midlands,GII.4,NA
+991,2023-07-14,89,North East and Yorkshire,Other,NA
+992,2023-06-12,0,North West,GII.4,NA
+993,2024-11-26,1,North West,GII.4,NA
+994,2025-03-27,56,South East,GII.4,NA
+995,2024-04-23,34,North West,Other,NA
+996,2022-11-14,66,East of England,Unknown,2022-11-21
+997,2024-05-21,92,North West,GII.17,2025-05-26
+998,2025-01-14,83,South West,GII.17,2025-04-14
+999,2024-10-16,84,North West,GII.17,NA
+1000,2024-11-27,75,East of England,GII.17,NA
+1001,2025-02-28,5,North West,GII.4,NA
+1002,2024-07-10,85,North East and Yorkshire,GII.17,2025-05-07
+1003,2024-12-29,63,South West,GII.4,NA
+1004,2024-07-09,53,North West,Other,NA
+1005,2025-03-08,4,North West,GII.17,NA
+1006,2024-10-10,0,East of England,Unknown,NA
+1007,2023-02-01,82,South West,GII.4,NA
+1008,2024-05-18,78,North West,GII.17,2024-06-08
+1009,2024-04-14,84,South West,GII.17,NA
+1010,2023-12-20,2,North West,Other,NA
+1011,2025-03-06,70,North West,Other,NA
+1012,2023-02-10,1,North West,GII.4,NA
+1013,2024-12-08,71,Midlands,GII.4,NA
+1014,2024-06-05,53,East of England,GII.17,NA
+1015,2023-12-03,67,South West,GII.17,2024-01-26
+1016,2023-11-21,5,South West,GII.4,NA
+1017,2023-08-09,17,North East and Yorkshire,Other,NA
+1018,2023-07-25,4,North West,GII.4,NA
+1019,2022-10-21,78,North West,GII.4,2023-11-26
+1020,2024-12-03,75,London,GII.4,NA
+1021,2023-02-23,50,North East and Yorkshire,GII.4,NA
+1022,2024-09-23,6,North West,Other,NA
+1023,2024-05-21,1,North West,GII.17,NA
+1024,2024-09-23,76,North West,GII.17,NA
+1025,2024-05-18,54,North East and Yorkshire,GII.17,NA
+1026,2022-07-21,4,East of England,Other,NA
+1027,2024-09-23,6,South West,Other,NA
+1028,2022-11-17,0,South West,Other,NA
+1029,2023-05-12,2,North West,Other,NA
+1030,2023-01-08,84,North East and Yorkshire,GII.4,2023-01-16
+1031,2022-09-18,90,North East and Yorkshire,GII.4,NA
+1032,2023-07-08,1,North West,Other,NA
+1033,2024-12-28,79,South East,GII.17,NA
+1034,2024-12-28,96,North East and Yorkshire,GII.17,2025-06-12
+1035,2024-03-19,62,North West,GII.17,2024-05-27
+1036,2024-07-10,31,North West,GII.4,NA
+1037,2023-04-07,70,North East and Yorkshire,GII.4,2023-04-23
+1038,2024-11-13,84,North West,GII.17,2024-11-15
+1039,2024-11-27,84,North West,GII.17,2025-03-23
+1040,2023-06-04,87,South West,GII.4,NA
+1041,2022-11-15,67,East of England,Unknown,2023-11-22
+1042,2023-11-26,0,East of England,Unknown,NA
+1043,2025-01-14,83,North West,GII.17,NA
+1044,2023-02-25,35,North West,Other,NA
+1045,2024-12-30,29,North West,GII.17,NA
+1046,2023-05-06,3,North West,Unknown,NA
+1047,2024-12-31,70,Midlands,Unknown,NA
+1048,2025-01-02,70,Midlands,Other,NA
+1049,2023-06-08,92,East of England,GII.4,NA
+1050,2023-08-07,47,North East and Yorkshire,Unknown,NA
+1051,2023-02-27,88,North West,GII.4,2023-07-29
+1052,2023-03-16,4,North West,Other,NA
+1053,2023-09-27,0,South West,Other,NA
+1054,2023-10-17,78,South West,GII.4,2024-02-18
+1055,2023-12-29,91,South West,GII.4,NA
+1056,2022-11-07,77,East of England,Unknown,NA
+1057,2022-12-21,2,North West,GII.17,NA
+1058,2024-11-04,71,South West,Unknown,NA
+1059,2023-07-05,1,North West,GII.4,NA
+1060,2023-12-09,75,North West,GII.4,NA
+1061,2023-04-07,82,North West,GII.4,NA
+1062,2023-02-09,56,North West,GII.4,NA
+1063,2023-05-04,55,South West,GII.4,NA
+1064,2025-03-07,78,South East,GII.4,NA
+1065,2024-12-08,70,North East and Yorkshire,GII.17,NA
+1066,2024-07-05,74,London,GII.17,NA
+1067,2024-04-16,88,North West,GII.4,NA
+1068,2025-01-16,1,North West,GII.4,NA
+1069,2024-05-03,67,East of England,GII.17,NA
+1070,2024-05-05,68,North East and Yorkshire,GII.17,NA
+1071,2024-04-28,74,North West,Other,NA
+1072,2023-10-31,1,North West,Other,NA
+1073,2024-12-05,6,South West,GII.4,NA
+1074,2024-10-15,74,South West,GII.17,NA
+1075,2024-03-28,75,North West,GII.17,NA
+1076,2022-12-26,78,South West,GII.4,2023-02-09
+1077,2024-01-28,75,North East and Yorkshire,GII.17,NA
+1078,2025-03-07,49,North West,GII.17,NA
+1079,2024-03-19,77,South West,GII.17,NA
+1080,2024-09-28,46,East of England,Other,NA
+1081,2025-03-13,86,North East and Yorkshire,GII.17,2025-08-18
+1082,2024-04-28,1,North West,Other,NA
+1083,2025-03-21,81,South East,GII.4,NA
+1084,2025-02-09,84,North West,Other,NA
+1085,2023-11-15,3,North West,Other,NA
+1086,2023-11-12,57,South West,Other,NA
+1087,2025-01-03,85,Midlands,GII.17,2025-02-02
+1088,2023-02-12,0,North West,GII.4,NA
+1089,2025-03-14,42,North West,GII.17,NA
+1090,2024-11-29,92,East of England,GII.17,NA
+1091,2023-01-23,75,South West,GII.4,2023-05-19
+1092,2024-06-20,45,London,GII.17,NA
+1093,2023-07-28,2,North West,GII.4,NA
+1094,2024-07-30,70,North East and Yorkshire,GII.17,2025-08-05
+1095,2024-09-18,73,North West,Other,NA
+1096,2023-02-28,71,North West,GII.4,2023-11-30
+1097,2024-12-20,90,North West,GII.17,2025-03-26
+1098,2023-12-30,83,North East and Yorkshire,GII.4,NA
+1099,2023-09-07,72,East of England,Unknown,NA
+1100,2024-07-12,94,North East and Yorkshire,GII.17,NA
+1101,2024-12-09,83,Midlands,GII.4,NA
+1102,2025-01-14,84,South East,GII.4,NA
+1103,2024-12-05,6,South East,Other,NA
+1104,2024-12-16,77,North East and Yorkshire,GII.17,NA
+1105,2023-05-18,99,South West,Other,NA
+1106,2023-11-05,0,South East,Other,NA
+1107,2024-08-20,97,North East and Yorkshire,GII.17,2025-03-22
+1108,2022-10-24,2,South West,Other,2024-10-01
+1109,2024-10-09,84,North West,Other,NA
+1110,2024-07-27,15,North West,GII.17,NA
+1111,2024-01-11,34,North West,Other,NA
+1112,2024-11-11,91,North West,GII.17,2025-04-09
+1113,2025-01-07,79,South East,GII.4,NA
+1114,2022-09-16,0,North West,GII.4,NA
+1115,2022-11-08,77,North East and Yorkshire,Other,2023-10-08
+1116,2025-03-20,20,North West,Other,NA
+1117,2024-12-31,85,North West,GII.17,NA
+1118,2024-11-13,70,North West,GII.17,NA
+1119,2023-03-18,60,North East and Yorkshire,GII.4,2023-06-06
+1120,2023-03-29,85,North East and Yorkshire,Unknown,NA
+1121,2024-04-06,0,North West,Other,NA
+1122,2024-11-12,12,South West,Other,NA
+1123,2024-04-20,80,North West,GII.4,NA
+1124,2023-08-24,1,North West,Other,NA
+1125,2024-03-26,91,South West,GII.17,2024-08-19
+1126,2024-01-31,92,South West,GII.4,2024-03-18
+1127,2023-09-26,84,North East and Yorkshire,GII.4,NA
+1128,2024-08-07,9,South West,GII.17,NA
+1129,2023-02-02,82,South West,Unknown,NA
+1130,2024-11-28,83,North West,GII.17,NA
+1131,2023-12-18,92,North West,GII.4,2024-08-20
+1132,2023-02-22,3,North West,GII.4,NA
+1133,2023-11-19,72,North West,GII.4,NA
+1134,2025-03-04,56,Midlands,GII.4,NA
+1135,2025-01-30,62,North East and Yorkshire,GII.17,2025-02-07
+1136,2025-03-17,1,North West,GII.4,NA
+1137,2024-10-29,95,North West,GII.4,2024-12-10
+1138,2025-01-19,65,North West,GII.17,NA
+1139,2023-08-27,70,East of England,Unknown,NA
+1140,2024-09-06,89,North East and Yorkshire,GII.17,NA
+1141,2023-08-14,61,South West,GII.4,2023-08-15
+1142,2023-02-02,2,South West,GII.4,NA
+1143,2025-01-13,1,North West,Other,NA
+1144,2022-10-21,78,South West,GII.4,2024-07-06
+1145,2024-10-08,92,North West,Unknown,NA
+1146,2023-06-01,57,South West,GII.4,2025-05-25
+1147,2024-06-26,70,North West,GII.17,NA
+1148,2022-08-24,1,South West,Other,NA
+1149,2024-09-06,73,South West,Other,NA
+1150,2023-11-22,93,South West,GII.4,2023-11-26
+1151,2024-12-13,100,North East and Yorkshire,GII.17,NA
+1152,2025-03-08,27,South West,Other,NA
+1153,2024-03-31,92,North West,GII.17,2024-09-05
+1154,2024-03-03,2,North West,Other,NA
+1155,2023-06-12,42,East of England,GII.4,NA
+1156,2024-02-14,81,North West,GII.4,NA
+1157,2025-03-07,27,Midlands,GII.4,NA
+1158,2022-12-15,59,East of England,GII.4,NA
+1159,2024-08-07,65,North East and Yorkshire,GII.17,NA
+1160,2024-03-18,92,South West,GII.17,NA
+1161,2023-05-12,2,North West,Other,NA
+1162,2024-07-09,83,Midlands,GII.4,2024-07-23
+1163,2023-06-16,57,East of England,Unknown,NA
+1164,2023-03-02,4,South West,GII.4,NA
+1165,2023-12-15,87,North East and Yorkshire,Unknown,2024-10-17
+1166,2022-08-17,0,North West,Other,NA
+1167,2024-11-12,61,North West,GII.17,NA
+1168,2024-04-17,47,North East and Yorkshire,Other,NA
+1169,2023-03-28,51,North West,GII.4,NA
+1170,2024-11-07,65,North West,GII.17,NA
+1171,2023-02-08,26,North West,GII.4,NA
+1172,2023-01-10,74,South West,GII.4,2023-03-31
+1173,2023-11-06,4,North West,Other,NA
+1174,2023-06-22,39,South West,Other,NA
+1175,2025-01-08,29,Midlands,Other,NA
+1176,2025-03-30,87,South West,GII.4,NA
+1177,2024-03-01,0,North West,Other,NA
+1178,2023-08-24,58,East of England,Other,NA
+1179,2024-11-04,0,North West,Unknown,NA
+1180,2024-07-03,8,East of England,GII.17,NA
+1181,2024-12-13,83,East of England,Other,NA
+1182,2024-06-09,83,North East and Yorkshire,GII.17,2024-06-23
+1183,2025-01-12,70,South West,GII.17,NA
+1184,2024-09-17,28,South West,GII.17,NA
+1185,2023-03-21,73,North West,GII.4,2023-10-01
+1186,2024-11-28,92,East of England,GII.17,NA
+1187,2023-11-01,91,North West,GII.4,2024-05-24
+1188,2022-10-19,1,North West,Other,NA
+1189,2023-03-16,82,North West,Other,NA
+1190,2024-10-18,77,South West,GII.17,NA
+1191,2023-01-07,2,North West,Other,NA
+1192,2023-05-05,11,North West,Other,NA
+1193,2024-03-22,40,North West,GII.17,NA
+1194,2022-08-17,34,East of England,Other,NA
+1195,2024-07-09,85,Midlands,GII.17,NA
+1196,2024-05-13,101,North West,GII.17,2025-03-10
+1197,2024-07-25,37,North West,Other,NA
+1198,2022-12-23,44,East of England,Other,NA
+1199,2023-01-20,0,North West,GII.4,2024-07-03
+1200,2023-01-28,2,North West,Unknown,NA
+1201,2024-04-20,80,North West,GII.4,2025-01-26
+1202,2023-02-17,68,North West,GII.4,NA
+1203,2022-08-01,3,East of England,Other,NA
+1204,2023-06-23,2,North West,Other,NA
+1205,2024-02-29,95,North West,GII.17,NA
+1206,2024-10-15,64,London,Other,NA
+1207,2024-09-17,73,East of England,Unknown,2024-09-28
+1208,2023-12-18,0,North West,Other,NA
+1209,2023-06-04,0,North West,Unknown,NA
+1210,2024-06-20,8,East of England,Unknown,NA
+1211,2022-08-17,1,South West,GII.4,NA
+1212,2024-11-20,85,Midlands,GII.17,NA
+1213,2024-02-10,78,South West,GII.4,NA
+1214,2022-12-08,90,East of England,GII.4,NA
+1215,2022-11-01,9,South West,Other,NA
+1216,2023-01-30,82,North West,GII.4,NA
+1217,2024-07-10,94,North West,GII.17,2024-09-06
+1218,2025-01-10,85,North West,GII.17,NA
+1219,2023-06-11,93,Midlands,GII.4,NA
+1220,2023-11-20,75,North West,Other,NA
+1221,2023-03-07,89,North East and Yorkshire,GII.4,2024-10-28
+1222,2023-08-15,84,North East and Yorkshire,Other,NA
+1223,2024-05-18,55,East of England,GII.17,NA
+1224,2023-12-31,90,North West,GII.4,NA
+1225,2024-12-11,97,North East and Yorkshire,GII.17,NA
+1226,2023-02-21,1,North West,GII.4,NA
+1227,2023-01-30,0,North West,GII.4,NA
+1228,2023-01-20,0,North West,GII.4,2023-04-10
+1229,2023-11-28,53,North West,GII.4,NA
+1230,2023-11-20,76,North West,GII.4,2024-11-10
+1231,2023-11-29,92,North West,GII.17,2024-12-04
+1232,2024-10-25,39,North West,Other,NA
+1233,2024-03-10,83,North West,GII.17,NA
+1234,2024-08-09,92,London,Other,NA
+1235,2023-02-08,0,North West,GII.4,NA
+1236,2023-02-16,96,North East and Yorkshire,GII.4,2023-06-30
+1237,2023-11-21,71,South West,GII.4,NA
+1238,2023-05-07,1,North West,GII.4,NA
+1239,2024-12-19,2,North West,Other,NA
+1240,2023-10-14,35,South West,Other,NA
+1241,2023-12-04,60,East of England,GII.17,NA
+1242,2025-02-11,78,North West,GII.4,NA
+1243,2022-11-22,78,South West,Unknown,NA
+1244,2023-12-03,18,North West,Other,NA
+1245,2025-03-21,81,South East,GII.4,NA
+1246,2024-01-05,67,South West,GII.4,NA
+1247,2022-12-20,3,North West,Unknown,2024-12-05
+1248,2022-12-16,86,North West,Unknown,2022-12-23
+1249,2023-10-27,18,North West,Other,NA
+1250,2024-09-29,1,North West,Unknown,NA
+1251,2022-09-22,66,North East and Yorkshire,Other,NA
+1252,2024-04-30,92,North East and Yorkshire,Unknown,NA
+1253,2023-04-12,1,North West,GII.4,NA
+1254,2024-07-19,96,North West,GII.17,NA
+1255,2023-12-08,57,North West,Unknown,2023-12-28
+1256,2023-04-17,55,North West,GII.4,2023-05-12
+1257,2023-01-07,0,North West,GII.4,NA
+1258,2023-03-27,0,North West,Other,NA
+1259,2024-10-19,0,South West,GII.4,NA
+1260,2024-07-30,70,North East and Yorkshire,GII.17,NA
+1261,2022-12-16,1,North West,Other,NA
+1262,2025-03-25,97,North East and Yorkshire,GII.17,NA
+1263,2025-03-22,95,North East and Yorkshire,GII.4,NA
+1264,2022-09-09,6,London,Unknown,NA
+1265,2024-10-18,91,North West,GII.17,NA
+1266,2023-12-12,91,North East and Yorkshire,GII.4,NA
+1267,2025-01-08,61,North West,GII.4,NA
+1268,2023-11-23,4,North West,Other,2023-11-26
+1269,2024-08-07,9,North West,Other,NA
+1270,2023-03-21,66,North West,Unknown,2023-04-19
+1271,2024-03-27,2,South East,Unknown,NA
+1272,2023-09-29,84,North East and Yorkshire,Other,2024-03-23
+1273,2023-02-14,3,North West,GII.4,NA
+1274,2024-07-24,94,North East and Yorkshire,GII.4,2024-11-08
+1275,2024-06-22,54,South West,GII.17,NA
+1276,2023-06-15,74,North East and Yorkshire,Other,2024-08-26
+1277,2024-09-09,0,North West,GII.4,NA
+1278,2024-07-18,3,North West,GII.17,NA
+1279,2023-01-22,75,Midlands,GII.4,NA
+1280,2024-10-11,1,North West,Other,NA
+1281,2023-10-14,80,North East and Yorkshire,Other,NA
+1282,2024-01-18,49,South West,Other,NA
+1283,2024-01-18,0,North West,Other,NA
+1284,2024-11-11,91,North West,GII.4,NA
+1285,2025-03-09,75,East of England,GII.4,NA
+1286,2025-01-08,81,Midlands,GII.17,NA
+1287,2023-02-13,76,North East and Yorkshire,GII.4,NA
+1288,2025-02-03,82,North East and Yorkshire,GII.17,2025-02-18
+1289,2024-06-10,40,North West,GII.17,NA
+1290,2023-03-20,7,East of England,Unknown,NA
+1291,2024-12-02,88,North West,GII.17,NA
+1292,2023-01-30,82,South East,Unknown,NA
+1293,2024-01-12,93,North East and Yorkshire,GII.4,NA
+1294,2024-11-25,87,North West,GII.17,NA
+1295,2024-12-01,77,East of England,GII.17,NA
+1296,2025-01-31,62,Midlands,GII.4,NA
+1297,2025-02-03,83,North East and Yorkshire,GII.4,NA
+1298,2023-04-07,2,North West,Other,NA
+1299,2025-01-22,80,North East and Yorkshire,GII.17,2025-04-09
+1300,2024-12-29,79,South East,GII.4,2025-01-05
+1301,2024-11-19,6,North West,GII.4,2024-11-19
+1302,2024-11-08,78,North West,GII.17,2024-11-21
+1303,2024-10-09,1,East of England,Unknown,NA
+1304,2024-11-29,92,East of England,GII.17,2025-04-18
+1305,2024-11-19,13,North West,GII.17,NA
+1306,2025-02-28,76,South West,GII.4,2025-04-18
+1307,2024-12-29,89,Midlands,GII.17,NA
+1308,2025-03-20,78,South East,Other,NA
+1309,2023-06-27,2,North West,Other,NA
+1310,2025-02-05,1,South West,GII.4,NA
+1311,2023-10-06,1,North West,GII.4,NA
+1312,2024-10-03,65,South West,Other,NA
+1313,2022-07-07,64,South West,Other,NA
+1314,2025-01-23,52,North West,GII.17,NA
+1315,2023-07-31,0,North West,Other,NA
+1316,2023-03-22,1,North West,GII.4,NA
+1317,2022-11-07,77,North East and Yorkshire,Other,2023-09-25
+1318,2023-02-19,0,North West,Other,NA
+1319,2024-12-06,56,Midlands,GII.4,2025-01-14
+1320,2024-07-11,19,North West,GII.17,NA
+1321,2025-01-28,96,Midlands,GII.17,2025-04-23
+1322,2023-02-25,2,North West,Other,NA
+1323,2023-11-20,1,South West,GII.4,NA
+1324,2024-01-24,0,North West,GII.17,NA
+1325,2024-11-26,39,Midlands,GII.17,2025-01-18
+1326,2022-11-10,76,North East and Yorkshire,Other,2024-10-18
+1327,2023-11-14,0,South West,Unknown,NA
+1328,2024-11-25,102,Midlands,GII.4,2025-01-07
+1329,2024-10-21,34,North West,Other,NA
+1330,2024-04-23,18,North East and Yorkshire,GII.17,NA
+1331,2024-09-13,30,South West,Other,NA
+1332,2023-07-14,1,North West,Other,NA
+1333,2024-12-23,83,South West,GII.17,NA
+1334,2024-06-10,78,North West,GII.17,2024-06-26
+1335,2024-01-09,1,North West,GII.4,NA
+1336,2023-06-01,49,South West,Other,2023-06-17
+1337,2024-01-14,76,South West,GII.4,NA
+1338,2022-07-01,0,South West,Other,NA
+1339,2024-10-19,64,North West,GII.17,NA
+1340,2023-08-09,39,South West,Other,NA
+1341,2024-07-11,0,South West,GII.17,NA
+1342,2022-12-17,58,East of England,Unknown,NA
+1343,2023-02-15,38,North East and Yorkshire,GII.4,NA
+1344,2023-12-18,1,North West,Other,NA
+1345,2023-04-06,0,North West,GII.4,NA
+1346,2024-12-03,1,North West,Unknown,NA
+1347,2024-07-12,53,North West,GII.4,NA
+1348,2023-09-01,68,Midlands,GII.4,NA
+1349,2022-10-19,4,South West,Other,NA
+1350,2024-12-08,3,South West,GII.4,NA
+1351,2022-11-10,3,North West,Other,NA
+1352,2024-07-08,2,East of England,Unknown,NA
+1353,2024-12-20,94,Midlands,GII.4,2025-03-21
+1354,2024-05-18,66,East of England,GII.17,NA
+1355,2024-02-27,65,North West,GII.17,NA
+1356,2022-11-25,92,North East and Yorkshire,Other,2023-10-14
+1357,2024-03-04,81,South West,GII.17,NA
+1358,2024-06-28,1,South West,Unknown,NA
+1359,2022-09-19,92,North East and Yorkshire,GII.17,NA
+1360,2022-11-21,60,East of England,Unknown,2022-12-07
+1361,2024-08-20,92,North West,GII.17,2024-11-26
+1362,2025-02-13,88,North West,GII.4,NA
+1363,2024-08-29,67,South West,Other,2024-09-21
+1364,2025-03-20,86,Midlands,GII.4,NA
+1365,2024-11-01,75,Midlands,GII.17,NA
+1366,2024-10-02,85,South West,Other,NA
+1367,2023-07-25,64,South West,Other,NA
+1368,2024-08-06,65,North East and Yorkshire,Unknown,NA
+1369,2025-02-08,80,North West,GII.17,2025-03-21
+1370,2024-09-06,35,East of England,Other,NA
+1371,2024-03-26,91,North West,GII.17,NA
+1372,2024-10-28,0,North West,Other,NA
+1373,2023-03-06,79,North West,GII.4,2023-05-16
+1374,2024-11-26,39,South East,GII.17,NA
+1375,2025-01-23,61,North East and Yorkshire,GII.17,NA
+1376,2024-12-29,75,South East,GII.17,NA
+1377,2025-01-17,77,North West,GII.17,NA
+1378,2024-12-06,75,Midlands,GII.4,NA
+1379,2023-04-12,6,North West,Other,NA
+1380,2024-05-15,64,South West,GII.4,NA
+1381,2023-10-31,0,London,Unknown,NA
+1382,2024-04-08,53,North West,Other,NA
+1383,2023-02-22,0,North West,Other,NA
+1384,2024-06-22,54,North East and Yorkshire,Other,NA
+1385,2022-10-16,15,North West,Other,2024-06-13
+1386,2024-02-29,58,North West,GII.17,NA
+1387,2024-11-03,71,South West,GII.17,NA
+1388,2023-08-06,29,North East and Yorkshire,Other,NA
+1389,2022-11-11,33,East of England,Unknown,NA
+1390,2023-12-28,79,North West,GII.4,NA
+1391,2023-11-12,64,South West,Other,NA
+1392,2025-01-11,89,South West,GII.4,NA
+1393,2024-11-15,0,North West,Other,NA
+1394,2024-05-19,76,North East and Yorkshire,GII.17,NA
+1395,2023-06-23,1,North West,Other,NA
+1396,2022-08-16,0,North East and Yorkshire,Unknown,NA
+1397,2025-02-03,88,North West,GII.4,NA
+1398,2023-11-03,88,South West,GII.4,NA
+1399,2024-11-15,1,South West,Other,NA
+1400,2023-04-19,0,North West,GII.4,NA
+1401,2024-02-02,95,North East and Yorkshire,Other,2024-07-13
+1402,2025-01-21,85,Midlands,Other,NA
+1403,2024-08-09,77,North West,GII.17,NA
+1404,2024-02-29,96,North West,GII.17,2024-07-21
+1405,2024-01-23,80,North East and Yorkshire,GII.4,NA
+1406,2025-03-23,88,South West,GII.4,2025-04-03
+1407,2024-07-20,50,North West,GII.17,NA
+1408,2024-08-17,59,North West,GII.17,NA
+1409,2023-02-08,90,East of England,GII.4,NA
+1410,2024-03-22,75,North West,GII.17,NA
+1411,2023-01-07,0,North West,GII.17,NA
+1412,2024-03-31,58,North West,GII.17,NA
+1413,2023-11-08,3,South West,GII.4,NA
+1414,2023-12-01,48,North West,GII.4,NA
+1415,2024-07-07,75,North West,GII.17,NA
+1416,2024-12-25,44,North West,GII.4,2025-01-21
+1417,2022-11-16,54,East of England,Unknown,2024-04-27
+1418,2024-02-28,1,East of England,Other,NA
+1419,2025-03-19,31,London,GII.17,NA
+1420,2024-12-24,77,North West,GII.4,NA
+1421,2025-01-14,0,South West,GII.4,NA
+1422,2025-01-08,89,Midlands,GII.4,NA
+1423,2023-10-23,4,North West,Unknown,NA
+1424,2024-04-22,95,North West,GII.4,2025-02-16
+1425,2024-12-10,79,South East,GII.17,2025-01-19
+1426,2022-12-22,0,North West,Other,NA
+1427,2022-07-23,75,North West,Unknown,NA
+1428,2023-03-20,0,North West,GII.4,NA
+1429,2024-01-11,72,Midlands,GII.4,NA
+1430,2024-12-31,75,North East and Yorkshire,GII.17,NA
+1431,2025-02-25,90,South West,GII.4,2025-03-12
+1432,2023-07-25,83,North East and Yorkshire,GII.4,2023-12-20
+1433,2024-12-06,60,East of England,GII.17,NA
+1434,2023-03-04,2,North West,GII.4,NA
+1435,2025-01-12,84,North West,GII.17,NA
+1436,2023-09-22,96,North East and Yorkshire,GII.4,2023-10-08
+1437,2024-01-27,1,South West,GII.4,NA
+1438,2024-11-29,57,East of England,GII.17,NA
+1439,2023-12-04,94,South West,GII.4,2025-01-18
+1440,2025-01-11,85,North West,GII.17,2025-02-15
+1441,2024-05-14,68,North East and Yorkshire,GII.17,NA
+1442,2023-12-05,15,East of England,Unknown,NA
+1443,2023-08-15,1,North West,Other,NA
+1444,2024-12-02,75,South West,Other,NA
+1445,2024-07-13,28,South West,GII.17,NA
+1446,2023-04-09,92,North West,GII.4,2023-05-17
+1447,2024-01-10,72,Midlands,GII.4,NA
+1448,2023-10-22,73,East of England,GII.17,NA
+1449,2023-04-13,1,North West,GII.4,NA
+1450,2022-12-26,39,East of England,Other,NA
+1451,2024-01-26,0,East of England,Unknown,NA
+1452,2024-03-13,34,North West,GII.17,NA
+1453,2024-09-09,1,North West,GII.4,NA
+1454,2024-08-07,2,North West,GII.17,NA
+1455,2025-03-13,5,North West,GII.17,2025-03-19
+1456,2022-09-05,85,South West,GII.4,2023-10-08
+1457,2024-07-16,1,North West,GII.17,NA
+1458,2023-01-18,59,North East and Yorkshire,GII.4,2024-08-08
+1459,2022-11-23,2,North West,GII.4,NA
+1460,2024-03-05,3,North West,GII.4,NA
+1461,2025-03-03,77,East of England,GII.4,NA
+1462,2023-03-16,11,North West,Unknown,NA
+1463,2023-08-29,68,East of England,Unknown,NA
+1464,2024-11-25,74,North West,GII.17,2025-01-18
+1465,2024-10-27,89,North West,Other,NA
+1466,2023-08-23,1,North West,Other,NA
+1467,2023-01-18,2,North West,Other,NA
+1468,2022-10-09,2,South West,Other,NA
+1469,2023-07-25,1,North West,GII.4,NA
+1470,2023-02-12,0,North West,GII.4,NA
+1471,2023-09-01,83,East of England,Unknown,2023-10-21
+1472,2024-06-22,85,Midlands,GII.4,2024-10-13
+1473,2022-10-04,0,North West,Other,NA
+1474,2023-08-09,61,East of England,Unknown,NA
+1475,2022-12-15,2,South West,Other,2023-01-16
+1476,2023-05-16,7,North West,GII.4,NA
+1477,2023-07-03,76,East of England,Unknown,NA
+1478,2025-02-03,78,North East and Yorkshire,GII.17,2025-02-03
+1479,2024-01-23,94,North East and Yorkshire,GII.4,NA
+1480,2025-02-14,82,North West,GII.17,NA
+1481,2022-11-14,0,North West,GII.4,NA
+1482,2024-04-23,46,North East and Yorkshire,GII.17,NA
+1483,2024-11-25,61,South East,GII.17,NA
+1484,2023-02-18,1,South West,GII.4,NA
+1485,2023-11-22,2,East of England,Unknown,NA
+1486,2023-11-23,60,East of England,Unknown,NA
+1487,2023-11-29,4,North West,Other,NA
+1488,2023-04-05,90,North West,GII.4,2023-05-09
+1489,2024-03-18,16,North West,GII.17,NA
+1490,2023-08-07,56,South West,Unknown,NA
+1491,2024-03-09,87,North West,GII.4,NA
+1492,2024-10-03,1,North West,Other,NA
+1493,2023-08-22,4,North West,Other,NA
+1494,2024-12-31,72,North East and Yorkshire,GII.17,NA
+1495,2024-12-10,67,North West,GII.4,2024-12-23
+1496,2023-05-12,2,North West,Other,NA
+1497,2022-09-28,35,North West,Other,NA
+1498,2024-10-15,71,Midlands,GII.17,NA
+1499,2022-11-18,67,East of England,Unknown,2024-11-26
+1500,2025-01-25,94,Midlands,GII.4,NA
+1501,2024-11-12,61,North West,GII.17,NA
+1502,2024-09-24,56,East of England,Unknown,NA
+1503,2024-02-08,3,North West,Other,NA
+1504,2023-06-02,66,South West,GII.4,NA
+1505,2023-08-17,7,North West,Other,NA
+1506,2024-04-05,76,North West,GII.17,NA
+1507,2023-12-23,79,North West,GII.4,2024-04-13
+1508,2025-02-15,81,East of England,GII.17,NA
+1509,2024-04-18,74,North East and Yorkshire,Other,NA
+1510,2022-07-03,35,South West,GII.4,NA
+1511,2024-12-23,34,South West,GII.4,NA
+1512,2022-12-16,2,North West,Other,NA
+1513,2022-12-06,54,Midlands,GII.4,NA
+1514,2022-11-14,2,North West,Other,NA
+1515,2023-12-28,89,South West,GII.17,NA
+1516,2024-04-30,64,South West,GII.17,NA
+1517,2025-01-31,79,Midlands,GII.4,NA
+1518,2024-04-16,0,North West,Other,NA
+1519,2024-07-27,15,South West,Other,NA
+1520,2024-04-23,18,South West,GII.4,NA
+1521,2023-04-13,1,North West,GII.4,NA
+1522,2022-11-06,78,Midlands,Unknown,NA
+1523,2022-07-14,2,East of England,Other,NA
+1524,2024-06-15,85,North West,GII.17,NA
+1525,2025-02-28,90,South West,GII.4,2025-04-08
+1526,2024-12-18,45,North West,GII.17,NA
+1527,2022-12-01,19,North East and Yorkshire,GII.4,NA
+1528,2023-10-01,44,East of England,Other,NA
+1529,2024-01-11,83,South West,GII.4,NA
+1530,2022-12-15,84,South West,GII.4,2024-09-26
+1531,2024-01-06,86,North West,GII.4,2024-02-26
+1532,2022-08-30,72,South East,Other,NA
+1533,2022-12-23,62,East of England,GII.4,2023-01-07
+1534,2024-03-20,87,North West,GII.4,2024-10-01
+1535,2023-03-17,1,North West,GII.4,NA
+1536,2023-06-10,31,East of England,Unknown,NA
+1537,2022-10-29,52,North West,Unknown,2024-09-09
+1538,2024-05-02,49,North East and Yorkshire,GII.17,NA
+1539,2024-02-16,5,North West,GII.4,NA
+1540,2024-08-07,1,North West,Other,NA
+1541,2022-10-10,1,North West,Other,NA
+1542,2024-04-06,7,North West,Other,NA
+1543,2024-03-04,87,North West,GII.17,NA
+1544,2024-10-19,87,North West,GII.17,2024-12-29
+1545,2024-11-29,36,South East,GII.17,NA
+1546,2022-09-02,76,North East and Yorkshire,GII.17,2024-08-26
+1547,2024-05-04,64,South West,GII.17,NA
+1548,2023-07-19,63,South West,Other,NA
+1549,2025-01-31,79,London,GII.17,NA
+1550,2022-10-26,0,North West,GII.17,NA
+1551,2023-12-29,70,North East and Yorkshire,GII.4,NA
+1552,2024-01-02,100,South West,GII.4,2024-01-16
+1553,2023-12-24,0,North West,GII.4,NA
+1554,2024-09-20,0,South West,GII.4,NA
+1555,2023-10-24,73,South West,GII.4,NA
+1556,2023-12-11,87,North West,GII.4,NA
+1557,2024-03-16,33,North West,GII.17,2024-12-01
+1558,2024-03-29,82,North West,GII.4,NA
+1559,2024-12-16,45,North West,GII.17,NA
+1560,2024-08-17,32,East of England,Unknown,NA
+1561,2024-01-16,72,South West,GII.4,NA
+1562,2023-09-07,6,North West,Other,NA
+1563,2025-03-20,78,South West,GII.4,NA
+1564,2024-11-02,91,Midlands,GII.17,2025-01-25
+1565,2022-09-19,93,North East and Yorkshire,GII.17,NA
+1566,2025-03-27,1,North East and Yorkshire,GII.4,NA
+1567,2024-07-28,1,South West,GII.17,NA
+1568,2025-03-05,88,North East and Yorkshire,GII.17,2025-08-10
+1569,2025-02-21,87,North East and Yorkshire,GII.17,2025-07-11
+1570,2024-12-08,85,Midlands,GII.4,NA
+1571,2023-04-19,7,North West,Unknown,NA
+1572,2024-01-30,77,North West,GII.17,2024-05-08
+1573,2025-01-19,42,East of England,GII.17,NA
+1574,2024-08-17,69,North West,GII.17,NA
+1575,2023-05-09,1,North West,GII.4,NA
+1576,2025-03-09,79,South East,GII.4,NA
+1577,2024-11-15,56,North West,GII.17,NA
+1578,2024-10-09,1,North West,Other,NA
+1579,2023-03-09,80,North West,GII.4,NA
+1580,2024-01-13,34,North East and Yorkshire,GII.4,NA
+1581,2024-02-22,87,South West,GII.17,NA
+1582,2023-10-23,73,South West,GII.4,NA
+1583,2024-05-22,77,North East and Yorkshire,GII.17,NA
+1584,2024-03-25,79,South West,GII.17,NA
+1585,2023-12-04,84,North West,GII.4,NA
+1586,2023-10-29,0,North West,Other,NA
+1587,2023-07-25,64,South West,Other,NA
+1588,2024-02-18,5,North West,GII.4,NA
+1589,2024-05-22,53,East of England,GII.17,NA
+1590,2025-03-08,27,North East and Yorkshire,GII.4,NA
+1591,2025-01-19,65,East of England,GII.17,2025-02-27
+1592,2024-01-07,7,North West,Other,NA
+1593,2023-04-03,0,North West,GII.4,NA
+1594,2024-12-24,82,South East,GII.17,NA
+1595,2024-03-15,22,North West,GII.17,NA
+1596,2024-11-29,83,South West,Other,NA
+1597,2024-11-04,10,North West,GII.17,NA
+1598,2023-09-04,2,North West,Other,NA
+1599,2024-06-18,60,South West,Other,NA
+1600,2024-07-10,1,South West,GII.17,NA
+1601,2023-06-10,76,East of England,GII.17,2024-04-29
+1602,2024-04-08,71,North West,GII.17,NA
+1603,2023-11-07,1,North West,Other,2024-12-06
+1604,2023-11-30,88,East of England,Unknown,2024-08-20
+1605,2024-09-10,0,South West,GII.4,NA
+1606,2023-07-03,90,North East and Yorkshire,Other,2023-11-29
+1607,2024-04-16,0,North West,GII.17,NA
+1608,2024-10-02,2,North West,Other,NA
+1609,2024-10-18,77,South West,GII.17,2024-12-28
+1610,2023-03-02,17,North West,GII.4,NA
+1611,2024-10-16,71,South West,GII.17,NA
+1612,2023-11-24,12,North West,Other,NA
+1613,2022-08-03,10,South West,Other,NA
+1614,2023-01-07,2,North West,Other,NA
+1615,2024-02-27,93,North West,GII.17,2024-10-07
+1616,2024-05-08,0,North West,GII.17,NA
+1617,2023-03-07,0,North West,Other,NA
+1618,2025-03-06,70,Midlands,GII.17,2025-09-16
+1619,2023-08-24,1,North West,Other,NA
+1620,2024-04-17,19,South West,GII.17,NA
+1621,2023-12-01,1,North West,Other,NA
+1622,2024-12-25,44,South West,Other,NA
+1623,2022-07-23,0,South West,GII.4,NA
+1624,2023-02-15,73,North West,GII.4,2023-10-06
+1625,2024-12-28,96,North East and Yorkshire,GII.17,NA
+1626,2023-01-28,93,South West,GII.4,NA
+1627,2024-01-17,85,South West,Other,NA
+1628,2025-03-22,60,South West,GII.4,NA
+1629,2025-02-11,18,North West,Unknown,NA
+1630,2024-12-18,45,North West,GII.17,NA
+1631,2022-10-11,0,North West,GII.4,2023-10-10
+1632,2023-09-20,32,East of England,GII.4,NA
+1633,2024-08-07,2,North West,Unknown,NA
+1634,2022-07-02,40,East of England,Other,NA
+1635,2023-06-15,16,East of England,Unknown,2023-07-05
+1636,2024-12-09,82,Midlands,GII.4,NA
+1637,2024-07-07,0,South West,GII.17,NA
+1638,2023-03-09,0,Midlands,GII.4,NA
+1639,2023-02-28,85,East of England,GII.4,NA
+1640,2023-12-09,80,Midlands,GII.4,NA
+1641,2025-03-16,87,Midlands,GII.17,NA
+1642,2024-08-07,0,North East and Yorkshire,Other,NA
+1643,2024-01-14,89,North West,GII.4,2024-11-10
+1644,2024-12-11,14,North West,GII.4,NA
+1645,2023-08-02,1,North West,Other,NA
+1646,2024-09-09,0,North West,GII.4,NA
+1647,2024-12-03,1,North West,GII.4,NA
+1648,2024-12-17,96,South West,GII.17,2025-03-25
+1649,2023-02-13,81,North West,GII.4,2023-03-10
+1650,2024-10-20,32,North West,Other,NA
+1651,2023-09-05,0,South West,Unknown,NA
+1652,2022-08-19,37,North East and Yorkshire,Other,2023-08-11
+1653,2023-01-21,95,North East and Yorkshire,GII.4,NA
+1654,2025-02-02,63,South West,GII.4,NA
+1655,2022-12-23,94,South West,GII.4,NA
+1656,2025-02-04,89,Midlands,GII.4,NA
+1657,2024-04-04,100,North West,GII.4,NA
+1658,2024-11-13,91,Midlands,GII.17,2024-12-11
+1659,2024-05-19,1,North East and Yorkshire,GII.17,NA
+1660,2025-01-05,88,South East,GII.17,2025-06-12
+1661,2025-02-26,93,South West,GII.17,2025-03-22
+1662,2024-10-04,65,South West,Other,NA
+1663,2022-08-02,37,North East and Yorkshire,Other,NA
+1664,2023-11-21,92,North East and Yorkshire,GII.4,NA
+1665,2022-08-16,53,North East and Yorkshire,Other,2024-05-21
+1666,2024-10-15,97,Midlands,GII.17,NA
+1667,2025-01-25,2,North West,GII.4,NA
+1668,2025-02-03,82,North East and Yorkshire,GII.17,2025-02-13
+1669,2023-06-09,1,North West,Other,NA
+1670,2022-07-30,95,North East and Yorkshire,Other,2022-08-04
+1671,2024-12-28,81,North West,GII.17,NA
+1672,2022-09-14,3,North West,Other,NA
+1673,2022-09-06,6,South West,Other,NA
+1674,2024-11-15,1,South West,Other,NA
+1675,2024-09-18,34,South West,GII.17,NA
+1676,2025-03-15,42,North West,GII.17,NA
+1677,2025-03-20,58,South East,Other,NA
+1678,2022-12-25,74,North East and Yorkshire,GII.4,NA
+1679,2024-12-24,82,Midlands,Unknown,2025-01-06
+1680,2024-09-27,40,South West,Other,NA
+1681,2024-01-23,0,North West,Other,NA
+1682,2024-04-07,72,North West,GII.4,NA
+1683,2025-03-17,0,North East and Yorkshire,GII.4,NA
+1684,2023-01-28,93,South West,GII.4,NA
+1685,2024-06-11,85,South West,GII.17,2025-01-13
+1686,2024-01-11,92,North East and Yorkshire,GII.4,NA
+1687,2024-04-04,88,North West,GII.17,2024-07-19
+1688,2025-03-05,88,North West,GII.4,NA
+1689,2022-10-12,8,North West,Unknown,2024-02-04
+1690,2023-11-14,2,North West,Other,NA
+1691,2023-02-07,93,East of England,Unknown,NA
+1692,2024-06-13,36,East of England,GII.17,NA
+1693,2024-03-25,82,North West,GII.17,NA
+1694,2023-03-08,85,North West,GII.4,NA
+1695,2024-03-04,2,North West,Other,NA
+1696,2023-01-01,85,South West,GII.4,NA
+1697,2023-12-09,68,South East,Other,2024-11-11
+1698,2024-04-12,49,North East and Yorkshire,GII.17,NA
+1699,2024-03-01,54,North West,Other,NA
+1700,2023-01-10,55,Midlands,GII.4,2023-03-07
+1701,2024-03-01,1,North West,GII.4,NA
+1702,2024-02-26,90,Midlands,GII.17,2024-08-02
+1703,2023-03-25,66,North West,Unknown,2023-12-27
+1704,2023-12-04,9,North West,GII.17,2024-03-10
+1705,2024-10-18,3,South West,GII.4,NA
+1706,2022-10-18,15,North West,Other,2022-11-12
+1707,2022-11-13,73,East of England,Unknown,2023-12-16
+1708,2024-04-01,89,North West,GII.17,NA
+1709,2025-01-17,49,North East and Yorkshire,GII.17,NA
+1710,2023-02-28,88,North East and Yorkshire,GII.4,2023-03-14
+1711,2023-03-24,85,North West,GII.4,2023-11-27
+1712,2023-02-01,1,North West,GII.4,NA
+1713,2023-02-17,73,North West,Unknown,NA
+1714,2024-11-03,4,North West,GII.17,NA
+1715,2025-01-11,76,South West,GII.4,2025-05-08
+1716,2024-07-05,72,North West,GII.17,NA
+1717,2024-07-03,81,North West,Other,NA
+1718,2024-04-22,4,North West,Other,NA
+1719,2024-12-12,84,Midlands,GII.17,2025-02-21
+1720,2024-12-09,83,Midlands,GII.4,NA
+1721,2024-12-23,1,North West,Other,NA
+1722,2025-01-17,65,East of England,GII.4,NA
+1723,2023-03-14,2,North West,Other,NA
+1724,2025-01-07,78,Midlands,Unknown,NA
+1725,2023-12-11,88,Midlands,GII.4,NA
+1726,2023-09-22,96,North East and Yorkshire,Other,NA
+1727,2024-11-24,72,Midlands,GII.17,2025-06-06
+1728,2023-06-12,92,Midlands,GII.4,NA
+1729,2024-10-05,33,South West,GII.4,NA
+1730,2024-06-10,88,North West,GII.17,NA
+1731,2022-12-23,82,South West,GII.4,NA
+1732,2024-04-30,96,North East and Yorkshire,GII.17,NA
+1733,2023-04-03,90,North East and Yorkshire,GII.4,NA
+1734,2024-06-29,52,North East and Yorkshire,Unknown,2025-12-01
+1735,2024-11-22,64,South West,GII.17,NA
+1736,2023-03-10,12,North West,Other,NA
+1737,2023-07-03,77,East of England,Unknown,2024-06-05
+1738,2022-10-19,3,South West,Other,NA
+1739,2025-01-22,80,Midlands,GII.4,NA
+1740,2023-05-15,6,North West,Other,NA
+1741,2024-10-20,1,North West,Other,NA
+1742,2024-12-25,44,North West,Unknown,NA
+1743,2024-11-03,4,North West,GII.17,NA
+1744,2024-07-16,1,South West,GII.17,NA
+1745,2024-10-22,90,North East and Yorkshire,GII.17,2025-01-15
+1746,2024-07-29,14,North West,GII.17,2024-09-02
+1747,2024-04-28,74,North East and Yorkshire,GII.17,NA
+1748,2022-12-01,0,North West,GII.4,NA
+1749,2025-01-12,52,South West,GII.4,2025-03-24
+1750,2025-01-17,77,Midlands,GII.17,NA
+1751,2022-11-14,43,South West,Other,NA
+1752,2025-01-28,66,North West,Other,NA
+1753,2023-07-04,77,East of England,Unknown,2023-12-03
+1754,2023-11-23,36,North West,Other,NA
+1755,2022-12-07,0,North West,GII.4,NA
+1756,2024-04-26,77,North West,GII.17,2024-04-28
+1757,2023-06-09,86,Midlands,Unknown,2024-11-07
+1758,2022-11-07,54,East of England,GII.17,NA
+1759,2024-03-13,58,North West,GII.17,NA
+1760,2023-06-10,92,East of England,GII.4,2023-06-10
+1761,2024-11-28,43,North East and Yorkshire,GII.17,NA
+1762,2023-04-04,57,North East and Yorkshire,GII.4,2024-12-22
+1763,2023-02-15,2,North West,GII.4,NA
+1764,2024-11-01,95,North East and Yorkshire,GII.17,2025-01-30
+1765,2022-11-01,0,South West,Other,NA
+1766,2024-03-18,87,North West,GII.17,2024-10-18
+1767,2024-03-04,1,North West,Other,NA
+1768,2024-10-17,69,Midlands,Unknown,NA
+1769,2024-01-21,0,North West,Other,NA
+1770,2024-10-03,1,South East,Unknown,NA
+1771,2023-02-21,6,East of England,Unknown,2025-01-13
+1772,2023-11-30,2,South East,GII.4,NA
+1773,2025-01-30,12,South West,Unknown,NA
+1774,2024-04-11,76,South West,GII.17,2025-01-12
+1775,2023-03-05,75,East of England,GII.4,2023-10-04
+1776,2022-11-02,4,North West,Other,NA
+1777,2024-01-02,57,South West,Other,NA
+1778,2023-03-07,89,North East and Yorkshire,GII.4,NA
+1779,2024-01-13,92,North East and Yorkshire,GII.4,NA
+1780,2025-01-17,87,Midlands,GII.4,NA
+1781,2024-04-05,79,North West,GII.17,NA
+1782,2023-01-09,81,North East and Yorkshire,GII.4,NA
+1783,2024-12-04,92,North West,GII.17,NA
+1784,2024-12-13,94,North East and Yorkshire,GII.17,NA
+1785,2022-09-25,35,North West,Other,NA
+1786,2023-11-30,43,North West,GII.4,NA
+1787,2025-01-08,63,Midlands,GII.4,NA
+1788,2024-06-01,76,North East and Yorkshire,GII.17,NA
+1789,2025-03-14,90,Midlands,Unknown,NA
+1790,2023-05-17,85,North East and Yorkshire,GII.4,2023-07-11
+1791,2023-07-03,77,East of England,Unknown,NA
+1792,2022-08-22,39,North East and Yorkshire,Other,NA
+1793,2022-11-14,43,East of England,Other,2022-12-21
+1794,2023-02-22,3,North West,Other,NA
+1795,2024-11-28,92,East of England,GII.17,NA
+1796,2024-06-28,78,London,GII.17,NA
+1797,2023-06-01,57,North East and Yorkshire,Other,NA
+1798,2024-03-18,86,North West,GII.17,NA
+1799,2024-05-18,55,South East,Other,NA
+1800,2023-05-17,17,North West,GII.4,NA
+1801,2024-11-30,87,North West,GII.4,NA
+1802,2024-12-02,1,South West,Other,NA
+1803,2024-10-22,72,South West,Other,NA
+1804,2023-03-22,73,North West,GII.4,2024-11-07
+1805,2022-09-13,8,North West,Other,NA
+1806,2023-06-12,92,Midlands,GII.4,NA
+1807,2023-03-10,32,South West,GII.4,NA
+1808,2024-06-20,53,South West,GII.17,NA
+1809,2024-08-28,1,North West,GII.17,NA
+1810,2023-11-03,9,North West,Other,NA
+1811,2024-03-01,62,South West,GII.17,2024-12-26
+1812,2024-10-04,55,South West,GII.4,NA
+1813,2025-03-20,4,South West,GII.4,NA
+1814,2023-02-04,83,North West,Other,2023-07-19
+1815,2023-08-22,85,East of England,Unknown,NA
+1816,2024-12-09,82,East of England,GII.17,NA
+1817,2024-06-25,82,Midlands,Unknown,2024-07-15
+1818,2024-04-22,15,East of England,Other,NA
+1819,2024-10-10,1,South West,GII.4,NA
+1820,2025-02-03,73,North East and Yorkshire,GII.17,NA
+1821,2022-09-22,0,North West,GII.4,NA
+1822,2023-12-05,74,North West,GII.4,NA
+1823,2024-03-26,78,North West,GII.4,NA
+1824,2023-02-13,76,North West,GII.4,NA
+1825,2022-10-29,3,East of England,Unknown,NA
+1826,2024-12-13,83,Midlands,GII.4,2025-01-31
+1827,2025-03-24,0,North West,GII.4,NA
+1828,2024-02-05,87,Midlands,GII.4,NA
+1829,2024-12-16,52,North West,GII.17,NA
+1830,2024-02-08,0,North West,Unknown,NA
+1831,2023-11-11,5,North West,Unknown,NA
+1832,2023-02-08,1,North West,GII.4,NA
+1833,2022-11-21,53,East of England,GII.4,NA
+1834,2023-02-05,50,East of England,Unknown,2023-02-13
+1835,2025-03-25,0,Midlands,GII.4,NA
+1836,2024-03-13,86,North West,GII.4,NA
+1837,2024-11-12,99,South West,GII.17,2024-12-10
+1838,2025-02-11,89,North West,GII.4,NA
+1839,2024-08-12,90,London,GII.17,NA
+1840,2025-02-19,95,Midlands,GII.4,2025-05-28
+1841,2023-11-20,2,South West,GII.4,NA
+1842,2024-05-01,2,North West,GII.17,NA
+1843,2025-01-24,61,South West,GII.4,NA
+1844,2023-08-31,50,North West,GII.17,NA
+1845,2023-12-09,78,Midlands,GII.4,NA
+1846,2022-12-28,62,South West,GII.17,2025-05-27
+1847,2024-08-29,41,East of England,GII.17,NA
+1848,2022-07-02,90,North West,GII.4,2022-08-02
+1849,2024-01-18,49,North West,Other,NA
+1850,2024-05-16,84,North West,Other,NA
+1851,2025-01-27,96,Midlands,GII.4,2025-02-12
+1852,2023-12-30,93,North West,GII.4,NA
+1853,2024-04-08,6,North West,Other,NA
+1854,2022-08-19,7,South East,Unknown,NA
+1855,2024-08-15,32,Midlands,GII.17,NA
+1856,2023-07-28,70,South West,GII.4,NA
+1857,2022-12-15,12,East of England,GII.17,NA
+1858,2024-02-12,76,North East and Yorkshire,GII.4,2024-02-16
+1859,2022-08-17,0,East of England,Unknown,NA
+1860,2024-06-30,52,London,Other,NA
+1861,2022-08-11,83,North West,Other,2023-02-09
+1862,2024-06-30,80,London,GII.17,NA
+1863,2022-11-25,89,East of England,Unknown,NA
+1864,2024-11-09,94,North West,GII.4,2025-01-25
+1865,2024-10-10,56,South West,Unknown,NA
+1866,2024-01-03,57,North East and Yorkshire,GII.4,NA
+1867,2024-11-13,89,North West,GII.17,NA
+1868,2023-08-27,85,East of England,GII.4,NA
+1869,2022-12-23,82,South West,GII.4,NA
+1870,2023-03-06,71,North West,GII.4,2023-06-30
+1871,2025-03-02,83,North East and Yorkshire,GII.17,NA
+1872,2024-09-04,1,North West,Other,NA
+1873,2022-11-28,92,North East and Yorkshire,Unknown,2024-02-02
+1874,2024-10-18,42,North West,Other,NA
+1875,2024-06-23,54,North West,GII.17,NA
+1876,2023-11-13,2,North West,Other,NA
+1877,2024-12-07,83,Midlands,GII.4,2024-12-12
+1878,2024-06-05,57,North East and Yorkshire,Other,NA
+1879,2023-04-24,0,North West,GII.4,NA
+1880,2024-01-30,85,Midlands,GII.4,NA
+1881,2024-12-08,71,North East and Yorkshire,GII.4,NA
+1882,2024-06-20,45,South West,Other,NA
+1883,2024-11-06,41,North West,GII.17,NA
+1884,2024-07-05,21,North West,GII.17,NA
+1885,2024-02-05,30,North West,GII.4,NA
+1886,2025-02-17,21,North East and Yorkshire,GII.17,NA
+1887,2023-02-07,75,East of England,GII.4,NA
+1888,2023-03-15,68,North East and Yorkshire,GII.4,NA
+1889,2023-08-10,39,South West,GII.4,NA
+1890,2024-12-23,2,North West,Other,NA
+1891,2025-01-14,77,North West,GII.4,2025-02-03
+1892,2024-01-07,1,North West,Other,NA
+1893,2023-12-22,79,North West,Other,NA
+1894,2025-01-10,91,North East and Yorkshire,GII.17,NA
+1895,2024-02-26,0,North West,Other,NA
+1896,2023-10-14,93,South West,Other,NA
+1897,2023-12-09,84,Midlands,GII.4,NA
+1898,2024-05-02,2,North West,Other,NA
+1899,2024-02-12,0,North West,Other,NA
+1900,2024-12-13,83,Midlands,GII.4,2025-03-04
+1901,2022-12-12,0,North West,Other,NA
+1902,2024-01-26,0,South West,Other,NA
+1903,2024-01-16,72,North West,GII.4,2024-01-26
+1904,2023-10-26,0,North West,Other,NA
+1905,2024-03-10,92,North East and Yorkshire,GII.4,2024-03-30
+1906,2022-11-10,73,East of England,Unknown,NA
+1907,2025-02-27,90,North West,GII.4,NA
+1908,2024-04-08,97,North West,GII.17,NA
+1909,2023-05-17,34,South East,Other,NA
+1910,2023-10-17,1,South West,GII.4,NA
+1911,2024-08-07,9,North West,Other,NA
+1912,2024-07-16,1,North West,GII.17,NA
+1913,2023-08-22,90,North East and Yorkshire,Other,NA
+1914,2025-01-16,64,North West,Unknown,NA
+1915,2023-12-03,0,North West,Other,NA
+1916,2023-08-22,87,North East and Yorkshire,Other,NA
+1917,2025-01-15,87,North West,GII.4,2025-02-01
+1918,2023-11-07,11,South West,Other,NA
+1919,2023-10-26,62,North West,Other,NA
+1920,2023-06-27,68,South West,GII.4,NA
+1921,2024-11-10,77,North West,GII.17,NA
+1922,2022-09-28,82,North West,Other,2024-08-17
+1923,2022-11-07,86,South West,GII.4,2022-11-14
+1924,2023-10-17,78,South West,GII.4,NA
+1925,2022-07-14,2,South West,Other,NA
+1926,2024-12-23,71,South West,GII.17,NA
+1927,2025-01-25,75,North East and Yorkshire,GII.17,NA
+1928,2023-04-21,96,South West,GII.4,2023-06-10
+1929,2025-03-25,56,South West,GII.4,NA
+1930,2022-10-10,54,North West,Other,NA
+1931,2024-03-19,0,East of England,Unknown,NA
+1932,2024-03-01,0,North West,GII.4,NA
+1933,2023-06-08,1,North West,Other,NA
+1934,2025-03-04,45,North East and Yorkshire,GII.17,NA
+1935,2024-12-21,57,North West,Other,NA
+1936,2024-05-18,54,North East and Yorkshire,GII.17,NA
+1937,2024-10-01,39,South West,Unknown,NA
+1938,2022-07-23,93,North West,Other,NA
+1939,2023-03-06,81,North West,GII.4,NA
+1940,2022-08-11,83,South West,Other,2022-11-26
+1941,2024-12-03,48,South West,Other,NA
+1942,2023-03-06,80,North West,GII.4,2024-09-06
+1943,2023-01-04,1,North West,Unknown,NA
+1944,2023-12-23,0,North West,GII.4,NA
+1945,2024-05-29,78,North West,GII.17,NA
+1946,2023-10-05,1,North West,Other,NA
+1947,2023-07-05,1,North West,Other,NA
+1948,2025-01-28,85,North West,GII.4,2025-03-18
+1949,2023-11-28,1,East of England,Unknown,NA
+1950,2025-02-26,88,North West,GII.4,NA
+1951,2025-03-12,71,North West,Unknown,NA
+1952,2024-04-30,97,North West,GII.17,NA
+1953,2024-02-07,0,North West,GII.4,NA
+1954,2023-02-08,90,East of England,Unknown,NA
+1955,2023-02-05,86,South West,GII.4,NA
+1956,2024-11-13,0,South West,GII.4,NA
+1957,2024-02-02,88,North East and Yorkshire,Other,NA
+1958,2023-03-27,66,North West,GII.4,NA
+1959,2024-12-17,48,North West,GII.17,NA
+1960,2023-01-28,92,South West,GII.4,NA
+1961,2024-06-24,0,North West,Other,NA
+1962,2024-03-21,88,North West,GII.4,NA
+1963,2024-07-05,0,South West,Other,NA
+1964,2023-12-30,63,North West,GII.4,NA
+1965,2024-12-30,88,North East and Yorkshire,GII.17,NA
+1966,2025-01-06,79,North West,Other,2025-02-15
+1967,2023-02-22,40,North West,Other,NA
+1968,2023-10-30,1,South West,Unknown,NA
+1969,2023-12-22,79,North West,GII.4,NA
+1970,2025-01-28,79,South West,GII.4,2025-02-17
+1971,2023-12-30,94,North West,GII.4,NA
+1972,2023-05-19,2,North West,Other,NA
+1973,2024-11-13,89,North West,GII.17,2025-01-04
+1974,2023-03-17,56,North West,GII.4,NA
+1975,2023-06-13,74,East of England,Other,2025-01-01
+1976,2025-02-24,69,Midlands,GII.4,NA
+1977,2023-11-27,53,South East,GII.17,NA
+1978,2024-03-22,11,South East,Other,NA
+1979,2024-01-16,47,North West,Other,NA
+1980,2022-08-11,87,North West,Other,2023-11-30
+1981,2024-11-18,26,South West,Other,NA
+1982,2023-01-23,95,North East and Yorkshire,GII.4,2023-01-30
+1983,2024-02-01,84,South West,GII.4,2024-03-28
+1984,2024-07-03,4,North West,GII.4,NA
+1985,2025-01-12,72,East of England,GII.17,NA
+1986,2025-01-22,73,London,Unknown,NA
+1987,2024-02-11,78,North West,GII.4,NA
+1988,2024-01-02,100,North West,GII.4,NA
+1989,2024-12-17,24,South West,GII.4,NA
+1990,2024-10-09,1,North West,GII.17,NA
+1991,2023-08-03,1,North West,Unknown,NA
+1992,2023-05-24,0,North West,Other,NA
+1993,2023-04-25,2,North West,GII.4,NA
+1994,2023-02-13,2,North West,Other,NA
+1995,2024-02-13,0,North West,Other,NA
+1996,2023-05-31,38,South West,GII.4,NA
+1997,2024-08-12,99,North East and Yorkshire,GII.17,2025-06-06
+1998,2023-06-12,0,North West,Other,NA
+1999,2024-01-21,2,North West,Other,NA
+2000,2024-04-06,7,North West,GII.4,NA
+2001,2024-03-28,88,North West,GII.4,NA
+2002,2023-10-17,66,East of England,GII.17,NA
+2003,2023-08-11,16,South West,Other,NA
+2004,2024-11-28,86,East of England,GII.17,NA
+2005,2024-03-18,81,North West,GII.4,NA
+2006,2025-01-16,82,North East and Yorkshire,GII.17,NA
+2007,2024-04-10,90,North East and Yorkshire,GII.17,NA
+2008,2024-06-10,38,North East and Yorkshire,Other,NA
+2009,2023-03-02,98,North West,GII.4,2024-09-20
+2010,2024-12-04,64,Midlands,Other,NA
+2011,2024-05-03,67,South West,GII.17,2025-01-06
+2012,2023-08-29,91,East of England,GII.4,NA
+2013,2024-06-25,65,Midlands,GII.4,NA
+2014,2023-01-27,47,North West,Other,NA
+2015,2023-03-19,0,North West,GII.4,NA
+2016,2024-11-25,90,South West,GII.4,NA
+2017,2024-08-21,58,North West,GII.17,NA
+2018,2023-12-18,94,East of England,Other,NA
+2019,2024-11-02,32,North West,GII.17,NA
+2020,2024-04-08,69,North East and Yorkshire,Other,NA
+2021,2024-03-28,3,North West,GII.17,NA
+2022,2024-11-28,83,North East and Yorkshire,GII.17,NA
+2023,2025-01-17,88,South West,GII.4,2025-05-01
+2024,2024-03-16,87,North East and Yorkshire,GII.17,NA
+2025,2023-11-12,5,London,Other,NA
+2026,2024-05-23,67,North West,GII.17,NA
+2027,2023-01-30,90,South East,GII.4,2024-08-02
+2028,2024-12-19,70,North West,GII.17,2025-02-28
+2029,2023-12-11,90,North West,GII.4,NA
+2030,2024-07-11,21,North West,GII.17,NA
+2031,2024-03-04,1,North West,Other,NA
+2032,2023-12-11,82,Midlands,GII.4,2025-01-30
+2033,2023-11-24,88,North West,GII.4,NA
+2034,2024-03-01,72,North West,GII.17,NA
+2035,2025-01-13,1,South West,GII.4,NA
+2036,2023-12-21,2,North West,GII.4,NA
+2037,2024-12-08,84,East of England,GII.17,NA
+2038,2024-07-12,53,North West,GII.17,NA
+2039,2024-04-12,85,North West,GII.17,2024-04-29
+2040,2023-12-06,92,Midlands,GII.4,2024-02-20
+2041,2024-11-27,90,East of England,GII.17,NA
+2042,2025-02-08,70,Midlands,GII.4,NA
+2043,2023-08-07,17,North East and Yorkshire,Other,NA
+2044,2023-03-14,4,Midlands,GII.4,NA
+2045,2025-02-28,34,North West,GII.17,NA
+2046,2025-02-16,71,North West,GII.4,NA
+2047,2024-11-30,90,North West,GII.17,NA
+2048,2025-01-21,97,North West,GII.17,2025-01-24
+2049,2022-08-11,83,North East and Yorkshire,Other,2023-03-23
+2050,2024-12-31,85,North West,GII.17,NA
+2051,2024-03-26,77,North West,GII.17,2025-04-09
+2052,2023-08-25,66,East of England,Unknown,NA
+2053,2025-01-12,50,South West,Other,NA
+2054,2025-02-24,82,South West,GII.17,NA
+2055,2023-06-20,27,North West,Other,NA
+2056,2023-04-04,2,North West,Other,NA
+2057,2024-06-28,1,South West,Unknown,NA
+2058,2024-12-09,87,East of England,GII.4,2024-12-25
+2059,2023-06-16,92,East of England,Unknown,NA
+2060,2024-11-27,87,Midlands,GII.4,NA
+2061,2024-12-16,79,South West,Other,2025-04-12
+2062,2024-04-08,88,North West,GII.17,NA
+2063,2024-03-12,1,East of England,Other,NA
+2064,2023-04-13,1,North West,Other,NA
+2065,2023-12-22,0,North West,GII.4,NA
+2066,2024-04-28,74,Midlands,GII.17,NA
+2067,2024-07-10,81,London,GII.17,NA
+2068,2024-03-16,75,North West,GII.17,NA
+2069,2022-09-29,1,North West,Other,NA
+2070,2025-01-12,91,North West,GII.17,NA
+2071,2024-04-11,3,East of England,Unknown,NA
+2072,2024-11-14,0,South West,GII.4,NA
+2073,2023-01-07,91,North East and Yorkshire,GII.4,NA
+2074,2022-12-13,38,North East and Yorkshire,GII.4,2022-12-13
+2075,2024-12-03,48,South West,Other,NA
+2076,2023-01-08,98,South West,Unknown,2023-03-29
+2077,2025-01-19,98,North West,GII.4,NA
+2078,2023-02-15,0,Midlands,GII.4,NA
+2079,2024-08-23,25,South West,GII.17,NA
+2080,2024-11-27,93,East of England,Other,NA
+2081,2025-03-12,0,South West,GII.4,NA
+2082,2025-03-18,85,Midlands,GII.4,NA
+2083,2024-09-09,1,North West,GII.4,NA
+2084,2025-03-21,3,North West,GII.17,NA
+2085,2025-03-08,61,South West,GII.17,NA
+2086,2024-12-10,0,South West,GII.4,NA
+2087,2025-01-15,60,Midlands,GII.4,NA
+2088,2023-11-22,2,East of England,Unknown,NA
+2089,2023-01-22,92,North East and Yorkshire,Other,NA
+2090,2024-01-13,83,Midlands,GII.4,NA
+2091,2023-04-14,6,North West,GII.4,NA
+2092,2023-02-25,2,South West,Other,NA
+2093,2025-02-22,0,North West,GII.4,NA
+2094,2024-04-11,76,Midlands,GII.17,NA
+2095,2023-05-30,95,South West,GII.4,2025-04-10
+2096,2023-01-04,75,North East and Yorkshire,GII.4,2025-01-14
+2097,2024-01-02,91,North West,GII.4,NA
+2098,2025-01-08,81,Midlands,GII.17,2025-01-18
+2099,2023-02-15,81,North West,GII.4,2024-02-09
+2100,2024-10-18,2,North West,Other,NA
+2101,2024-11-12,57,North West,GII.17,NA
+2102,2024-05-11,101,North West,GII.17,2024-06-22
+2103,2024-12-23,75,South East,GII.17,NA
+2104,2023-12-20,2,North West,Other,NA
+2105,2024-11-09,94,North West,GII.4,NA
+2106,2023-11-20,75,North West,Unknown,NA
+2107,2024-03-29,68,North West,GII.17,NA
+2108,2023-12-04,85,North West,GII.4,2024-02-10
+2109,2023-09-27,34,North West,Other,NA
+2110,2024-11-25,90,North West,GII.17,NA
+2111,2025-01-31,74,North East and Yorkshire,GII.17,2025-02-23
+2112,2024-12-05,50,Midlands,GII.4,NA
+2113,2023-05-12,6,North West,Other,NA
+2114,2025-03-17,72,North West,GII.17,NA
+2115,2023-12-18,2,North West,GII.4,NA
+2116,2025-02-16,71,North East and Yorkshire,GII.4,NA
+2117,2023-02-21,81,North West,GII.4,2023-03-25
+2118,2023-06-07,1,North West,Other,NA
+2119,2025-02-13,71,North East and Yorkshire,GII.4,NA
+2120,2022-10-14,0,East of England,Unknown,NA
+2121,2024-07-11,37,North West,GII.17,NA
+2122,2023-12-03,85,North West,GII.4,NA
+2123,2024-07-18,0,North East and Yorkshire,GII.17,NA
+2124,2024-12-22,91,North West,GII.17,NA
+2125,2023-03-15,90,North East and Yorkshire,Other,2024-11-24
+2126,2024-11-17,60,North West,GII.17,NA
+2127,2023-05-11,1,North West,Unknown,2025-03-13
+2128,2024-12-23,2,South West,GII.4,NA
+2129,2025-03-20,58,London,GII.4,NA
+2130,2025-01-14,69,South West,GII.17,NA
+2131,2023-02-28,85,North West,GII.4,2023-12-02
+2132,2023-08-05,0,North West,Other,NA
+2133,2023-08-31,29,South West,Unknown,2023-09-13
+2134,2022-12-16,74,North East and Yorkshire,GII.4,NA
+2135,2023-03-29,87,North East and Yorkshire,GII.4,NA
+2136,2025-01-20,92,North West,GII.17,NA
+2137,2025-02-28,88,North East and Yorkshire,GII.17,NA
+2138,2022-11-12,82,South West,GII.4,2022-11-30
+2139,2023-07-08,4,North West,Other,NA
+2140,2023-08-25,55,East of England,GII.17,NA
+2141,2024-12-07,89,Midlands,GII.4,NA
+2142,2023-05-02,78,North West,GII.4,NA
+2143,2024-01-31,90,South West,GII.4,NA
+2144,2022-08-09,45,North East and Yorkshire,GII.4,NA
+2145,2024-11-27,4,South West,GII.17,NA
+2146,2023-02-13,81,North West,Unknown,2023-03-10
+2147,2024-11-25,102,Midlands,GII.4,NA
+2148,2024-02-02,1,North West,Other,NA
+2149,2024-09-27,63,East of England,Unknown,NA
+2150,2024-12-18,0,North West,Other,NA
+2151,2024-12-28,81,South East,GII.17,NA
+2152,2025-03-07,27,North West,GII.17,NA
+2153,2022-09-16,0,South West,Other,NA
+2154,2023-12-18,90,North West,GII.4,NA
+2155,2023-03-18,71,North East and Yorkshire,GII.4,2023-12-13
+2156,2024-06-11,40,East of England,GII.17,NA
+2157,2024-11-30,36,East of England,GII.17,NA
+2158,2024-01-04,67,Midlands,Other,NA
+2159,2023-08-14,84,North West,Other,NA
+2160,2024-04-28,74,South West,GII.17,NA
+2161,2024-12-24,94,North West,GII.17,NA
+2162,2022-07-29,60,North West,Other,2024-01-25
+2163,2024-12-02,88,North West,Other,NA
+2164,2024-03-18,84,North West,GII.4,NA
+2165,2023-01-27,2,East of England,Other,NA
+2166,2023-01-27,2,North West,GII.4,NA
+2167,2024-07-07,17,North West,GII.17,NA
+2168,2024-12-03,48,North East and Yorkshire,GII.4,2025-01-30
+2169,2024-10-15,71,South West,Other,NA
+2170,2023-04-13,0,North West,GII.4,NA
+2171,2025-03-13,5,North East and Yorkshire,GII.4,NA
+2172,2023-03-05,76,East of England,GII.4,NA
+2173,2024-12-11,14,South East,Other,NA
+2174,2024-12-16,86,Midlands,GII.17,NA
+2175,2022-08-17,53,East of England,Unknown,NA
+2176,2022-10-08,46,North West,Other,NA
+2177,2024-05-18,77,North West,GII.17,NA
+2178,2023-05-16,44,South East,GII.4,NA
+2179,2023-04-13,59,South West,Other,NA
+2180,2023-07-20,1,South West,Other,NA
+2181,2024-01-29,1,North West,Other,NA
+2182,2024-07-07,17,South West,GII.17,NA
+2183,2023-12-21,72,North West,GII.4,NA
+2184,2024-01-27,1,North West,Other,NA
+2185,2024-04-28,49,North East and Yorkshire,GII.17,NA
+2186,2024-05-17,77,North West,GII.17,2024-10-30
+2187,2024-10-20,75,North East and Yorkshire,GII.17,NA
+2188,2024-05-09,60,South West,GII.17,NA
+2189,2022-11-22,76,North East and Yorkshire,Other,NA
+2190,2025-03-30,17,North West,GII.17,NA
+2191,2023-04-09,1,North West,Other,NA
+2192,2025-03-09,0,North West,GII.4,NA
+2193,2025-03-13,86,North East and Yorkshire,GII.4,NA
+2194,2022-10-21,41,North East and Yorkshire,Other,NA
+2195,2022-12-13,2,North West,GII.17,NA
+2196,2024-12-09,78,Midlands,GII.4,NA
+2197,2023-02-25,2,North West,Other,NA
+2198,2022-11-08,0,North West,Other,NA
+2199,2024-01-06,1,North West,Other,NA
+2200,2022-08-01,3,South West,Other,NA
+2201,2023-05-25,12,North West,GII.4,NA
+2202,2024-05-16,84,North East and Yorkshire,GII.17,NA
+2203,2025-01-10,85,Midlands,GII.4,NA
+2204,2024-07-18,82,North West,GII.17,2024-09-14
+2205,2023-12-20,31,North West,GII.4,2025-04-16
+2206,2024-09-17,28,South West,GII.17,NA
+2207,2024-03-15,56,North West,GII.4,NA
+2208,2022-12-01,2,North West,Other,NA
+2209,2024-12-28,92,North West,GII.17,NA
+2210,2024-02-29,95,North West,GII.17,2024-03-26
+2211,2025-03-10,86,Midlands,GII.17,2025-05-20
+2212,2025-02-13,70,East of England,GII.17,2025-03-26
+2213,2022-08-09,86,North West,GII.4,2025-01-11
+2214,2023-02-13,82,North West,GII.4,NA
+2215,2024-03-22,94,North West,GII.17,2024-11-11
+2216,2023-12-09,69,East of England,Unknown,NA
+2217,2024-09-02,51,North West,GII.17,NA
+2218,2024-11-30,92,South East,Unknown,2025-01-09
+2219,2024-07-19,82,North West,Unknown,2024-10-22
+2220,2023-01-20,3,North West,GII.4,NA
+2221,2024-12-17,78,Midlands,GII.17,2024-12-23
+2222,2023-12-29,85,South West,GII.4,2024-01-09
+2223,2024-12-11,71,Midlands,GII.17,NA
+2224,2024-03-18,52,North West,GII.17,2024-12-06
+2225,2023-08-24,1,North West,Other,NA
+2226,2022-09-26,2,North West,Other,NA
+2227,2025-01-14,33,South East,GII.17,NA
+2228,2024-01-15,84,North East and Yorkshire,GII.4,NA
+2229,2023-01-06,74,Midlands,GII.4,NA
+2230,2025-01-14,71,East of England,GII.17,NA
+2231,2023-03-14,65,North West,GII.4,2023-12-30
+2232,2023-05-03,91,North East and Yorkshire,GII.4,NA
+2233,2024-04-16,0,North West,GII.17,NA
+2234,2024-08-11,90,North West,GII.17,2025-03-25
+2235,2025-02-01,84,South West,GII.4,NA
+2236,2024-11-27,93,Midlands,Unknown,2024-12-14
+2237,2025-02-16,72,Midlands,GII.4,2025-03-08
+2238,2023-12-03,3,South West,Other,NA
+2239,2023-04-25,2,South West,Other,NA
+2240,2024-12-29,79,North West,GII.17,NA
+2241,2022-12-25,44,North West,GII.4,2023-08-05
+2242,2023-12-29,74,South West,GII.4,NA
+2243,2023-09-25,34,East of England,Unknown,NA
+2244,2025-01-09,96,North East and Yorkshire,GII.17,NA
+2245,2024-10-02,85,South West,GII.4,2024-11-13
+2246,2023-12-10,87,Midlands,GII.4,2024-02-29
+2247,2025-01-10,91,North West,GII.17,NA
+2248,2023-12-13,91,North East and Yorkshire,Other,NA
+2249,2024-09-23,63,South West,Other,NA
+2250,2022-07-29,60,East of England,Other,NA
+2251,2023-11-23,63,South West,GII.4,NA
+2252,2023-05-27,12,North West,Other,NA
+2253,2023-03-24,1,North West,GII.4,NA
+2254,2024-03-25,71,Midlands,GII.17,NA
+2255,2023-07-25,1,North West,Unknown,NA
+2256,2023-11-16,62,East of England,Unknown,NA
+2257,2024-12-29,73,Midlands,GII.4,NA
+2258,2024-10-20,85,South West,Other,NA
+2259,2025-02-21,89,South West,GII.4,NA
+2260,2024-07-16,0,South West,GII.17,NA
+2261,2023-07-03,90,East of England,GII.4,NA
+2262,2025-01-21,34,London,Unknown,NA
+2263,2023-11-25,12,North West,Other,NA
+2264,2023-11-06,0,North West,Other,NA
+2265,2024-03-21,78,North West,GII.4,2024-09-03
+2266,2025-03-06,1,North West,Unknown,NA
+2267,2024-12-29,60,North West,GII.17,2025-01-17
+2268,2025-02-19,34,South West,GII.17,NA
+2269,2023-12-08,23,East of England,Unknown,NA
+2270,2025-03-04,100,Midlands,GII.4,2025-03-17
+2271,2023-10-01,15,South West,Other,NA
+2272,2024-04-07,77,North West,GII.17,NA
+2273,2024-08-09,99,North East and Yorkshire,GII.17,NA
+2274,2024-04-17,79,North West,GII.4,2024-12-15
+2275,2023-05-26,4,North West,GII.4,NA
+2276,2024-08-08,99,North East and Yorkshire,Unknown,2025-02-04
+2277,2023-07-24,63,South West,Unknown,NA
+2278,2023-04-19,7,North West,GII.4,NA
+2279,2023-04-14,0,North West,GII.4,NA
+2280,2024-02-22,32,North West,GII.17,NA
+2281,2024-07-29,1,North West,GII.17,NA
+2282,2023-11-20,1,East of England,Other,NA
+2283,2023-10-17,78,South West,GII.4,NA
+2284,2023-03-30,62,South West,Other,NA
+2285,2025-01-20,92,North West,GII.4,NA
+2286,2025-01-22,36,North West,Other,NA
+2287,2023-03-24,85,North East and Yorkshire,GII.4,2024-03-26
+2288,2024-11-29,83,East of England,GII.17,NA
+2289,2023-04-22,0,North West,GII.4,NA
+2290,2024-04-30,97,North East and Yorkshire,GII.17,NA
+2291,2024-12-06,47,Midlands,GII.4,NA
+2292,2023-10-14,1,North West,Other,NA
+2293,2024-01-12,72,Midlands,GII.4,NA
+2294,2023-12-08,74,North West,GII.4,NA
+2295,2024-06-24,85,North East and Yorkshire,GII.17,NA
+2296,2023-11-23,60,South West,Other,2024-09-16
+2297,2024-09-09,2,North West,GII.4,NA
+2298,2024-07-10,33,South West,GII.17,NA
+2299,2024-07-23,81,North West,GII.17,NA
+2300,2023-03-20,7,South West,GII.4,NA
+2301,2023-03-01,91,North West,GII.4,2023-03-08
+2302,2024-09-10,0,North West,GII.4,NA
+2303,2023-05-17,99,South West,GII.4,2024-04-05
+2304,2023-12-20,74,North West,GII.4,NA
+2305,2023-11-21,92,North East and Yorkshire,GII.4,2024-04-28
+2306,2024-01-12,93,Midlands,GII.4,NA
+2307,2023-02-15,0,South West,Other,NA
+2308,2024-12-31,79,North East and Yorkshire,GII.17,NA
+2309,2023-03-24,1,North West,GII.4,NA
+2310,2024-12-27,87,South West,GII.4,NA
+2311,2024-04-30,97,North East and Yorkshire,GII.17,2024-12-28
+2312,2023-12-18,2,North West,Other,NA
+2313,2024-05-05,42,North West,GII.17,NA
+2314,2022-11-02,9,North West,Other,NA
+2315,2023-01-26,96,North East and Yorkshire,GII.4,NA
+2316,2022-11-16,2,South West,Other,NA
+2317,2025-01-23,84,South West,GII.4,NA
+2318,2024-03-01,54,North East and Yorkshire,GII.17,NA
+2319,2025-02-02,87,Midlands,GII.4,2025-02-15
+2320,2023-03-20,1,North West,GII.4,NA
+2321,2024-04-22,84,North West,GII.4,NA
+2322,2024-04-12,16,North West,GII.17,NA
+2323,2024-10-18,0,North West,GII.17,NA
+2324,2023-12-22,63,North West,GII.4,NA
+2325,2023-12-23,0,North West,Other,NA
+2326,2022-11-25,1,South West,GII.4,NA
+2327,2024-04-08,69,Midlands,GII.17,NA
+2328,2024-02-07,85,North East and Yorkshire,GII.4,2024-12-10
+2329,2023-12-30,83,North West,GII.4,NA
+2330,2025-01-21,72,Midlands,GII.4,NA
+2331,2024-06-23,79,London,GII.17,NA
+2332,2025-02-07,85,Midlands,GII.4,NA
+2333,2023-02-11,79,North West,GII.4,2026-01-28
+2334,2024-05-10,82,North West,GII.17,NA
+2335,2025-02-07,70,North West,GII.17,NA
+2336,2023-10-07,52,East of England,GII.4,NA
+2337,2023-01-18,0,North West,GII.4,NA
+2338,2024-05-08,41,North East and Yorkshire,Other,2025-06-14
+2339,2025-02-11,82,Midlands,GII.4,2025-03-06
+2340,2023-07-31,22,North West,Other,NA
+2341,2023-12-05,76,East of England,GII.4,2024-05-17
+2342,2024-12-12,76,South East,GII.17,NA
+2343,2024-11-15,65,North West,GII.17,NA
+2344,2023-12-12,91,East of England,Other,NA
+2345,2023-09-25,43,East of England,GII.4,NA
+2346,2025-01-01,79,South West,GII.17,NA
+2347,2023-01-08,81,North East and Yorkshire,GII.4,2023-02-09
+2348,2024-11-20,86,Midlands,GII.17,2025-01-06
+2349,2023-01-18,48,North West,Other,NA
+2350,2023-02-13,90,Midlands,GII.4,NA
+2351,2024-11-28,43,North West,GII.17,NA
+2352,2024-02-16,0,North West,GII.4,NA
+2353,2024-12-20,1,North West,GII.4,NA
+2354,2023-06-28,0,North West,GII.4,NA
+2355,2022-10-25,12,North West,Other,NA
+2356,2024-09-30,30,South West,Unknown,2024-10-02
+2357,2024-01-02,91,North West,GII.4,NA
+2358,2024-12-04,67,South West,GII.17,NA
+2359,2024-06-10,78,North East and Yorkshire,GII.17,NA
+2360,2023-07-18,1,North West,Other,NA
+2361,2024-12-31,91,Midlands,GII.17,2025-05-20
+2362,2023-08-09,8,South West,Other,NA
+2363,2024-05-17,39,North West,GII.17,NA
+2364,2025-02-22,69,South West,GII.17,NA
+2365,2023-07-11,97,North East and Yorkshire,GII.4,2023-09-22
+2366,2024-04-24,77,North West,GII.17,2024-09-17
+2367,2024-12-02,1,South West,GII.4,NA
+2368,2023-04-05,0,North West,GII.4,NA
+2369,2024-05-02,4,East of England,Unknown,NA
+2370,2023-10-19,44,North East and Yorkshire,Other,NA
+2371,2024-05-15,40,North West,GII.17,2024-07-22
+2372,2024-06-12,96,North West,GII.17,2024-12-06
+2373,2022-10-19,1,North West,Other,NA
+2374,2023-06-28,0,North West,Other,NA
+2375,2025-03-18,69,Midlands,GII.4,NA
+2376,2025-03-17,88,North West,GII.17,NA
+2377,2025-01-16,1,North West,GII.4,NA
+2378,2024-05-10,82,North West,GII.17,NA
+2379,2023-01-25,98,South West,Other,NA
+2380,2024-01-30,85,North West,Other,2025-02-22
+2381,2023-12-11,87,North East and Yorkshire,Unknown,2023-12-25
+2382,2025-03-20,94,East of England,GII.4,NA
+2383,2024-11-27,4,South East,GII.17,NA
+2384,2024-01-06,7,North West,Other,NA
+2385,2024-03-22,77,North West,GII.17,NA
+2386,2025-03-06,1,North West,GII.4,NA
+2387,2024-02-29,94,North West,GII.17,NA
+2388,2024-01-16,1,South West,GII.4,NA
+2389,2022-10-21,66,North West,Other,NA
+2390,2025-02-20,91,North West,GII.4,2025-05-29
+2391,2023-07-10,2,North West,Other,NA
+2392,2024-11-03,1,North West,GII.17,NA
+2393,2024-10-18,3,South West,GII.4,NA
+2394,2024-09-23,83,North West,GII.17,2025-03-04
+2395,2024-05-18,39,North West,GII.17,NA
+2396,2024-12-06,56,Midlands,GII.4,NA
+2397,2024-12-26,40,North West,Unknown,NA
+2398,2025-01-12,67,North West,Other,NA
+2399,2023-09-20,17,East of England,Unknown,NA
+2400,2023-12-31,51,North East and Yorkshire,Other,NA
+2401,2022-11-06,66,North West,Other,NA
+2402,2023-04-07,102,North East and Yorkshire,GII.4,2024-01-12
+2403,2024-04-07,82,North West,GII.17,NA
+2404,2022-07-14,64,South West,Other,NA
+2405,2023-03-30,33,North West,GII.4,2025-10-04
+2406,2022-12-16,78,East of England,Unknown,NA
+2407,2023-12-31,90,North East and Yorkshire,GII.4,2024-03-17
+2408,2024-10-22,0,North West,GII.17,NA
+2409,2024-12-15,84,Midlands,GII.4,NA
+2410,2024-05-07,41,North West,GII.17,NA
+2411,2025-01-16,56,North East and Yorkshire,GII.17,2025-06-15
+2412,2023-02-13,76,North West,GII.4,NA
+2413,2024-04-21,86,North West,GII.4,NA
+2414,2024-12-11,76,South East,GII.17,NA
+2415,2024-12-20,4,North West,Other,NA
+2416,2024-04-25,85,South West,GII.17,NA
+2417,2023-02-21,0,North West,Other,NA
+2418,2023-04-09,31,North West,Other,NA
+2419,2025-02-03,82,North East and Yorkshire,GII.4,NA
+2420,2022-11-18,76,South West,GII.4,2022-12-18
+2421,2023-05-06,2,North West,GII.4,NA
+2422,2024-06-25,5,London,Other,NA
+2423,2025-03-04,53,North East and Yorkshire,Other,NA
+2424,2023-02-21,1,North West,Other,2023-02-28
+2425,2023-12-03,3,East of England,Unknown,NA
+2426,2024-10-02,2,North West,GII.17,NA
+2427,2025-01-28,79,North East and Yorkshire,GII.17,NA
+2428,2023-12-09,84,North West,GII.4,NA
+2429,2025-02-15,77,East of England,GII.17,NA
+2430,2025-02-23,0,North West,GII.17,NA
+2431,2024-12-09,78,East of England,GII.4,NA
+2432,2024-10-25,95,North West,GII.17,2025-01-06
+2433,2023-03-29,83,North East and Yorkshire,GII.4,NA
+2434,2023-03-01,0,North West,GII.4,NA
+2435,2023-11-28,1,North West,Other,NA
+2436,2023-08-18,3,North West,Other,NA
+2437,2023-04-26,80,North East and Yorkshire,GII.4,2023-07-11
+2438,2023-09-25,34,North West,Other,NA
+2439,2025-03-05,86,North West,GII.17,NA
+2440,2024-04-16,2,East of England,Unknown,NA
+2441,2024-05-10,85,North West,GII.17,NA
+2442,2023-08-03,70,South West,GII.4,NA
+2443,2024-08-28,6,North West,Other,NA
+2444,2024-05-01,91,North East and Yorkshire,GII.17,2024-07-28
+2445,2024-07-19,2,North West,GII.17,NA
+2446,2023-10-17,78,South West,GII.4,NA
+2447,2025-01-28,84,North West,GII.4,NA
+2448,2025-01-11,9,North West,GII.4,NA
+2449,2023-05-04,1,North West,Other,2025-08-11
+2450,2024-03-12,83,North West,GII.17,2024-09-07
+2451,2024-12-12,77,Midlands,GII.4,NA
+2452,2024-01-03,87,North West,GII.4,2024-08-28
+2453,2024-06-26,89,North East and Yorkshire,GII.4,NA
+2454,2023-12-30,83,North East and Yorkshire,GII.4,NA
+2455,2024-10-22,83,North West,GII.17,NA
+2456,2025-03-10,92,South East,GII.4,2025-03-27
+2457,2023-08-09,39,South West,Other,NA
+2458,2022-09-22,0,North West,Other,NA
+2459,2023-03-25,2,North West,Other,NA
+2460,2023-10-27,15,North West,Other,NA
+2461,2025-01-02,55,North West,GII.4,NA
+2462,2025-03-08,53,North West,GII.4,NA
+2463,2024-12-20,38,South West,GII.4,NA
+2464,2024-12-09,88,Midlands,GII.4,NA
+2465,2025-02-04,89,North West,GII.4,NA
+2466,2024-10-02,31,South West,Unknown,NA
+2467,2025-01-14,69,South West,GII.17,NA
+2468,2025-03-03,60,North East and Yorkshire,GII.17,NA
+2469,2023-02-08,0,South West,GII.4,NA
+2470,2024-05-02,48,North East and Yorkshire,Unknown,NA
+2471,2022-11-30,0,North West,GII.4,NA
+2472,2024-10-19,64,North West,GII.17,NA
+2473,2023-07-07,1,North West,Other,NA
+2474,2024-04-08,6,East of England,Other,NA
+2475,2024-10-16,79,North West,GII.17,NA
+2476,2023-11-06,0,North West,Other,NA
+2477,2025-02-04,1,Midlands,GII.17,NA
+2478,2024-11-12,55,North West,GII.17,NA
+2479,2024-03-12,79,North West,GII.4,2024-03-19
+2480,2023-10-30,0,East of England,Unknown,NA
+2481,2023-12-07,60,North West,Unknown,NA
+2482,2023-03-16,56,South West,Unknown,NA
+2483,2025-01-16,81,North East and Yorkshire,GII.17,NA
+2484,2025-01-01,85,South West,GII.4,NA
+2485,2024-07-02,6,North West,Other,NA
+2486,2023-10-21,90,South West,GII.4,NA
+2487,2023-10-31,0,London,Unknown,NA
+2488,2025-03-22,92,North West,GII.17,NA
+2489,2023-03-06,58,North East and Yorkshire,GII.4,NA
+2490,2023-12-24,0,North West,Unknown,NA
+2491,2023-01-05,77,North East and Yorkshire,GII.4,NA
+2492,2025-01-05,88,North East and Yorkshire,GII.17,NA
+2493,2024-09-04,3,South West,GII.17,NA
+2494,2023-07-28,1,South West,GII.4,NA
+2495,2023-02-21,6,South West,Other,NA
+2496,2024-11-12,55,North West,GII.17,NA
+2497,2023-06-01,38,North West,GII.4,NA
+2498,2024-12-04,83,North West,GII.17,NA
+2499,2024-12-28,79,Midlands,Unknown,NA
+2500,2024-12-29,94,North West,GII.17,NA
+2501,2023-01-26,88,North East and Yorkshire,GII.4,2025-03-25
+2502,2023-06-23,1,North West,Other,NA
+2503,2022-12-23,59,East of England,GII.4,NA
+2504,2024-10-01,75,North West,GII.17,NA
+2505,2024-02-09,74,North East and Yorkshire,GII.4,NA
+2506,2022-11-21,53,North East and Yorkshire,GII.4,NA
+2507,2022-12-16,86,North West,GII.4,NA
+2508,2025-02-17,39,North West,Unknown,NA
+2509,2024-12-04,76,North East and Yorkshire,GII.17,NA
+2510,2023-04-04,2,South West,GII.4,NA
+2511,2024-03-22,2,London,GII.4,NA
+2512,2024-05-07,41,North East and Yorkshire,GII.17,NA
+2513,2024-04-11,93,North East and Yorkshire,GII.17,2024-08-02
+2514,2024-03-15,2,South West,GII.17,NA
+2515,2025-03-05,78,North East and Yorkshire,GII.17,NA
+2516,2025-02-12,77,East of England,GII.17,NA
+2517,2024-11-01,89,North West,GII.17,NA
+2518,2023-03-21,73,North West,GII.4,2023-08-15
+2519,2022-08-23,2,South West,Other,NA
+2520,2024-06-13,85,East of England,GII.17,2024-09-20
+2521,2023-05-24,1,South West,GII.4,NA
+2522,2025-01-21,34,North East and Yorkshire,GII.17,NA
+2523,2022-07-29,86,North West,GII.4,2023-06-29
+2524,2022-11-14,43,East of England,Unknown,NA
+2525,2023-03-01,92,North West,GII.4,2023-03-19
+2526,2022-08-16,1,South West,GII.4,NA
+2527,2024-06-15,60,North West,GII.17,NA
+2528,2024-01-29,83,South West,GII.4,NA
+2529,2022-11-30,0,North West,GII.4,NA
+2530,2023-12-03,78,Midlands,GII.4,2024-02-22
+2531,2024-06-05,48,North East and Yorkshire,Unknown,NA
+2532,2024-01-04,92,North West,GII.4,NA
+2533,2023-11-12,1,North West,Other,NA
+2534,2024-12-30,75,North East and Yorkshire,GII.17,NA
+2535,2023-01-06,75,North East and Yorkshire,Unknown,NA
+2536,2023-04-13,1,North West,Other,NA
+2537,2023-03-18,0,North West,GII.4,NA
+2538,2024-12-27,84,North West,GII.17,NA
+2539,2022-10-31,32,East of England,Unknown,NA
+2540,2024-02-27,0,North West,GII.4,NA
+2541,2022-10-31,4,East of England,Unknown,NA
+2542,2022-11-17,0,East of England,Unknown,2024-03-11
+2543,2025-01-13,89,North West,GII.17,2025-07-09
+2544,2023-12-27,72,North West,Other,2024-01-22
+2545,2024-12-04,40,South West,Other,NA
+2546,2023-12-11,87,North West,GII.17,NA
+2547,2024-03-16,88,Midlands,GII.4,2024-11-13
+2548,2024-07-10,16,North West,GII.17,NA
+2549,2024-09-02,51,North West,Unknown,NA
+2550,2023-11-28,11,North West,GII.17,NA
+2551,2024-08-29,4,North West,GII.17,NA
+2552,2023-05-09,0,North West,GII.4,NA
+2553,2024-05-22,67,South West,GII.17,NA
+2554,2025-01-28,84,South West,GII.4,NA
+2555,2024-10-01,0,South West,Unknown,NA
+2556,2023-10-17,35,South West,Other,2024-02-06
+2557,2025-02-13,85,Midlands,GII.17,2025-05-08
+2558,2023-12-01,88,North West,GII.4,NA
+2559,2023-03-02,79,North East and Yorkshire,Unknown,2024-03-08
+2560,2024-02-20,68,North East and Yorkshire,GII.4,NA
+2561,2024-10-03,24,North West,GII.17,NA
+2562,2023-12-03,78,East of England,Unknown,2024-03-24
+2563,2023-12-29,74,South West,GII.4,2024-01-19
+2564,2023-05-22,2,North West,Other,NA
+2565,2023-05-16,6,North West,Other,NA
+2566,2023-10-04,66,South West,GII.4,NA
+2567,2025-02-07,84,North West,GII.4,2025-03-21
+2568,2024-12-24,82,Midlands,GII.17,NA
+2569,2023-09-18,32,North West,Other,NA
+2570,2022-09-22,0,North West,GII.4,NA
+2571,2024-01-03,0,South West,Other,NA
+2572,2024-05-29,85,South West,GII.17,NA
+2573,2023-07-05,3,North West,Other,NA
+2574,2024-02-07,88,North East and Yorkshire,Other,NA
+2575,2024-05-02,4,North West,GII.17,NA
+2576,2024-06-25,5,East of England,Unknown,NA
+2577,2024-09-26,55,South West,GII.17,NA
+2578,2023-01-10,72,South West,GII.4,NA
+2579,2024-04-09,81,North West,GII.17,NA
+2580,2022-10-29,88,North East and Yorkshire,Other,NA
+2581,2024-05-18,83,North East and Yorkshire,GII.17,2024-11-09
+2582,2023-01-24,85,South West,Other,2024-01-23
+2583,2024-12-12,78,East of England,GII.4,NA
+2584,2024-03-19,77,North West,GII.17,2025-01-08
+2585,2023-06-03,80,South West,GII.4,NA
+2586,2024-10-18,0,South West,GII.4,NA
+2587,2022-12-16,67,North East and Yorkshire,GII.4,NA
+2588,2024-07-10,31,North West,GII.17,NA
+2589,2022-12-03,3,North West,Other,NA
+2590,2023-12-20,65,East of England,GII.17,NA
+2591,2023-12-03,64,South West,Unknown,NA
+2592,2023-02-21,40,North East and Yorkshire,GII.4,NA
+2593,2024-04-18,87,North East and Yorkshire,GII.4,NA
+2594,2024-07-10,16,North West,GII.17,NA
+2595,2024-08-08,60,North West,GII.17,2024-09-28
+2596,2022-08-17,53,East of England,Other,NA
+2597,2023-02-03,5,North West,GII.4,NA
+2598,2024-07-28,78,North West,GII.17,NA
+2599,2023-03-06,90,North West,GII.4,NA
+2600,2023-12-01,2,North West,Other,2024-11-03
+2601,2024-01-12,89,North West,GII.4,2024-08-12
+2602,2024-11-01,77,North West,GII.4,NA
+2603,2024-08-29,1,South West,Other,NA
+2604,2024-12-20,45,North West,GII.17,NA
+2605,2024-12-23,83,South West,GII.17,NA
+2606,2025-01-14,83,South West,GII.17,NA
+2607,2023-02-13,82,North West,GII.4,2023-04-09
+2608,2024-08-19,97,North West,GII.17,2024-10-15
+2609,2024-10-15,84,Midlands,GII.17,2024-11-04
+2610,2023-01-21,90,South West,GII.4,NA
+2611,2024-12-29,94,North East and Yorkshire,GII.17,NA
+2612,2024-11-15,88,North West,GII.17,NA
+2613,2023-12-30,93,North West,GII.4,NA
+2614,2024-08-09,60,North West,GII.17,NA
+2615,2024-10-30,2,North West,Other,NA
+2616,2023-02-28,5,South West,Other,NA
+2617,2024-04-19,90,North East and Yorkshire,GII.17,2024-07-09
+2618,2024-06-13,52,North West,Unknown,2024-09-27
+2619,2024-07-03,4,North West,Unknown,NA
+2620,2022-09-14,0,North West,Other,NA
+2621,2024-01-12,76,South West,GII.4,NA
+2622,2022-08-08,0,East of England,Unknown,NA
+2623,2025-01-17,86,North West,GII.17,NA
+2624,2024-02-26,65,North West,GII.4,2024-06-11
+2625,2024-08-08,77,North West,GII.17,2024-10-23
+2626,2023-12-09,80,Midlands,GII.4,NA
+2627,2023-07-28,42,North West,GII.4,NA
+2628,2024-01-16,47,North West,Other,2024-05-04
+2629,2023-02-27,71,North East and Yorkshire,GII.4,NA
+2630,2024-07-16,1,South West,GII.17,NA
+2631,2024-09-25,55,South West,Other,NA
+2632,2024-04-29,84,North West,GII.17,NA
+2633,2023-05-06,2,North West,Other,NA
+2634,2024-12-22,57,South East,GII.17,NA
+2635,2023-03-25,51,North East and Yorkshire,GII.4,NA
+2636,2025-03-23,1,North West,Other,NA
+2637,2025-01-12,52,South West,GII.17,NA
+2638,2024-03-18,80,North West,GII.4,2024-03-22
+2639,2023-12-08,23,East of England,Unknown,NA
+2640,2022-12-14,93,South West,GII.4,NA
+2641,2022-07-27,18,South West,Other,NA
+2642,2024-09-07,43,North West,Other,2024-11-06
+2643,2023-03-29,41,North East and Yorkshire,GII.4,NA
+2644,2024-11-17,1,South West,GII.4,NA
+2645,2024-07-15,1,North West,GII.17,NA
+2646,2025-03-30,70,Midlands,GII.4,2025-06-20
+2647,2022-12-15,84,North East and Yorkshire,GII.4,NA
+2648,2024-02-14,14,North West,GII.4,NA
+2649,2023-06-17,38,South West,GII.4,NA
+2650,2024-04-16,2,North West,Other,NA
+2651,2023-08-07,33,North East and Yorkshire,Other,NA
+2652,2024-03-04,2,North West,Other,NA
+2653,2023-01-07,81,North East and Yorkshire,GII.4,2023-01-07
+2654,2023-07-03,78,East of England,Unknown,2023-11-04
+2655,2024-03-27,71,North West,GII.4,NA
+2656,2025-03-17,63,South East,Unknown,NA
+2657,2022-12-02,89,East of England,Unknown,2023-01-03
+2658,2023-11-16,63,North West,Other,2024-07-07
+2659,2024-10-10,100,South West,Unknown,2025-03-15
+2660,2024-08-08,77,North West,GII.17,NA
+2661,2025-02-23,90,North West,GII.4,2025-04-30
+2662,2025-01-30,87,North West,GII.4,NA
+2663,2024-09-17,73,East of England,Unknown,NA
+2664,2024-11-15,0,South West,GII.4,NA
+2665,2023-01-31,77,South East,GII.4,NA
+2666,2025-01-18,76,Midlands,GII.17,NA
+2667,2024-12-13,46,North East and Yorkshire,GII.4,NA
+2668,2024-11-16,88,North West,GII.17,2025-01-23
+2669,2025-03-25,1,North West,GII.4,NA
+2670,2025-01-31,87,South West,GII.4,2025-02-12
+2671,2023-08-14,58,South West,Other,NA
+2672,2023-04-24,0,North West,GII.4,NA
+2673,2024-07-03,25,North West,GII.17,2025-05-06
+2674,2023-02-28,5,North West,GII.4,NA
+2675,2024-09-23,56,East of England,Other,NA
+2676,2023-08-25,92,East of England,GII.4,2024-01-19
+2677,2023-11-23,92,North West,GII.4,NA
+2678,2023-12-04,15,East of England,Unknown,NA
+2679,2024-08-06,87,North East and Yorkshire,GII.17,NA
+2680,2022-11-08,77,East of England,Unknown,2022-12-19
+2681,2025-03-14,42,North West,GII.17,NA
+2682,2023-03-09,0,Midlands,GII.4,NA
+2683,2023-12-27,72,North West,GII.4,2025-02-01
+2684,2024-06-20,40,North West,GII.17,NA
+2685,2022-08-22,82,North West,Other,NA
+2686,2023-01-03,89,Midlands,GII.4,NA
+2687,2023-12-18,0,North West,GII.4,NA
+2688,2023-08-09,39,North East and Yorkshire,Unknown,NA
+2689,2024-12-13,94,North East and Yorkshire,GII.17,NA
+2690,2023-05-17,75,South East,Other,NA
+2691,2024-10-20,34,North West,Other,NA
+2692,2025-01-20,59,North West,GII.4,NA
+2693,2024-07-19,96,Midlands,GII.4,2024-08-08
+2694,2024-07-11,51,North East and Yorkshire,GII.17,NA
+2695,2023-11-14,86,North East and Yorkshire,Other,2024-07-24
+2696,2023-02-08,26,North West,Other,NA
+2697,2024-03-26,78,North West,GII.17,2024-04-15
+2698,2023-04-12,59,North East and Yorkshire,GII.4,NA
+2699,2024-08-07,87,North West,GII.17,2024-09-18
+2700,2023-06-21,40,South West,Other,NA
+2701,2024-02-07,85,North East and Yorkshire,Other,2024-08-15
+2702,2024-10-18,93,South West,Other,NA
+2703,2024-12-09,1,South West,Other,NA
+2704,2024-03-08,79,North West,GII.17,2024-09-24
+2705,2023-05-30,93,South West,GII.4,2023-11-23
+2706,2023-03-23,1,South West,Other,NA
+2707,2023-05-16,7,North West,GII.4,NA
+2708,2022-12-15,84,North East and Yorkshire,GII.4,2023-01-29
+2709,2023-06-15,4,North West,GII.4,2023-06-22
+2710,2024-11-01,1,North West,Other,NA
+2711,2024-11-18,1,North West,GII.4,NA
+2712,2022-11-15,1,North West,GII.4,NA
+2713,2024-04-19,37,North West,Other,NA
+2714,2022-08-22,7,South East,Other,NA
+2715,2025-03-31,84,North West,Other,NA
+2716,2022-09-25,82,North East and Yorkshire,Other,2024-10-03
+2717,2023-02-15,0,North West,Other,NA
+2718,2024-01-15,83,North West,Other,NA
+2719,2023-03-06,78,East of England,Unknown,NA
+2720,2022-10-07,46,London,Other,NA
+2721,2024-12-24,77,South East,GII.17,NA
+2722,2023-12-02,76,North West,GII.17,2023-12-06
+2723,2024-08-05,3,South West,Other,NA
+2724,2023-05-22,33,North West,Other,NA
+2725,2024-11-19,85,Midlands,GII.17,2025-03-24
+2726,2024-06-13,92,London,Unknown,NA
+2727,2025-01-17,49,South West,GII.4,NA
+2728,2024-11-22,0,South West,GII.4,NA
+2729,2023-09-04,8,North West,Other,NA
+2730,2023-02-14,85,North East and Yorkshire,GII.4,2023-07-09
+2731,2023-06-10,76,South West,GII.4,NA
+2732,2023-12-01,2,North West,Other,NA
+2733,2024-06-05,3,East of England,GII.17,NA
+2734,2024-06-26,89,North East and Yorkshire,GII.17,NA
+2735,2023-02-15,67,North West,GII.4,2024-01-22
+2736,2025-02-04,1,North West,Other,NA
+2737,2023-11-21,88,South West,GII.4,NA
+2738,2025-03-12,71,South East,GII.17,NA
+2739,2024-03-16,79,North West,GII.4,2025-01-10
+2740,2023-12-05,71,North West,GII.4,NA
+2741,2024-12-18,92,North West,GII.17,NA
+2742,2023-12-11,90,Midlands,GII.4,2024-08-27
+2743,2024-02-06,1,North West,Other,NA
+2744,2024-06-13,52,North West,Other,NA
+2745,2023-05-17,75,South East,GII.4,NA
+2746,2024-04-12,85,South West,GII.17,2024-11-11
+2747,2022-09-09,0,North West,GII.4,NA
+2748,2025-01-17,94,North East and Yorkshire,GII.17,2025-06-28
+2749,2024-05-13,1,North West,GII.4,NA
+2750,2023-04-12,53,North West,GII.4,NA
+2751,2024-06-19,77,East of England,GII.17,2024-10-06
+2752,2022-08-11,2,South West,Other,NA
+2753,2023-05-18,70,South East,GII.4,NA
+2754,2024-08-08,52,North West,GII.17,NA
+2755,2025-01-31,3,South West,GII.4,NA
+2756,2025-03-15,2,North West,GII.4,NA
+2757,2024-07-05,72,South West,GII.17,NA
+2758,2023-01-30,0,North West,GII.4,NA
+2759,2025-02-23,90,South West,GII.4,2025-05-25
+2760,2022-10-31,3,East of England,GII.17,NA
+2761,2024-12-30,92,North East and Yorkshire,GII.17,NA
+2762,2023-12-03,3,North West,Other,NA
+2763,2023-01-26,2,South West,GII.4,NA
+2764,2024-12-30,60,Midlands,GII.4,NA
+2765,2024-03-18,92,North West,GII.4,NA
+2766,2023-03-29,0,North West,GII.4,NA
+2767,2023-03-06,78,East of England,GII.4,NA
+2768,2023-03-05,75,North West,Unknown,NA
+2769,2024-04-13,79,North West,GII.4,NA
+2770,2024-07-16,38,South West,GII.17,NA
+2771,2025-03-21,81,South West,Other,NA
+2772,2023-04-17,0,North West,GII.4,NA
+2773,2024-07-03,1,South West,GII.4,NA
+2774,2024-11-13,59,North West,GII.17,NA
+2775,2023-01-04,73,North East and Yorkshire,GII.4,NA
+2776,2023-04-05,88,North West,GII.4,2024-05-07
+2777,2024-08-08,52,North West,GII.17,NA
+2778,2023-03-08,88,North West,GII.4,2023-12-10
+2779,2023-12-13,75,Midlands,GII.4,2024-03-04
+2780,2024-03-29,1,North West,GII.17,NA
+2781,2023-03-16,1,South West,GII.4,NA
+2782,2023-01-06,87,North East and Yorkshire,GII.4,NA
+2783,2025-03-20,81,South East,GII.4,NA
+2784,2024-08-17,69,North West,GII.17,NA
+2785,2022-08-02,2,South West,GII.4,2022-09-26
+2786,2025-01-10,85,South West,GII.4,NA
+2787,2025-01-25,62,North West,GII.17,NA
+2788,2024-11-26,68,Midlands,GII.17,NA
+2789,2023-09-08,85,North East and Yorkshire,Other,NA
+2790,2023-12-14,51,North West,Unknown,NA
+2791,2025-02-28,24,North West,GII.4,NA
+2792,2023-12-27,63,North West,GII.4,NA
+2793,2024-11-15,0,South West,GII.4,NA
+2794,2022-10-14,1,North West,GII.4,NA
+2795,2024-09-19,0,South West,Unknown,NA
+2796,2025-02-01,43,Midlands,GII.4,NA
+2797,2023-10-31,3,North West,Other,NA
+2798,2024-04-06,79,North West,GII.17,NA
+2799,2024-03-12,79,North West,GII.17,NA
+2800,2023-02-21,40,North West,GII.4,NA
+2801,2024-12-05,28,South West,GII.17,NA
+2802,2022-09-09,10,South West,Other,NA
+2803,2023-05-22,2,North West,Other,NA
+2804,2023-03-11,74,North West,GII.4,NA
+2805,2025-03-27,0,North West,Other,NA
+2806,2022-07-30,97,North West,Other,2022-11-21
+2807,2023-02-10,1,North West,GII.4,NA
+2808,2023-02-12,4,North West,GII.4,NA
+2809,2023-02-16,90,North East and Yorkshire,GII.4,2023-03-05
+2810,2023-11-28,11,North West,Other,NA
+2811,2024-04-22,4,North West,GII.4,NA
+2812,2024-07-03,8,East of England,Other,NA
+2813,2024-03-31,87,North West,GII.17,2024-10-22
+2814,2024-09-06,0,South West,GII.4,NA
+2815,2024-12-29,89,East of England,GII.17,NA
+2816,2024-01-28,2,North West,GII.4,NA
+2817,2024-04-01,86,North West,Unknown,NA
+2818,2023-05-17,75,South East,GII.4,NA
+2819,2024-03-17,16,North West,Other,NA
+2820,2024-11-27,4,South West,GII.17,NA
+2821,2024-07-17,1,North West,GII.17,NA
+2822,2022-11-21,61,East of England,Unknown,NA
+2823,2023-10-23,40,South West,Other,NA
+2824,2023-11-23,2,North West,Other,NA
+2825,2023-02-12,87,South West,GII.4,NA
+2826,2023-12-15,2,North West,Other,NA
+2827,2023-03-13,60,South West,Other,NA
+2828,2023-02-14,95,South West,Other,2023-09-23
+2829,2024-04-18,79,North West,GII.17,2024-05-09
+2830,2024-05-27,16,North West,GII.17,NA
+2831,2025-02-12,81,North West,GII.4,NA
+2832,2022-12-16,86,North West,GII.4,2023-11-04
+2833,2024-12-30,75,South West,GII.17,NA
+2834,2023-11-06,0,North West,Other,NA
+2835,2024-12-09,69,Midlands,GII.4,NA
+2836,2025-02-26,19,Midlands,GII.4,NA
+2837,2024-10-08,70,North West,GII.17,NA
+2838,2024-11-27,87,East of England,Other,NA
+2839,2023-03-30,3,North West,Other,NA
+2840,2024-12-20,65,North West,GII.4,NA
+2841,2024-04-23,65,North West,GII.4,NA
+2842,2023-12-17,0,North West,Other,NA
+2843,2023-04-05,0,North West,GII.4,NA
+2844,2025-02-25,82,South West,GII.17,2025-08-21
+2845,2023-01-30,71,South West,GII.4,2024-04-05
+2846,2023-06-01,38,South West,GII.4,NA
+2847,2023-03-05,86,North West,GII.4,2024-09-05
+2848,2023-06-29,2,North West,Other,NA
+2849,2024-10-01,46,South West,Unknown,NA
+2850,2023-11-12,3,North West,Unknown,NA
+2851,2024-12-28,79,South East,GII.17,NA
+2852,2023-12-15,87,North West,GII.4,NA
+2853,2024-12-26,40,North West,Other,NA
+2854,2023-02-06,52,East of England,Unknown,2024-10-22
+2855,2024-12-13,56,South West,GII.17,NA
+2856,2023-06-19,4,North West,Unknown,NA
+2857,2024-12-13,91,North West,GII.17,NA
+2858,2025-01-30,62,North West,Unknown,NA
+2859,2024-06-10,88,North West,Unknown,2024-12-27
+2860,2024-03-26,80,North West,GII.4,NA
+2861,2023-08-29,68,North West,Other,NA
+2862,2024-10-20,60,North West,GII.17,NA
+2863,2024-06-06,91,South West,GII.4,NA
+2864,2022-09-01,68,North East and Yorkshire,Other,2024-07-13
+2865,2024-12-17,48,North West,GII.17,NA
+2866,2025-02-05,70,East of England,GII.17,NA
+2867,2022-10-26,3,North West,Other,NA
+2868,2025-02-20,82,East of England,GII.17,NA
+2869,2025-02-15,97,South West,GII.4,NA
+2870,2024-01-27,69,North West,GII.17,2024-11-10
+2871,2023-07-10,2,North West,Other,NA
+2872,2025-03-05,87,North East and Yorkshire,GII.17,NA
+2873,2024-03-22,77,North West,GII.17,NA
+2874,2024-07-08,17,North West,GII.17,NA
+2875,2025-03-05,88,North West,GII.4,NA
+2876,2023-07-01,0,North West,Other,NA
+2877,2023-03-28,66,North West,GII.17,2023-10-27
+2878,2025-01-28,40,London,GII.17,NA
+2879,2024-03-07,84,North East and Yorkshire,GII.17,NA
+2880,2023-04-04,0,North West,GII.4,2023-04-29
+2881,2023-12-26,0,North West,Other,NA
+2882,2023-08-09,8,South West,Other,NA
+2883,2023-12-13,78,North West,GII.17,2024-04-04
+2884,2023-06-16,40,East of England,Other,NA
+2885,2024-11-10,24,North West,GII.17,NA
+2886,2022-09-06,87,North West,Other,NA
+2887,2024-07-28,78,North West,GII.17,2025-08-03
+2888,2024-01-18,85,North West,Unknown,2024-04-18
+2889,2024-08-17,69,North West,GII.17,NA
+2890,2024-11-13,70,North West,Other,NA
+2891,2025-02-15,74,North East and Yorkshire,GII.17,NA
+2892,2024-11-29,91,Midlands,GII.4,NA
+2893,2023-11-25,12,North West,Other,NA
+2894,2023-10-10,15,South West,Other,NA
+2895,2022-08-25,0,South West,Other,NA
+2896,2024-07-23,94,North West,GII.17,NA
+2897,2025-03-23,25,South West,GII.4,NA
+2898,2023-04-12,68,North West,GII.4,NA
+2899,2024-08-08,52,North West,GII.17,NA
+2900,2024-07-12,1,South West,GII.17,NA
+2901,2023-07-01,2,North West,Other,NA
+2902,2022-08-19,1,South West,GII.4,NA
+2903,2023-07-29,70,South West,GII.4,NA
+2904,2023-06-28,2,North West,Other,NA
+2905,2025-03-05,58,Midlands,GII.17,NA
+2906,2022-12-18,49,East of England,Other,NA
+2907,2023-07-31,22,North West,Other,NA
+2908,2024-10-19,87,Midlands,GII.17,NA
+2909,2024-04-11,76,North West,GII.17,2024-05-01
+2910,2024-06-12,96,North West,GII.17,NA
+2911,2022-08-22,67,North East and Yorkshire,Unknown,NA
+2912,2025-02-19,80,South West,GII.17,NA
+2913,2025-03-06,92,Midlands,GII.17,2025-07-09
+2914,2023-07-28,42,South West,Unknown,2024-02-17
+2915,2024-06-10,85,North West,GII.17,NA
+2916,2024-05-30,95,South West,GII.17,NA
+2917,2024-04-19,66,North East and Yorkshire,GII.17,NA
+2918,2024-11-02,75,North West,GII.4,NA
+2919,2024-04-08,69,Midlands,GII.17,NA
+2920,2025-01-28,66,North East and Yorkshire,GII.17,NA
+2921,2024-11-08,1,North West,GII.4,NA
+2922,2024-03-12,66,East of England,GII.17,NA
+2923,2024-12-23,1,North West,GII.4,NA
+2924,2023-11-25,88,North West,GII.4,NA
+2925,2024-10-09,84,South West,Other,NA
+2926,2025-03-13,0,South West,GII.4,NA
+2927,2022-10-15,15,North East and Yorkshire,Other,NA
+2928,2025-03-23,90,North West,Other,NA
+2929,2024-04-25,90,North East and Yorkshire,GII.17,2025-01-31
+2930,2025-03-21,11,North West,GII.4,NA
+2931,2023-08-07,33,North East and Yorkshire,GII.4,NA
+2932,2022-12-07,0,North West,GII.4,NA
+2933,2023-07-07,49,South West,Other,NA
+2934,2023-12-23,0,North West,Other,NA
+2935,2022-10-26,0,South West,GII.4,NA
+2936,2024-10-17,69,South West,GII.17,NA
+2937,2024-03-04,47,North West,Other,NA
+2938,2024-11-12,12,South East,GII.17,NA
+2939,2022-09-05,87,North West,Other,2024-08-03
+2940,2024-12-02,60,East of England,GII.17,NA
+2941,2023-12-30,63,North West,Unknown,NA
+2942,2024-06-23,78,London,GII.17,2025-01-23
+2943,2024-12-06,70,Midlands,GII.4,NA
+2944,2023-03-06,78,East of England,GII.4,2023-04-04
+2945,2024-06-15,3,London,Other,NA
+2946,2022-08-02,2,South West,GII.4,NA
+2947,2023-12-12,87,Midlands,Other,2024-01-10
+2948,2022-12-25,82,North East and Yorkshire,Other,NA
+2949,2024-04-14,85,North West,GII.4,NA
+2950,2024-04-29,0,North West,Other,NA
+2951,2023-09-08,6,North West,Other,NA
+2952,2023-03-29,87,North East and Yorkshire,GII.4,2025-04-23
+2953,2023-10-18,44,South West,Unknown,NA
+2954,2024-03-04,64,North West,GII.17,NA
+2955,2023-07-14,38,North West,Other,NA
+2956,2023-06-07,3,North West,GII.4,NA
+2957,2024-06-24,76,South West,Other,NA
+2958,2023-08-09,39,North East and Yorkshire,Other,NA
+2959,2025-02-28,7,North West,Other,NA
+2960,2023-02-03,0,North West,GII.4,2024-10-19
+2961,2023-03-22,1,North West,GII.4,NA
+2962,2025-01-09,88,South East,GII.4,NA
+2963,2022-12-09,90,Midlands,GII.4,2025-01-03
+2964,2024-10-10,55,South West,Unknown,NA
+2965,2022-10-31,2,East of England,Unknown,NA
+2966,2024-02-28,1,North West,Other,NA
+2967,2025-02-14,78,North West,GII.4,NA
+2968,2024-02-12,6,North West,GII.4,NA
+2969,2024-12-28,82,North West,GII.17,NA
+2970,2024-10-16,92,South West,GII.17,NA
+2971,2023-02-20,91,North East and Yorkshire,GII.4,NA
+2972,2023-12-02,85,East of England,Unknown,NA
+2973,2025-02-20,92,North East and Yorkshire,GII.4,NA
+2974,2024-10-22,0,North West,GII.4,NA
+2975,2024-04-02,71,North West,Unknown,2024-04-09
+2976,2024-11-22,1,South West,GII.4,NA
+2977,2024-09-21,39,South West,GII.17,NA
+2978,2025-02-01,75,Midlands,Other,NA
+2979,2023-12-04,39,South East,Other,NA
+2980,2024-10-22,0,North West,GII.4,NA
+2981,2024-12-10,53,South West,GII.17,NA
+2982,2023-02-27,71,North East and Yorkshire,GII.4,NA
+2983,2022-10-15,19,North West,Other,NA
+2984,2022-11-19,94,East of England,Unknown,2024-11-29
+2985,2022-11-06,72,East of England,Unknown,2024-11-14
+2986,2023-09-22,85,North East and Yorkshire,Other,NA
+2987,2024-07-25,81,North West,Other,NA
+2988,2025-03-30,17,North West,GII.17,NA
+2989,2022-09-05,72,South West,Other,NA
+2990,2024-04-17,19,North West,Other,NA
+2991,2024-02-27,93,North West,GII.17,NA
+2992,2024-11-15,88,North East and Yorkshire,GII.17,NA
+2993,2022-12-13,78,South West,GII.4,2024-01-18
+2994,2023-12-09,68,South East,Other,NA
+2995,2025-03-20,0,North West,Other,NA
+2996,2023-08-22,53,East of England,Unknown,NA
+2997,2025-02-03,78,North West,GII.17,NA
+2998,2024-03-29,20,East of England,GII.17,NA
+2999,2023-03-02,98,North West,GII.4,2024-06-24
+3000,2025-03-22,25,North West,Other,NA
+3001,2022-10-09,52,North West,Other,2024-11-07
+3002,2025-01-15,90,North West,GII.4,NA
+3003,2023-12-29,91,South West,GII.4,2024-12-21
+3004,2024-05-22,60,South West,GII.17,NA
+3005,2022-12-25,59,South West,Other,NA
+3006,2023-08-14,84,North East and Yorkshire,Other,2023-08-16
+3007,2022-10-31,3,London,Unknown,NA
+3008,2024-11-03,10,North West,Other,NA
+3009,2025-01-25,11,South West,GII.17,NA
+3010,2025-01-23,76,South East,GII.4,2025-02-08
+3011,2024-07-07,27,North West,GII.17,NA
+3012,2024-11-06,85,North West,Unknown,2025-04-11
+3013,2024-10-25,0,North West,Other,NA
+3014,2023-12-01,88,East of England,GII.17,NA
+3015,2024-06-05,57,Midlands,GII.4,NA
+3016,2024-06-22,79,South West,GII.4,NA
+3017,2024-04-08,87,North West,GII.17,2024-11-27
+3018,2024-01-19,77,South West,Unknown,NA
+3019,2025-03-14,77,South East,GII.4,NA
+3020,2024-01-02,79,North West,GII.4,NA
+3021,2023-10-23,73,East of England,GII.17,2023-10-25
+3022,2024-10-18,2,South West,GII.4,NA
+3023,2023-03-14,7,South West,GII.4,NA
+3024,2024-04-14,49,North East and Yorkshire,Other,NA
+3025,2024-12-29,75,South East,GII.4,NA
+3026,2023-11-17,3,South West,GII.4,NA
+3027,2023-03-01,0,South West,GII.4,2023-07-13
+3028,2024-12-05,50,South West,GII.17,NA
+3029,2024-11-30,92,North West,GII.4,NA
+3030,2024-09-29,27,East of England,Other,NA
+3031,2023-02-09,81,East of England,GII.4,NA
+3032,2024-05-19,57,North East and Yorkshire,GII.17,2024-08-09
+3033,2023-03-10,84,North East and Yorkshire,GII.4,2023-12-12
+3034,2023-11-01,9,North West,Other,NA
+3035,2024-11-29,0,South West,GII.4,NA
+3036,2024-08-09,91,North East and Yorkshire,GII.17,2025-05-03
+3037,2023-04-16,0,North West,GII.4,NA
+3038,2024-03-08,79,North West,GII.4,NA
+3039,2023-12-09,84,North West,Unknown,NA
+3040,2024-11-26,68,South East,GII.17,NA
+3041,2025-03-17,91,North West,GII.4,NA
+3042,2023-02-27,1,North West,GII.4,NA
+3043,2024-06-20,53,London,Other,NA
+3044,2022-12-25,39,North West,Unknown,NA
+3045,2023-03-01,92,North East and Yorkshire,GII.4,NA
+3046,2024-05-21,57,South East,GII.4,NA
+3047,2025-01-05,96,North East and Yorkshire,GII.17,2025-03-17
+3048,2024-05-07,4,North West,GII.4,NA
+3049,2025-02-04,75,Midlands,GII.17,NA
+3050,2024-03-15,74,North West,GII.17,NA
+3051,2024-12-08,71,Midlands,GII.4,2025-01-06
+3052,2023-12-24,87,North West,GII.4,2024-07-16
+3053,2024-12-04,83,South West,Other,NA
+3054,2023-12-08,74,East of England,GII.17,NA
+3055,2023-11-02,73,North West,Other,NA
+3056,2024-11-01,1,North West,Other,NA
+3057,2024-05-24,0,East of England,Unknown,NA
+3058,2024-12-13,46,South West,Other,NA
+3059,2024-06-05,52,North West,GII.17,2024-07-31
+3060,2024-01-12,76,Midlands,GII.4,NA
+3061,2024-05-21,90,South West,GII.17,NA
+3062,2022-10-21,78,North East and Yorkshire,GII.4,NA
+3063,2022-12-07,0,North West,GII.4,NA
+3064,2024-11-12,55,North West,GII.17,NA
+3065,2024-12-05,0,North West,GII.4,NA
+3066,2024-08-19,67,North East and Yorkshire,GII.17,NA
+3067,2022-12-16,74,East of England,Unknown,NA
+3068,2024-12-31,77,North East and Yorkshire,GII.17,NA
+3069,2024-12-06,70,Midlands,GII.4,NA
+3070,2024-10-18,93,South West,GII.17,NA
+3071,2023-09-20,1,North West,Unknown,NA
+3072,2025-03-13,0,South West,GII.4,NA
+3073,2025-02-26,5,North West,Unknown,NA
+3074,2023-02-06,86,North West,GII.4,NA
+3075,2024-05-13,101,North East and Yorkshire,GII.17,NA
+3076,2023-03-02,78,North West,GII.4,2023-06-14
+3077,2024-04-04,83,North West,GII.17,NA
+3078,2022-12-16,2,North West,GII.4,NA
+3079,2023-01-05,73,North East and Yorkshire,GII.4,NA
+3080,2025-01-12,84,North West,GII.17,2025-04-04
+3081,2024-11-29,77,East of England,GII.17,NA
+3082,2023-03-06,65,North West,Other,2023-09-02
+3083,2024-12-02,86,North West,GII.17,2025-05-17
+3084,2025-03-05,4,North West,GII.17,NA
+3085,2024-09-02,91,North West,GII.17,NA
+3086,2023-12-02,91,East of England,GII.17,NA
+3087,2023-07-10,92,North East and Yorkshire,GII.4,2023-09-01
+3088,2024-04-08,71,North West,GII.17,NA
+3089,2023-02-05,86,South West,GII.4,2023-09-16
+3090,2024-09-06,88,East of England,GII.17,NA
+3091,2023-02-20,91,North East and Yorkshire,GII.4,2025-08-27
+3092,2024-10-10,56,North West,Other,NA
+3093,2024-12-10,25,South West,GII.17,NA
+3094,2023-02-18,1,South West,GII.4,NA
+3095,2023-12-11,70,Midlands,GII.4,2024-04-11
+3096,2024-03-04,87,North West,GII.17,NA
+3097,2025-01-23,85,North East and Yorkshire,GII.17,NA
+3098,2024-02-02,5,North West,GII.4,NA
+3099,2023-06-16,16,North West,GII.4,NA
+3100,2023-06-28,0,North West,Other,NA
+3101,2024-07-09,1,South West,GII.17,NA
+3102,2023-02-11,85,North East and Yorkshire,GII.4,NA
+3103,2023-03-16,84,North West,GII.4,2024-08-18
+3104,2024-12-23,83,North West,Other,2025-03-06
+3105,2023-04-07,96,North East and Yorkshire,GII.4,2025-04-26
+3106,2024-03-12,79,North West,GII.4,NA
+3107,2022-12-15,59,East of England,Unknown,NA
+3108,2023-01-06,91,North East and Yorkshire,GII.4,2024-11-25
+3109,2023-12-18,90,North West,GII.4,NA
+3110,2025-03-03,83,North East and Yorkshire,GII.17,NA
+3111,2024-10-21,1,North West,GII.4,NA
+3112,2025-01-11,9,North West,GII.4,NA
+3113,2025-02-17,21,East of England,GII.17,NA
+3114,2023-04-26,83,North West,GII.4,NA
+3115,2023-08-14,61,North West,Other,NA
+3116,2023-07-05,1,North West,Other,NA
+3117,2022-10-21,91,North West,GII.4,2023-01-04
+3118,2023-03-10,75,East of England,Unknown,2024-01-09
+3119,2022-12-16,90,North West,GII.4,2023-03-17
+3120,2023-10-25,53,North West,Unknown,NA
+3121,2023-06-21,61,South West,GII.4,NA
+3122,2023-11-22,1,North West,Other,NA
+3123,2023-03-28,54,North East and Yorkshire,GII.4,2023-04-13
+3124,2024-11-12,61,North East and Yorkshire,GII.17,NA
+3125,2024-04-14,49,North East and Yorkshire,GII.17,NA
+3126,2024-12-02,71,Midlands,GII.17,NA
+3127,2025-03-16,87,North West,GII.17,NA
+3128,2025-01-14,68,North West,GII.17,NA
+3129,2023-01-20,3,North West,GII.4,NA
+3130,2022-09-05,1,South East,Unknown,NA
+3131,2023-12-04,9,North West,GII.17,NA
+3132,2025-02-08,80,North West,GII.17,NA
+3133,2024-02-12,81,North East and Yorkshire,Other,NA
+3134,2024-07-23,78,North West,GII.17,NA
+3135,2024-12-12,77,North East and Yorkshire,GII.17,NA
+3136,2023-12-21,1,North West,GII.4,NA
+3137,2024-12-20,45,South West,GII.4,NA
+3138,2023-06-15,74,South East,GII.4,2024-04-30
+3139,2023-02-15,0,North West,Other,NA
+3140,2024-11-30,96,North West,Other,2025-02-09
+3141,2023-03-09,88,North East and Yorkshire,GII.4,2023-04-10
+3142,2023-07-03,65,East of England,Unknown,NA
+3143,2024-02-05,88,North East and Yorkshire,GII.4,2025-03-13
+3144,2023-12-10,76,Midlands,GII.4,NA
+3145,2024-12-17,96,South West,GII.17,NA
+3146,2022-09-01,53,South West,GII.4,2022-09-16
+3147,2024-05-17,66,North West,GII.17,NA
+3148,2025-03-09,85,North East and Yorkshire,GII.4,NA
+3149,2024-03-12,79,North West,GII.4,NA
+3150,2025-02-16,53,East of England,GII.17,NA
+3151,2024-09-12,0,South West,GII.4,NA
+3152,2024-07-24,37,North West,GII.17,NA
+3153,2023-02-20,1,South West,GII.4,NA
+3154,2024-02-26,1,North West,GII.4,NA
+3155,2024-03-29,88,North West,GII.4,2024-04-24
+3156,2024-10-13,0,South West,GII.4,NA
+3157,2023-11-25,88,East of England,Unknown,2023-12-11
+3158,2022-08-27,1,South East,Unknown,NA
+3159,2024-12-31,74,North East and Yorkshire,GII.17,NA
+3160,2024-04-18,74,North West,GII.4,NA
+3161,2022-10-25,12,North West,Other,NA
+3162,2023-09-22,96,South West,GII.4,2024-01-24
+3163,2024-09-08,73,North West,GII.4,NA
+3164,2023-03-01,85,North West,Unknown,2023-04-16
+3165,2022-08-30,11,South East,Unknown,NA
+3166,2024-12-02,1,East of England,Unknown,NA
+3167,2024-02-15,81,North West,GII.4,2024-02-16
+3168,2024-07-11,37,North West,GII.17,NA
+3169,2022-08-03,87,South West,Other,NA
+3170,2023-01-01,85,South West,GII.4,2023-08-19
+3171,2025-01-29,86,Midlands,GII.4,2025-07-04
+3172,2024-02-09,74,North East and Yorkshire,GII.17,NA
+3173,2024-07-10,81,North West,GII.17,2025-07-15
+3174,2025-01-21,72,Midlands,GII.4,NA
+3175,2023-12-09,69,North West,GII.4,NA
+3176,2024-02-10,78,North East and Yorkshire,Other,NA
+3177,2022-10-19,1,North West,Other,NA
+3178,2022-08-02,37,East of England,Unknown,NA
+3179,2024-11-01,2,North West,Other,NA
+3180,2024-01-09,59,North West,GII.4,NA
+3181,2024-11-08,62,North West,GII.4,NA
+3182,2024-10-18,3,South West,GII.4,NA
+3183,2023-03-19,85,North West,GII.4,2024-05-23
+3184,2023-03-03,3,North West,GII.4,NA
+3185,2024-06-15,3,East of England,Unknown,NA
+3186,2022-08-09,2,South West,GII.4,NA
+3187,2025-03-18,90,Midlands,Unknown,NA
+3188,2024-08-12,74,North West,Unknown,2025-02-23
+3189,2022-12-19,9,North West,Other,NA
+3190,2022-10-21,78,South West,Unknown,2023-01-20
+3191,2023-02-08,0,North West,GII.4,NA
+3192,2023-02-27,71,North West,GII.4,2023-07-22
+3193,2024-07-09,83,Midlands,GII.4,NA
+3194,2024-06-28,1,South West,GII.17,NA
+3195,2023-03-07,2,North West,Unknown,NA
+3196,2024-04-09,87,North East and Yorkshire,GII.17,NA
+3197,2024-03-15,22,North West,GII.17,2024-09-01
+3198,2023-10-22,2,North West,Other,NA
+3199,2025-01-22,8,North West,Other,NA
+3200,2022-11-08,94,North East and Yorkshire,Other,2023-05-16
+3201,2024-03-03,81,North West,GII.17,2024-04-12
+3202,2023-12-03,91,South West,GII.4,NA
+3203,2024-03-09,14,North West,GII.17,NA
+3204,2025-01-08,77,South East,GII.4,NA
+3205,2024-10-08,61,South West,Unknown,NA
+3206,2023-02-28,2,North West,Other,NA
+3207,2024-04-16,80,Midlands,GII.17,NA
+3208,2024-07-10,58,North West,GII.17,NA
+3209,2025-03-09,0,East of England,GII.4,NA
+3210,2022-12-14,93,South West,GII.4,2023-01-15
+3211,2022-09-20,1,North West,Other,NA
+3212,2025-03-14,81,North West,GII.17,2025-09-07
+3213,2024-05-22,2,East of England,Unknown,NA
+3214,2023-05-31,84,South West,Unknown,2023-08-15
+3215,2023-02-09,79,North East and Yorkshire,GII.4,2023-10-31
+3216,2022-09-13,1,North West,GII.4,NA
+3217,2022-07-15,89,North East and Yorkshire,Other,2023-07-18
+3218,2023-02-23,3,Midlands,GII.4,NA
+3219,2023-12-05,15,East of England,Unknown,NA
+3220,2022-09-10,87,North West,GII.4,2023-02-15
+3221,2023-08-08,61,North East and Yorkshire,Other,2023-12-08
+3222,2023-11-07,36,North West,Other,2024-03-26
+3223,2023-05-04,83,South West,GII.4,NA
+3224,2024-06-28,6,North West,Other,NA
+3225,2025-02-11,82,North West,GII.4,NA
+3226,2024-11-19,13,North West,GII.17,NA
+3227,2024-05-15,89,South West,GII.17,2024-05-17
+3228,2023-12-30,61,North West,GII.4,2024-04-20
+3229,2023-03-25,2,North West,Other,NA
+3230,2024-06-13,52,North East and Yorkshire,GII.17,NA
+3231,2023-02-06,81,North East and Yorkshire,GII.4,NA
+3232,2025-03-10,71,South West,GII.4,NA
+3233,2023-08-18,7,North West,Other,NA
+3234,2024-05-02,88,North East and Yorkshire,GII.17,NA
+3235,2024-07-03,20,North West,GII.17,NA
+3236,2022-09-16,77,East of England,Unknown,NA
+3237,2025-02-11,78,North West,GII.17,2025-03-23
+3238,2025-01-15,90,North East and Yorkshire,GII.17,NA
+3239,2024-01-24,80,North West,GII.4,NA
+3240,2024-03-22,2,East of England,Unknown,NA
+3241,2022-07-25,0,South West,Other,NA
+3242,2024-03-01,62,South West,GII.17,NA
+3243,2024-04-04,76,North West,GII.17,2024-06-16
+3244,2024-04-24,69,North West,GII.4,NA
+3245,2024-10-08,49,South West,GII.17,NA
+3246,2022-10-26,2,South West,Other,NA
+3247,2024-04-19,76,South West,GII.17,2024-11-19
+3248,2024-10-15,0,North West,GII.4,NA
+3249,2025-03-30,17,North West,Other,NA
+3250,2022-12-09,0,North West,GII.4,NA
+3251,2023-11-14,76,North West,Other,NA
+3252,2023-06-04,56,North West,Other,NA
+3253,2023-09-22,79,North East and Yorkshire,Other,NA
+3254,2023-02-04,0,North West,Other,NA
+3255,2023-06-04,56,North East and Yorkshire,Other,NA
+3256,2024-04-18,37,North East and Yorkshire,GII.17,NA
+3257,2023-02-05,50,North West,Other,NA
+3258,2024-04-18,57,North West,Other,NA
+3259,2023-12-05,74,North West,GII.4,NA
+3260,2024-12-30,75,North East and Yorkshire,Other,NA
+3261,2024-03-26,81,North East and Yorkshire,Other,NA
+3262,2022-07-07,74,East of England,Other,NA
+3263,2024-11-02,91,North East and Yorkshire,GII.17,2024-11-12
+3264,2024-11-25,102,South West,GII.17,2024-12-12
+3265,2024-12-07,79,North West,GII.17,NA
+3266,2024-04-12,93,North East and Yorkshire,GII.17,2024-05-23
+3267,2025-03-18,70,London,GII.17,NA
+3268,2023-12-09,84,North West,GII.4,2024-06-03
+3269,2022-11-16,67,East of England,Unknown,NA
+3270,2022-11-21,81,South West,GII.4,NA
+3271,2024-04-26,90,Midlands,GII.17,2024-05-01
+3272,2023-01-22,92,North East and Yorkshire,GII.4,NA
+3273,2023-11-25,74,North West,GII.4,NA
+3274,2024-10-22,39,North West,GII.17,NA
+3275,2025-02-03,87,Midlands,GII.4,2025-02-20
+3276,2024-04-01,93,North West,GII.17,NA
+3277,2025-02-18,94,North West,GII.4,NA
+3278,2025-02-17,0,North West,GII.4,NA
+3279,2024-08-17,32,North West,GII.17,NA
+3280,2022-10-20,1,North West,Other,NA
+3281,2024-12-02,91,North West,GII.17,2025-05-24
+3282,2023-02-11,56,North West,GII.4,NA
+3283,2023-03-14,75,North West,GII.4,2023-12-19
+3284,2023-07-10,81,North East and Yorkshire,Other,NA
+3285,2023-02-13,2,Midlands,GII.4,NA
+3286,2024-12-03,1,South West,GII.4,NA
+3287,2024-09-09,92,North East and Yorkshire,GII.17,2025-06-24
+3288,2025-03-18,94,North East and Yorkshire,GII.4,NA
+3289,2025-01-20,68,South West,GII.17,NA
+3290,2023-02-01,89,South West,GII.4,NA
+3291,2023-03-24,1,North West,Other,NA
+3292,2024-01-01,90,North West,GII.4,2024-05-26
+3293,2024-06-12,67,East of England,GII.17,NA
+3294,2024-03-27,100,North West,GII.17,2024-11-04
+3295,2025-02-13,85,Midlands,GII.4,NA
+3296,2024-02-28,82,North West,GII.17,NA
+3297,2023-03-20,1,North West,Other,NA
+3298,2024-11-18,2,North West,GII.4,NA
+3299,2025-03-14,2,North West,GII.4,NA
+3300,2022-12-15,0,North West,Other,NA
+3301,2023-03-31,95,North East and Yorkshire,GII.4,NA
+3302,2022-10-12,0,North West,GII.4,NA
+3303,2023-09-12,0,East of England,Unknown,NA
+3304,2023-03-07,0,South West,Other,NA
+3305,2024-09-18,73,North West,GII.17,NA
+3306,2025-01-13,23,North West,GII.17,NA
+3307,2025-01-05,94,North East and Yorkshire,GII.17,NA
+3308,2023-11-20,72,North West,Unknown,NA
+3309,2025-01-02,55,Midlands,GII.17,NA
+3310,2025-03-06,79,North East and Yorkshire,GII.4,NA
+3311,2025-01-16,81,South West,GII.17,NA
+3312,2024-03-29,20,South West,GII.17,NA
+3313,2024-04-23,57,North East and Yorkshire,GII.17,NA
+3314,2024-12-06,75,Midlands,GII.4,2025-02-10
+3315,2024-12-06,69,Midlands,GII.4,2024-12-29
+3316,2024-06-11,84,South West,Other,2024-07-07
+3317,2023-12-22,0,North West,GII.4,NA
+3318,2024-01-13,93,Midlands,GII.4,NA
+3319,2024-12-15,84,Midlands,GII.4,NA
+3320,2023-07-25,64,South West,Other,2023-10-02
+3321,2023-12-27,93,North West,GII.4,NA
+3322,2023-01-06,78,South West,GII.4,NA
+3323,2023-02-07,83,North East and Yorkshire,Other,2023-03-02
+3324,2025-03-09,75,South East,GII.17,NA
+3325,2023-12-09,80,South West,Other,NA
+3326,2023-02-20,1,South West,GII.4,NA
+3327,2024-05-07,80,North East and Yorkshire,GII.17,NA
+3328,2023-10-31,0,South West,Unknown,NA
+3329,2025-03-20,78,South East,Other,NA
+3330,2023-02-19,81,North West,GII.4,2025-05-02
+3331,2023-06-12,42,East of England,Unknown,NA
+3332,2023-12-09,78,South West,GII.4,2024-03-16
+3333,2024-12-06,1,North West,Unknown,NA
+3334,2024-12-06,89,North West,GII.17,2025-03-14
+3335,2023-08-03,22,North West,Other,NA
+3336,2023-03-01,91,North East and Yorkshire,GII.4,2023-04-07
+3337,2024-06-23,84,Midlands,GII.4,NA
+3338,2025-02-01,75,London,Other,NA
+3339,2023-01-06,74,South East,GII.4,NA
+3340,2024-04-29,92,Midlands,GII.17,NA
+3341,2024-10-04,1,North West,Other,NA
+3342,2024-12-08,3,South West,Other,NA
+3343,2024-11-28,46,North West,GII.17,NA
+3344,2024-10-23,68,North West,GII.17,NA
+3345,2024-07-12,33,South West,GII.4,NA
+3346,2024-09-03,0,South West,Other,NA
+3347,2023-03-06,71,North East and Yorkshire,GII.4,NA
+3348,2024-12-04,64,North West,GII.4,NA
+3349,2024-12-02,71,East of England,GII.17,NA
+3350,2023-12-08,69,North West,GII.4,2024-03-24
+3351,2024-10-03,24,South West,Other,NA
+3352,2025-02-01,75,South East,GII.4,NA
+3353,2023-02-11,1,North West,GII.4,NA
+3354,2023-08-14,61,South West,Other,NA
+3355,2025-01-08,68,North West,GII.17,NA
+3356,2024-03-03,1,North West,GII.4,NA
+3357,2024-06-15,83,East of England,GII.17,NA
+3358,2024-03-04,3,North West,Other,NA
+3359,2023-06-29,1,North West,Other,NA
+3360,2024-11-03,0,North West,Other,NA
+3361,2024-09-06,81,South West,Unknown,NA
+3362,2023-01-17,2,North West,GII.4,NA
+3363,2024-12-29,89,Midlands,GII.4,2025-02-16
+3364,2024-05-24,1,North West,Other,NA
+3365,2023-02-01,89,South West,GII.4,2024-06-14
+3366,2024-02-19,69,North West,GII.17,NA
+3367,2025-01-23,52,South West,GII.4,NA
+3368,2023-10-22,73,South West,GII.4,NA
+3369,2024-11-14,89,North West,GII.17,NA
+3370,2025-01-16,82,Midlands,GII.4,2025-02-01
+3371,2024-12-05,0,South West,GII.4,NA
+3372,2024-08-13,59,East of England,GII.17,NA
+3373,2025-02-28,76,South East,GII.17,NA
+3374,2024-01-03,91,North East and Yorkshire,GII.4,NA
+3375,2023-01-31,1,North West,Other,NA
+3376,2024-10-03,1,North West,Other,NA
+3377,2024-01-03,82,North West,GII.4,2024-12-26
+3378,2025-01-17,65,North West,GII.17,NA
+3379,2025-01-22,93,South West,GII.4,NA
+3380,2024-12-26,84,Midlands,GII.17,NA
+3381,2024-04-10,87,South West,GII.17,2025-01-10
+3382,2023-05-04,83,South West,GII.4,2024-06-15
+3383,2022-07-21,4,South West,GII.4,NA
+3384,2023-09-07,0,North West,Other,NA
+3385,2023-12-31,90,North West,GII.4,NA
+3386,2024-03-16,87,North West,GII.4,NA
+3387,2024-07-07,0,South West,Unknown,NA
+3388,2022-10-16,64,South West,Other,NA
+3389,2023-07-01,65,East of England,Unknown,NA
+3390,2025-02-03,80,North East and Yorkshire,GII.17,NA
+3391,2023-11-23,60,South West,Other,NA
+3392,2022-09-18,93,North East and Yorkshire,GII.17,2025-03-18
+3393,2024-03-08,84,North West,GII.17,2024-08-01
+3394,2023-10-20,44,South West,GII.4,NA
+3395,2023-10-31,0,North West,Other,NA
+3396,2023-01-04,75,North East and Yorkshire,GII.4,2023-12-05
+3397,2023-01-05,10,South West,Other,NA
+3398,2022-08-23,69,South West,Other,2022-09-15
+3399,2025-01-12,56,Midlands,Other,NA
+3400,2025-03-09,87,East of England,GII.4,NA
+3401,2025-01-29,81,Midlands,GII.4,NA
+3402,2024-11-26,93,North West,Other,NA
+3403,2023-06-11,42,East of England,GII.17,NA
+3404,2023-04-17,6,North West,GII.4,NA
+3405,2023-02-01,89,South West,GII.4,2023-02-08
+3406,2025-03-23,0,North West,GII.4,NA
+3407,2025-01-12,74,North West,GII.17,NA
+3408,2023-12-13,81,North East and Yorkshire,Other,NA
+3409,2023-08-03,1,North West,Other,NA
+3410,2024-10-03,65,South West,Unknown,2024-10-18
+3411,2023-12-14,78,Midlands,GII.4,NA
+3412,2024-12-10,76,North West,GII.17,NA
+3413,2024-11-22,64,South West,Unknown,NA
+3414,2023-01-30,79,North West,GII.4,NA
+3415,2023-02-06,87,North East and Yorkshire,GII.4,2024-05-31
+3416,2024-05-07,15,North West,GII.17,NA
+3417,2024-03-13,86,North West,GII.4,NA
+3418,2022-12-13,60,North East and Yorkshire,GII.4,NA
+3419,2022-11-22,78,North East and Yorkshire,GII.4,NA
+3420,2024-04-06,49,North East and Yorkshire,GII.17,NA
+3421,2024-07-22,92,North West,GII.17,2025-03-27
+3422,2025-01-06,60,North West,Other,NA
+3423,2022-11-08,43,East of England,Other,NA
+3424,2024-08-31,31,South West,Other,NA
+3425,2023-01-04,90,South West,GII.4,2023-05-30
+3426,2024-10-19,87,North West,GII.17,2024-12-11
+3427,2025-02-20,82,North West,GII.4,NA
+3428,2024-11-26,84,South East,GII.4,NA
+3429,2022-12-03,0,North East and Yorkshire,GII.4,NA
+3430,2024-06-18,82,East of England,GII.17,NA
+3431,2024-11-27,75,North West,GII.17,NA
+3432,2022-09-14,1,London,Other,NA
+3433,2022-07-02,0,South West,Other,NA
+3434,2025-02-28,90,North West,GII.4,NA
+3435,2024-10-18,0,North West,GII.17,NA
+3436,2024-11-30,96,North West,GII.17,NA
+3437,2024-07-28,0,South West,GII.17,NA
+3438,2023-03-02,2,North West,GII.4,NA
+3439,2022-07-29,95,South West,Other,NA
+3440,2024-10-10,0,South West,GII.17,NA
+3441,2023-03-22,1,North West,GII.4,NA
+3442,2025-02-25,79,South West,GII.17,NA
+3443,2023-07-17,1,North West,Other,NA
+3444,2025-02-01,84,South West,GII.4,NA
+3445,2024-02-07,68,South West,GII.17,NA
+3446,2024-03-28,100,North West,GII.17,2025-01-17
+3447,2024-06-05,89,North West,GII.17,2025-03-30
+3448,2023-02-12,1,North West,GII.4,NA
+3449,2023-09-12,75,East of England,GII.4,2024-01-02
+3450,2025-03-30,87,South West,GII.4,NA
+3451,2023-02-23,1,North West,GII.4,NA
+3452,2023-01-22,90,South West,GII.4,NA
+3453,2025-01-16,64,South West,GII.17,NA
+3454,2023-12-04,84,Midlands,GII.4,NA
+3455,2023-06-04,87,South West,GII.4,2023-08-14
+3456,2023-03-08,85,East of England,GII.4,2024-06-08
+3457,2025-01-27,84,East of England,GII.17,NA
+3458,2023-05-17,64,South East,Other,NA
+3459,2024-11-13,21,North West,GII.17,2025-01-06
+3460,2022-09-12,91,North West,Other,2025-02-09
+3461,2024-07-15,1,North West,GII.17,NA
+3462,2024-12-12,60,Midlands,GII.4,NA
+3463,2023-03-23,1,North West,GII.4,NA
+3464,2025-01-12,52,South West,GII.4,NA
+3465,2025-02-13,85,Midlands,GII.4,NA
+3466,2023-03-01,93,North West,GII.4,2023-04-16
+3467,2023-02-15,90,North West,GII.4,2024-03-31
+3468,2024-10-01,0,South West,Other,NA
+3469,2022-09-17,39,London,Unknown,NA
+3470,2024-11-03,10,North West,Other,NA
+3471,2022-12-07,90,North East and Yorkshire,Other,NA
+3472,2023-05-31,66,South East,GII.4,2023-07-04
+3473,2022-09-19,92,North East and Yorkshire,GII.17,2022-10-15
+3474,2024-12-09,1,South West,GII.4,NA
+3475,2025-01-23,52,Midlands,GII.4,NA
+3476,2024-12-11,0,North West,GII.4,NA
+3477,2022-11-10,77,South West,Other,NA
+3478,2022-12-08,90,North East and Yorkshire,GII.4,NA
+3479,2023-05-11,10,North West,Other,NA
+3480,2023-10-14,93,North East and Yorkshire,Other,2024-05-01
+3481,2023-08-23,55,North West,GII.4,NA
+3482,2023-03-28,54,North West,GII.4,NA
+3483,2023-02-23,1,North West,Other,NA
+3484,2025-01-14,83,North West,GII.17,NA
+3485,2022-11-10,3,North West,Other,NA
+3486,2024-04-12,72,Midlands,GII.17,NA
+3487,2025-01-21,81,Midlands,GII.4,NA
+3488,2023-03-20,1,North West,GII.4,NA
+3489,2024-07-11,66,North West,GII.17,NA
+3490,2023-04-19,83,South West,GII.4,2023-07-08
+3491,2023-05-09,76,North West,GII.4,2023-05-16
+3492,2025-01-23,52,South West,GII.4,NA
+3493,2024-02-22,87,North East and Yorkshire,GII.17,2025-08-06
+3494,2024-03-04,1,North West,GII.4,NA
+3495,2023-06-06,0,North West,GII.4,NA
+3496,2025-01-06,79,Midlands,Unknown,2025-04-02
+3497,2024-10-28,2,North West,GII.17,NA
+3498,2024-06-30,74,South West,GII.4,NA
+3499,2024-08-08,90,North West,GII.17,NA
+3500,2024-12-08,81,East of England,GII.4,NA
+3501,2022-12-30,1,North West,Other,NA
+3502,2024-12-12,60,Midlands,GII.4,NA
+3503,2025-01-29,84,South East,GII.4,2025-03-04
+3504,2023-03-17,90,North East and Yorkshire,GII.4,2023-05-11
+3505,2024-04-11,76,North East and Yorkshire,GII.17,2025-03-11
+3506,2025-02-11,62,North West,Other,NA
+3507,2024-03-04,64,North West,GII.17,NA
+3508,2023-06-13,57,North West,Other,NA
+3509,2024-12-03,1,North West,GII.4,NA
+3510,2022-12-16,78,South West,GII.4,2024-08-08
+3511,2022-11-14,2,North West,Other,NA
+3512,2023-12-03,0,South West,Other,NA
+3513,2024-03-20,88,North West,GII.17,2024-06-01
+3514,2023-12-18,0,North West,Other,NA
+3515,2024-10-02,85,Midlands,GII.17,NA
+3516,2024-08-07,2,South West,GII.17,NA
+3517,2023-01-04,10,South West,Other,NA
+3518,2022-09-22,1,North West,Other,NA
+3519,2024-03-02,62,South West,Other,NA
+3520,2023-03-09,0,North West,Other,NA
+3521,2022-10-21,2,South West,Other,NA
+3522,2024-11-01,86,North West,GII.4,NA
+3523,2024-10-14,86,South West,Unknown,2024-12-02
+3524,2023-02-14,95,North East and Yorkshire,GII.4,NA
+3525,2023-03-14,7,North West,Other,NA
+3526,2022-12-03,3,South West,Other,NA
+3527,2022-12-25,82,South West,GII.4,NA
+3528,2023-06-12,79,Midlands,GII.4,2023-07-03
+3529,2024-05-02,56,North West,Other,NA
+3530,2024-11-28,0,South West,GII.17,NA
+3531,2024-07-31,70,North West,GII.17,NA
+3532,2024-07-04,8,East of England,GII.17,NA
+3533,2024-01-05,67,South East,GII.4,NA
+3534,2024-12-02,91,South East,GII.17,NA
+3535,2024-10-24,91,North East and Yorkshire,GII.17,NA
+3536,2025-03-19,0,North West,Other,NA
+3537,2022-12-18,56,East of England,Unknown,NA
+3538,2025-03-20,0,North West,Other,NA
+3539,2023-06-07,0,North West,Other,NA
+3540,2023-07-07,49,North West,Other,NA
+3541,2024-10-24,32,North West,GII.17,NA
