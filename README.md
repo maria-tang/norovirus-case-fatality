@@ -37,9 +37,7 @@ Death threshold can be amended through the parameter `death_threshold` in the mo
 
 ## /outputs
 
-This folder is created when scripts run.
-
-Contains descriptive outputs and outputs from models for different death thresholds.
+Descriptive outputs and model outputs are saved in here. Folders are created from models with different death thresholds.
 
 # References
 
