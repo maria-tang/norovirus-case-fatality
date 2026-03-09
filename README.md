@@ -2,12 +2,14 @@
 
 This repository contains synthetic data and the code for norovirus case fatality models from the paper:
 
-"Case Fatality Risk of Norovirus in England During a Period of Strain Replacement, 2022/23 - 2024/25 Seasons"
+"Case Fatality Risk of Norovirus in England During a Period of Strain Replacement, 2022 /23 - 2024/25 Seasons"
 Authors: Maria L. Tang, Amy Douglas, Cristina Celma, Roberto Vivancos, Gauri Godbole, Thomas Ward, Jonathon Mellor
 
 We include synthetic data and code for the main results for cases and deaths, but do not include hospitalisations as they were not modelled.
 
 Synthetic data for cases and deaths was generated using the [`synthpop`](https://cran.r-project.org/package=synthpop) R package (Nowok et al., 2016). Synthetic data were created to support the open-source running of the code and demonstration of the method. The synthetic data approximates key joint distributions in the source data, but does not exactly reproduce results obtained from the original data.
+
+
 
 
 ## /
@@ -16,7 +18,9 @@ Synthetic data for cases and deaths was generated using the [`synthpop`](https:/
 
 ## /data
 
-Contains synthetic data for MOLIS-deaths, MOLIS-SGSS-deaths and SGSS-deaths, as referred to in the paper. Columns in the data include:
+Contains synthetic data for MOLIS-deaths, MOLIS-SGSS-deaths and SGSS-deaths, as referred to in the main paper, and MOLIS and SGSS linked hospitalisations as detailed in the supplementary material section 2.
+
+Columns in the MOLIS-deaths, MOLIS-SGSS-deaths and SGSS-deaths data include:
 
 The individual-level case data requires the following columns:
 - `uid` - unique identifier per patient (in the synthetic data, each patient has exactly one row)
@@ -29,15 +33,27 @@ The individual-level case data requires the following columns:
 - `genotype` - genotype of norovirus specimen from MOLIS test result
 - `death_date` - date of death of patient, NA if no linked death
 
+For the linked hospitalisation data, `molis_hosp_arrival_synthetic.csv` and `sgss_hosp_arrival_synthetic.csv` refer to hospital admission spells that are linked to the nearest positive
+test result in time. `molis_hosp_noro_episode_synthetic.csv` refer hospital episodes with a norovirus diagnosis code that are linked to the nearest positive
+test result in time.
+
+Columns in these data include:
+
+- `specimen_date` - date specimen was taken for norovirus test
+- `specimen_to_arrival_days` - the number of days between hospital admission and specimen date: a positive (negative) number indicates admission occurred after (before) the specimen date
+- `specimen_to_episode_days` - only present in `molis_hosp_noro_episode_synthetic.csv`, the number of days between episode start date and specimen date: a positive (negative) number indicates episode started after (before) the specimen date
+
 ## /scripts
 
 Contains scripts to run case fatality models and generate descriptive results.
 
-Death threshold can be amended through the parameter `death_threshold` in the model run scripts to run the models using different linkage thresholds.
+Death threshold can be amended in the model run scripts to run the models using different linkage thresholds.
 
 ## /outputs
 
-Descriptive outputs and model outputs are saved in here. Folders are created from models with different death thresholds.
+This folder is created when scripts run.
+
+Contains descriptive outputs and outputs from models for different death thresholds.
 
 # References
 
